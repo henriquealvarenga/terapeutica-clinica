@@ -55,6 +55,38 @@ jobs:
       - name: Render Quarto
         run: quarto render
 
+      # O gabarito é renderizado normalmente, mas NÃO pode vazar:
+      # (1) o índice de busca (search.json) guarda o texto de todas as
+      #     páginas em texto puro — removemos as entradas do gabarito;
+      # (2) a página em si é cifrada com senha (StaticCrypt). Sem estes
+      #     dois passos, a senha seria inútil.
+      - name: Remover gabarito do índice de busca
+        run: |
+          python3 - <<'PY'
+          import json
+          p = "_site/search.json"
+          d = json.load(open(p, encoding="utf-8"))
+          n = len(d)
+          d = [e for e in d if not (
+                  str(e.get("href", "")).startswith("gabarito") or
+                  str(e.get("objectID", "")).startswith("gabarito"))]
+          json.dump(d, open(p, "w", encoding="utf-8"), ensure_ascii=False)
+          print(f"search.json: {n} -> {len(d)} entradas (removidas {n-len(d)} do gabarito)")
+          PY
+
+      - name: Cifrar o gabarito com senha (StaticCrypt)
+        env:
+          STATICRYPT_PASSWORD: ${{ secrets.GABARITO_PASSWORD }}
+        working-directory: _site
+        run: |
+          if [ -z "$STATICRYPT_PASSWORD" ]; then
+            echo "::error::Secret GABARITO_PASSWORD não definido. Crie em Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+          npx --yes staticrypt@3 gabarito.html --directory . --short
+          rm -f .staticrypt.json
+          echo "gabarito.html cifrado."
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 

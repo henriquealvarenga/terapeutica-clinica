@@ -12,6 +12,7 @@ project:
     - aula4.qmd
     - como-estudar.qmd
     - creditos.qmd
+    - professores.qmd
     - gabarito.qmd
     - "casos/*.qmd"
 
@@ -40,6 +41,9 @@ website:
         text: "Como estudar"
       - href: creditos.qmd
         text: "Créditos"
+    right:
+      - href: professores.qmd
+        text: "Professores"
   # 4 sidebars (uma por aula). Servem apenas como ÍNDICE de ordenação
   # para o Quarto gerar os botões Próximo/Anterior no rodapé. O sidebar
   # não é renderizado visualmente porque `page-layout: full` (abaixo)

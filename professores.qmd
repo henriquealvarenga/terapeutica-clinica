@@ -1,0 +1,23 @@
+---
+title: "Área dos professores"
+subtitle: "Material de apoio docente"
+toc: false
+---
+
+Esta área reúne o material de apoio para docentes que utilizam o módulo de Terapêutica Clínica em Saúde Mental. O conteúdo é destinado ao planejamento das aulas e à correção das atividades.
+
+::: {.callout-box}
+**O gabarito é protegido por senha.**
+
+A página do gabarito traz as respostas comentadas de todos os casos. O acesso é restrito a professores por meio de senha. Se você leciona com este material e ainda não tem a senha, solicite ao responsável pelo módulo.
+:::
+
+## Gabarito comentado
+
+As respostas seguem a numeração das questões de cada caso, com justificativa clínica e referências. Use-as como apoio à correção e à discussão em aula — não como roteiro fechado, já que muitos casos admitem mais de uma conduta defensável.
+
+[Acessar o gabarito](gabarito.html){.btn-read}
+
+## Como o módulo está organizado
+
+Cada aula apresenta uma classe de medicamento a partir de casos clínicos fictícios. O aluno estuda por conta própria, guiado pelo roteiro de perguntas, e ao final registra uma breve reflexão. A página [Como estudar](como-estudar.qmd) orienta o uso de IA, busca e bases científicas de forma crítica.
