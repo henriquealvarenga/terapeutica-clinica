@@ -1,0 +1,348 @@
+---
+title: "Gabarito — Terapêutica Clínica - Módulo Saúde Mental"
+subtitle: "Respostas comentadas para o professor"
+---
+
+::: {.aviso}
+Este documento é **exclusivamente para uso do professor**. Não deve ser compartilhado com alunos antes da avaliação. As respostas foram elaboradas com base nas diretrizes mais atuais e em literatura revisada por pares.
+:::
+
+---
+
+# Aula 1 — O resgate rápido: Benzodiazepínicos
+
+## Caso 1.1 — Marina, 28 anos (transtorno de pânico)
+
+### Questão 1
+**P: O que é uma crise (ou ataque) de pânico segundo o DSM-5-TR? Liste os sintomas e note quantos são necessários para o diagnóstico do ataque.**
+
+**R:** 
+Um ataque de pânico é um episódio de medo ou desconforto intensos com início abrupto, durante o qual pelo menos 4 dos 13 sintomas listados ocorrem:
+- Palpitações, taquicardia
+- Sudorese
+- Tremores
+- Sensação de asfixia ou falta de ar
+- Dor ou desconforto torácico
+- Náusea ou desconforto abdominal
+- Tontura ou desmaio
+- Desrealização ou despersonalização
+- Medo de perder o controle ou morrer
+- Calafrios ou ondas de calor
+- Formigamento ou dormência
+- Sensação de morte iminente
+
+Marina apresenta: palpitações, falta de ar, formigamento nas mãos, tontura e medo de morrer — **5 sintomas**, acima dos 4 necessários.
+
+**Ponto de ensino:** Muitos alunos confundem "ter um ataque de pânico" com "ter transtorno de pânico". Um ataque é isolado; o transtorno é a recorrência e a ansiedade antecipatória (medo de ter outra crise).
+
+---
+
+### Questão 2
+**P: Qual a diferença entre ataque de pânico e transtorno de pânico? Marina tem qual dos dois? Por quê?**
+
+**R:**
+- **Ataque de pânico** — um episódio isolado que pode ocorrer em qualquer pessoa sob estresse; é um sintoma, não um diagnóstico.
+- **Transtorno de pânico** — diagnóstico do DSM-5-TR que requer ataques recorrentes (não esperados) + medo persistente de ter outro ataque + mudanças de comportamento para evitar desencadeadores.
+
+Marina tem **ambos**: um ataque agudo (o que a trouxe ao PS) e, pela história de "três vezes em dois meses" + a pergunta "e se acontecer de novo na rua?", sinais de **transtorno de pânico em desenvolvimento** (talvez em fase inicial, ainda sem preencher todos os critérios de duração). Isso torna o caso pedagogicamente rico: você pode ensinar tanto manejo agudo quanto estratégia de longo prazo.
+
+---
+
+### Questão 3
+**P: Antes de atribuir tudo ao pânico, que diagnósticos diferenciais orgânicos precisam ser considerados?**
+
+**R:**
+O diferencial de pânico é amplo:
+
+| Sistema | Diagnósticos a descartar |
+|---------|--------------------------|
+| **Cardíaco** | Infarto, miocardite, arritmia, estenose aórtica |
+| **Pulmonar** | Embolia pulmonar, pneumotórax, asma aguda |
+| **Endócrino** | Hipertireoidismo, feocromocitoma, hipoglicemia |
+| **Neurológico** | Acidente vascular, síndrome do pânico secundária |
+| **Metabólico** | Hipocalemia, hipóxia, hiperventilação |
+
+**Por que o ECG e troponina foram pedidos:** No PS, é impossível descartar infarto apenas pela história. O ECG pode mostrar isquemia ou arritmia; a troponina (marcador de necrose miocárdica) pode ser normal ou elevada. Se ambos normais após 3–4 horas, infarto é improvável. Esse é o "padrão ouro" prático no PS para alguém com dor torácica/palpitações.
+
+**Achado clínico importante:** Todos os achados neste caso (ECG normal, troponina normal, exame físico focal ao pânico) apontam para **causa psiquiátrica**, não orgânica — mas só após exclusão, não antes.
+
+---
+
+### Questão 4
+**P: Um benzodiazepínico de início rápido poderia abortar a crise. Mas, dado que a crise cede sozinha em ~30 min, quais os argumentos contra dar BZD de rotina?**
+
+**R:**
+**Argumentos contra BZD de rotina em pânico:**
+
+1. **A crise é autolimitada** — 20–40 min é a história natural. O BZD não "salva", apenas anticipa a melhora que já viria.
+2. **Reforço comportamental negativo** — dar um remédio que "funciona" ensina ao paciente (e ao cérebro) que ele precisa de uma substância para controlar a ansiedade. Isso aumenta a ansiedade *antecipatória* (medo de ficar sem o remédio).
+3. **Dependência** — BZD de uso repetido gera tolerância e dependência, especialmente em transtornos de ansiedade crônica. Marina pode querer "carregar um comprimido" ("e se acontecer na rua?") — o que inicia um ciclo.
+4. **Mascara o tratamento real** — transtorno de pânico responde a ISRS + psicoterapia (TCC). Um BZD pode adiar essa abordagem.
+
+**Nuance clínica:** Um benzodiazepínico *muito breve* (p. ex., lorazepam 1 mg no PS, única dose) **não** causa dependência e pode reduzir o sofrimento no momento. O problema é o uso repetido.
+
+---
+
+### Questão 5
+**P: Qual seria o tratamento de fundo mais adequado para o transtorno de pânico?**
+
+**R:**
+**Primeira linha:** ISRS (fluoxetina, sertralina, escitalopram) conforme recomendado pelas diretrizes (APA, NICE). Latência de 2–4 semanas para redução significativa das crises.
+
+**Segunda linha:** TCC (terapia cognitivo-comportamental), particularmente focada em **exposição gradual** a sensações corporais (técnicas de hiperventilação controlada) e correção de crenças catastróficas ("meu coração vai parar").
+
+**Alternativa:** Combinação de ISRS + TCC é superior a qualquer um isolado.
+
+**Não é primeira linha:** Benzodiazepínicos contínuos (são para emergência, não para manutenção). Betabloqueadores (tratam apenas os sintomas somáticos, não a ansiedade).
+
+---
+
+### Questão 6
+**P: Que orientação não-farmacológica você daria a Marina no PS?**
+
+**R:**
+1. **Psicoeducação:** Explicar que o que ela viveu é um ataque de pânico — reconhecível, previsível e **autolimitado**. Conhecer o mecanismo (hiperventilação → hipocapnia → parestesias → mais medo) reduz o medo da próxima crise.
+2. **Técnica de respiração:** Respiração lenta e diafragmática (4 segundos inspire, 6 segundos expire) reduz o alvoroço do sistema nervoso.
+3. **Postura cognitiva:** "Isto vai passar. Não estou tendo infarto. Meu corpo está em alarme falso."
+4. **Planejamento:** Encaminhar para avaliação ambulatorial com psicólogo/psiquiatra para TCC e ISRS.
+5. **O que **não** fazer:** Não "apenas relaxar" ou evitar situações; isso reforça que as crises são perigosas.
+
+---
+
+## Caso 1.2 — Seu Antônio, 54 anos (abstinência alcoólica)
+
+### Questão 1
+**P: Explique, em termos de GABA e glutamato, por que o cérebro entra em hiperexcitabilidade ao parar de beber.**
+
+**R:**
+O álcool é um **potencializador GABAérgico** (ativa o freno do SNC) e um **antagonista de glutamato** (bloqueia a aceleração do SNC). Com uso crônico, o cérebro se adapta: reduz receptores GABA e aumenta receptores de glutamato para compensar a "frenagem" constante.
+
+Quando o álcool é retirado abruptamente:
+- O freio GABAérgico enfraquece (menos GABA, menos receptores).
+- O acelerador glutamatérgico fica sem oposição (muitos receptores, muito glutamato).
+- **Resultado:** hiperexcitabilidade — tremores, agitação, taquicardia, alucinações, possível convulsão.
+
+O benzodiazepínico **substitui funcionalmente o GABA que falta**, restaurando o equilíbrio até o cérebro se readaptar (dias a semanas).
+
+---
+
+### Questão 2
+**P: Qual é a janela de tempo típica para o início dos sintomas de abstinência? E para convulsão e delirium tremens?**
+
+**R:**
+| Evento | Tempo após última dose |
+|--------|------------------------|
+| Tremor, sudorese, agitação (leve) | 6–12 horas |
+| Alucinações auditivas/visuais | 12–24 horas |
+| Convulsões de abstinência | **6–48 horas** (pico: 12–24h) |
+| Delirium tremens (agitação, confusão, alucinações visuais aterradora) | 48–96 horas |
+
+Seu Antônio está em **14 horas** — já entrou na janela de alucinações (as "sombras" que viu) e está em risco iminente de convulsão. É uma emergência real.
+
+**Ponto de ensino:** Muitos alunos subestimam a abstinência alcoólica porque pensam em "ressaca". Abstinência grave mata — por convulsão, por delirium tremens com arritmia ou queda, por aspiração.
+
+---
+
+### Questão 3
+**P: O que mede a escala CIWA-Ar? Cite ao menos cinco itens. Por que dosar o BZD pelos sintomas funciona?**
+
+**R:**
+**O que mede:** Severidade da abstinência em 10 itens escalados de 0–67 pontos.
+
+**Cinco itens:**
+1. Tremor (dorso da mão)
+2. Sudoração
+3. Ansiedade
+4. Agitação psicomotora
+5. Cefaleia ou dor corporal
+(Também inclui: nausea/vômito, alucinações, sensação de formigamento, distúrbios auditivos, orientação/confusão.)
+
+**Por que symptom-triggered é melhor:**
+- Cada paciente tem tolerância diferente — uns precisam de mais, outros de menos.
+- Dosar por sintomas (p. ex., dar 2 mg lorazepam se CIWA-Ar ≥ 8, reavalia a cada 1–2 h) evita sobredose em quem não precisa e subdose em quem precisa. Reduz a duração total da medicação.
+- Fixa-se dosagem por escore, não por arbitrariedade.
+
+**No caso de Seu Antônio (CIWA-Ar 17):** indicação clara de benzodiazepínico de imediato, provavelmente em dose mais agressiva (ex.: 10 mg diazepam IV ou 4 mg lorazepam IM, depois symptom-triggered).
+
+---
+
+### Questão 4
+**P: Diazepam, lorazepam e clordiazepóxido são todos usados. Em que situação lorazepam é preferível ao diazepam?**
+
+**R:**
+**Diazepam:**
+- Metabolismo hepático ativo → múltiplos metabolitos ativos → meia-vida longa (20–70 h).
+- **Problema:** Em hepatopatas ou idosos, acumula; risco de sedação prolongada.
+- **Vantagem:** Meia-vida longa garante cobertura mesmo com doses espaçadas.
+
+**Lorazepam:**
+- Conjugação hepática (não oxidação) → sem metabolitos ativos → meia-vida curta (10–20 h).
+- **Vantagem:** Não acumula em hepatopatas ou idosos — metabolismo não depende da função hepática.
+- **Problema:** Meia-vida curta requer dosagem mais frequente.
+
+**Resposta direta:** Lorazepam é preferível em **pacientes com doença hepática avançada** (cirrose, hepatite, insuficiência), em **idosos**, ou quando se quer evitar acúmulo.
+
+**Contexto clínico:** Seu Antônio provavelmente tem doença hepática (consumo crônico de álcool) — lorazepam seria a escolha mais segura.
+
+---
+
+### Questão 5
+**P: Por que não usar apenas um betabloqueador ou clonidina para controlar taquicardia/pressão?**
+
+**R:**
+Betabloqueadores (propranolol) e clonidina reduzem **sintomas hemodinâmicos** (FC, PA) mas **não tratam a hiperexcitabilidade neurológica**. Eles mascaram o tremor, a agitação e — fatalmente — **não previnem convulsões** nem delirium tremens, que são mediados por glutamato e GABA, não por sistema simpático.
+
+Usar betabloqueador sozinho é uma falsa segurança — o paciente fica calmo na aparência mas continua em risco de convulsão.
+
+**Exceção:** Alguns protocolos usam betabloqueador *como adjuvante* (complementar) a um benzodiazepínico, para controlar taquicardia refratária. Mas nunca substitui o BZD.
+
+---
+
+### Questão 6
+**P: Além do BZD, que outras medidas são essenciais na abstinência alcoólica?**
+
+**R:**
+1. **Tiamina (vitamina B1):** Sua Antônio provavelmente está deficiente (álcool prejudica absorção e metabolismo). A deficiência causa síndrome de Wernicke (confusão, ataxia, oftalmoplesia) → Korsakoff (amnésia irreversível). **Regra de ouro:** sempre dar tiamina ANTES de glicose IV em alcoolistas (a glicose sozinha consome tiamina e piora Wernicke).
+2. **Fluidos IV e eletrólitos:** Reposição de água, sódio, potássio, magnésio (todos esgotados).
+3. **Monitorização de sinais vitais, nível de consciência e CIWA-Ar:** de 1–2 em 1–2 horas.
+4. **Ambiente seguro:** isolamento em UTI ou enfermaria tranquila (alucinações pioram com estímulos).
+5. **Tratamento de comorbidades:** pancreatite, gastrite, hepatite induzida por álcool.
+6. **Oferecimento de medicamento para o uso de álcool:** naltrexona ou acamprosato, quando estável.
+
+---
+
+### Questão 7
+**P: Seu Antônio minimizou o consumo. Que lição isso traz sobre anamnese?**
+
+**R:**
+**A lição:** Sempre perguntar sobre álcool **diretamente e sem julgamento** antes de internação, cirurgia ou diagnóstico de qualquer problema neuropsiquiátrico. Pacientes frequentemente minimizam consumo por vergonha, ou porque não consideram "sociale socialmente" como "problema".
+
+**Técnica de anamnese melhorada:**
+- "Quantas doses de álcool você bebe por semana?" (em vez de "você bebe?")
+- "Nos últimos 3 meses, teve algum dia sem beber?" (avalia dependência)
+- "Alguém já se preocupou com seu consumo?"
+- Considerar **AUDIT** (Alcohol Use Disorders Identification Test), 10 perguntas rápidas, para rastreio.
+
+**Consequência clínica:** Se a equipe tivesse sabido que Seu Antônio bebe regularmente, teriam planejado **profilaxia de abstinência** (tiamina + benzodiazepínico preventivo) desde a internação, evitando a crise de 14 horas.
+
+---
+
+## Caso 1.3 — Júlia, 35 anos (reação aguda ao estresse / insônia aguda)
+
+### Questão 1
+**P: Diferencie reação aguda ao estresse, transtorno de estresse agudo e TEPT quanto ao tempo.**
+
+**R:**
+| Diagnóstico | Duração | Sintomas | Quando começa |
+|-------------|---------|----------|---------------|
+| **Reação aguda ao estresse** | Minutos a horas | Desorientação, dissociação, reexperiência leve | Imediatamente após evento |
+| **Transtorno de estresse agudo (TEA)** | 3 dias a 1 mês | Sintomas intrusivos, evitação, hiperativação, dissociação | Dentro de 3 dias do evento |
+| **TEPT** | > 1 mês | Idem, mas mais consolidados | Após 1 mês do evento |
+
+**Júlia, 2 dias após o acidente:** está em **TEA em desenvolvimento** (tecnicamente ainda é "reação aguda" ou "início de TEA"). Os sintomas (insônia, reexperiência, hipervigilância, desrealização) satisfazem critérios de TEA.
+
+---
+
+### Questão 2
+**P: A insônia de Júlia é aguda com gatilho claro. Quais os argumentos a favor e contra prescrever BZD por poucos dias?**
+
+**R:**
+**A favor:**
+- A insônia aguda causa sofrimento real; dormir ajuda o processamento emocional.
+- Uma ou duas noites medicadas (ex.: 1–2 mg lorazepam) não causa dependência.
+- Pode quebrar o ciclo de privação de sono → pior ansiedade → mais insônia.
+
+**Contra:**
+- Há risco (ainda debatido, mas importante) de que BZD **logo após trauma** interfira no processamento da memória traumática — potencialmente aumentando risco de TEPT.
+- Mensagem comportamental: "quando estou ansiosa, tomo um remédio" pode estabelecer padrão maladaptativo.
+- A insônia aguda é *esperada* após trauma; é o cérebro processando. Medicá-la rotineiramente pode ser "over-treatment".
+
+**Posição atual das diretrizes:** A maioria evita benzodiazepínicos sistemáticos no início do TEPT. Se insônia grave, outras opções são preferidas (melatonina, trazodona), ou BZD muito brevemente (máximo 2–3 noites).
+
+---
+
+### Questão 3
+**P: Há evidência de que BZD logo após trauma aumente risco de TEPT ou prejudique recuperação?**
+
+**R:**
+**Achado controverso, mas consistente:** Vários estudos observacionais associam uso de BZD na fase aguda de trauma com **pior prognóstico** (mais TEPT, mais sintomas). Dois mecanismos propostos:
+
+1. **Bloqueio de consolidação emocional:** A ansiedade/medo no momento do trauma é parte do processo de aprendizado que resolve a memória. BZD reduz essa ansiedade, potencialmente deixando a memória "não resolvida".
+2. **Reforço de evitação:** O alívio rápido do BZD reforça evitar / medicar em vez de processar.
+
+**Nuance importante:** A evidência é observacional (não é randomizada controlada), então pode haver confusão (quem toma BZD talvez tenha mais sintomas graves inicialmente). Mas a cautela é justificada.
+
+**Implicação clínica para Júlia:** Evitar BZD. Optar por higiene do sono, psicoeducação, e se necessário, melatonina ou trazodona (que não têm o mesmo risco).
+
+---
+
+### Questão 4
+**P: Que medidas de higiene do sono e psicológicas você ofereceria?**
+
+**R:**
+**Higiene do sono:**
+- Quarto escuro, silencioso, fresco (~18 °C).
+- Sem telas 1 h antes de dormir (luz azul interfere em melatonina).
+- Evitar álcool (mesmo que pareça relaxar, piora o sono REM).
+- Não ficar "tentando" dormir — se não dorme em 20 min, sair do quarto e fazer algo calmo.
+
+**Psicológicas:**
+- **Psicoeducação:** Explicar que insônia pós-trauma é normal, transitória, e que o corpo está em hipervigilância — *esperado*.
+- **Mindfulness / respiração:** Técnicas de atenção no momento presente reduzem revivência.
+- **Exposição gradual:** Se há medo específico (p. ex., dirigir de novo), planejá-lo com calma.
+- **Apoio social:** Estar com pessoas de confiança reduz isolamento.
+
+**Quando oferecer medicação:** Se insônia persistir além de 1–2 semanas E impedir funcionamento (trabalho, cuidados básicos), considerar melatonina (2–5 mg) ou trazodona (50–100 mg), não BZD.
+
+---
+
+### Questão 5
+**P: Se prescrevesse BZD, que cuidados na orientação evitariam cronificação?**
+
+**R:**
+1. **Duração clara:** "Isto é por 3 noites apenas." Colocar no papel, com data de término.
+2. **Desmame planejado:** Reduzir meia dose a cada noite, não parar abruptamente.
+3. **Mensagem:** "Este é um suporte temporário enquanto seu corpo se recupera. Você *não* precisa disso a longo prazo."
+4. **Monitorização:** Retorno em 1 semana para avaliar se está dormindo sem o remédio.
+5. **Oferta de alternativa:** "Se ainda não está dormindo, vamos tentar [melatonina/trazodona] em vez de continuar o BZD."
+6. **Encaminhamento:** Psicólogo para acompanhamento (TCC para TEPT é gold standard).
+
+---
+
+### Questão 6
+**P: Por que se diz que BZD "trata o sintoma, não a causa"?**
+
+**R:**
+- **Causa** da insônia de Júlia: reação cerebral normal a trauma — memória traumática não processada, sistema de medo hiperativo.
+- **Sintoma:** insônia.
+- BZD reduz a **ativação do SNC** (tira a insônia), mas não **processa a memória traumática**. Quando o BZD acaba, a reação continua.
+
+**O que trata a causa:** Psicoterapia específica — **EMDR** (eye movement desensitization and reprocessing) ou **TCC-TEPT** — que reorganiza a memória traumática. Isso cura; BZD só alivia.
+
+**Analogia:** É como tomar dipirona para febre em uma infecção. O remédio baixa a febre (sintoma), mas não mata a bactéria (causa). Sem antibiótico, a infecção volta.
+
+---
+
+## Resumo pedagógico da Aula 1
+
+**Benzodiazepínicos são a arma certa para o momento errado se usados chronicamente.** Em todos os três casos (Marina, Seu Antônio, Júlia), o BZD pode ajudar *acutamente*, mas a estratégia a longo prazo é diferente em cada um:
+
+- **Marina (pânico):** BZD no PS ok; tratamento real é ISRS + TCC (Aula 2).
+- **Seu Antônio (abstinência):** BZD é **primeira linha** — absolutamente necessário, salva vidas.
+- **Júlia (trauma):** BZD é o que se quer **evitar** — psicoterapia é o que resolve.
+
+Essa gradação ensina que o mesmo medicamento em classes diferentes de pacientes tem papéis completamente distintos. Não existe "o remédio"; existe "o remédio certo neste momento para este paciente".
+
+---
+
+# [CONTINUA PARA AULAS 2, 3, 4...]
+
+[O restante do gabarito seguiria a mesma estrutura: 3 casos por aula, 6–8 questões por caso, respostas comentadas diretas, pontos de ensino em destaque.]
+
+**NOTAS PARA O COWORK:**
+- Este template é para a **Aula 1 completa**. As Aulas 2, 3 e 4 devem seguir a mesma lógica, mas com conteúdo específico (ISRS, bipolar, antipsicóticos).
+- Cada resposta deve ser **verificável em fonte confiável** antes de ser escrita.
+- Use Claude/ChatGPT para *estruturar*, mas não como verdade final.
+- As reflexões sobre "pontos de ensino" (avisar erros comuns, destacar nuances) são tão importantes quanto as respostas factuais.
+
+---

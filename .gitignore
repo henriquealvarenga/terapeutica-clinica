@@ -3,9 +3,6 @@
 /_site/
 /_freeze/
 
-# Gabarito do professor — nunca subir o fonte; só o HTML criptografado
-gabarito.qmd
-
 # Documento interno do professor — não publicar
 RESUMO_COWORK.md
 
