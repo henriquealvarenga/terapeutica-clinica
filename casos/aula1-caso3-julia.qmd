@@ -1,0 +1,25 @@
+---
+title: "Caso 1.3 — A noite depois do acidente"
+subtitle: "Júlia, 35 anos · Reação aguda ao estresse e insônia"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">REAÇÃO AGUDA AO ESTRESSE · INSÔNIA AGUDA</span>
+
+Há dois dias Júlia se envolveu em um acidente de carro do qual saiu fisicamente ilesa, mas no qual presenciou um pedestre ser gravemente ferido. Desde então, não consegue dormir mais que uma ou duas horas por noite, revive a cena ao fechar os olhos, está hipervigilante, sobressalta-se com barulhos e descreve uma sensação de irrealidade. Procura a UBS exausta, pedindo "alguma coisa para dormir e para os nervos". Não tem histórico psiquiátrico nem uso de substâncias.
+:::
+
+## Reflexão
+
+Há boas razões para um uso *muito breve* para o sofrimento e a insônia agudos — e há evidências preocupantes de que o uso de BZD logo após o trauma pode até atrapalhar a recuperação emocional e a consolidação do que o paciente precisa elaborar. Avalie a relação entre alívio de curtíssimo prazo × risco de cronificação e de interferir no processamento do trauma.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Diferencie **reação aguda ao estresse**, **transtorno de estresse agudo** e **transtorno de estresse pós-traumático (TEPT)** quanto ao tempo de evolução. Em qual desses quadros Júlia provavelmente está, dois dias após o evento?
+2. A insônia de Júlia é aguda e tem um gatilho claro. Quais são os argumentos a favor de prescrever um hipnótico (BZD ou similar) por poucos dias? Quais os argumentos contra prescrever por semanas?
+3. Pesquise: há evidência de que o uso de benzodiazepínicos no período logo após o trauma possa aumentar o risco de desenvolver TEPT ou prejudicar a recuperação? O que isso sugere sobre a decisão no caso de Júlia?
+4. Que medidas de higiene do sono e de suporte psicológico inicial você ofereceria a Júlia antes ou ao lado de qualquer medicação?
+5. Se você decidisse medicar a insônia por poucos dias, que cuidados na orientação evitariam que o "remédio para dormir" virasse um uso contínuo de meses? Como você combinaria a duração com a paciente?
+6. Compare brevemente: por que se costuma dizer que os BZD "tratam o sintoma, não a causa" em quadros como o de Júlia? O que seria tratar a causa aqui?
+:::

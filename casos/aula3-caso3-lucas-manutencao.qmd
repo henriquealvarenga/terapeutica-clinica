@@ -1,0 +1,24 @@
+---
+title: "Caso 3.3 — Ficar bem e continuar bem"
+subtitle: "Lucas, um ano depois · Manutenção e adesão"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">MANUTENÇÃO · ADESÃO</span>
+
+Estável há meses, Lucas está trabalhando e retomou os estudos. Numa consulta, comenta que pensou em parar a medicação: *"agora que estou bem, para que continuar? Não gosto de sentir que dependo de remédio, e ganhei peso."* Pergunta sinceramente o que aconteceria se simplesmente parasse.
+:::
+
+## Refexão
+
+A fase de manutenção é onde se decide o futuro de longo prazo do paciente — e onde a maior parte das recaídas acontece, geralmente por **abandono do tratamento**. O caso mostra que paciente que está bem questiona o remédio justamente *porque* está bem. É também a oportunidade de discutir que tratamento não é só química: envolve adesão, efeitos colaterais que pesam na vida real (peso, cognição), e a relação médico-paciente.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Por que o transtorno bipolar costuma exigir tratamento de **manutenção prolongado**, mesmo com o paciente assintomático? O que a história natural da doença mostra sobre recaídas?
+2. Quais medicamentos têm papel consolidado na prevenção de recaídas? Destaque o papel do lítio, inclusive seu efeito sobre o risco de suicídio.
+3. O argumento de Lucas ("estou bem, então não preciso mais") tem uma falha lógica importante. Qual? (Compare com hipertensão ou diabetes: o paciente está bem *porque* trata.)
+4. O ganho de peso e outros efeitos colaterais são causas frequentes de abandono. Como você abordaria isso com Lucas sem simplesmente dizer "continue tomando"? Que ajustes são possíveis?
+5. O que é psicoeducação no transtorno bipolar e por que ela é considerada parte do tratamento, não um complemento opcional? Como reconhecer sinais precoces de recaída pode dar autonomia ao paciente?
+:::

@@ -1,0 +1,30 @@
+---
+title: "Caso 2.1 — O cansaço que não passa"
+subtitle: "Roberto, 42 anos · Depressão maior"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">DEPRESSÃO MAIOR</span>
+
+Roberto, professor, chega ao consultório levado pela esposa. Há cerca de quatro meses "não é mais o mesmo": perdeu o interesse pelas coisas de que gostava, dorme mal (acorda às 4h e não volta a dormir), emagreceu sem querer, sente-se inútil e culpado, tem dificuldade de concentração que está afetando o trabalho. Diz, baixinho, que às vezes pensa que "seria melhor não acordar". Nega plano específico. Não há uso de substâncias; exames de tireoide e hemograma normais.
+:::
+
+## Reflexão
+
+A depressão maior é o caso-modelo do ISRS. Três detalhes a serem analisados: (1) a melhora demora, e o paciente precisa ser preparado para isso ou abandona o tratamento; (2) há risco de suicídio, que exige avaliação ativa e cuidado especial nas primeiras semanas; (3) os primeiros efeitos que o paciente sente costumam ser os colaterais, não a melhora — o que testa a aliança terapêutica.
+
+::: {.aviso}
+Este caso menciona ideação suicida. É um tema sensível e central na psiquiatria. O foco do estudo aqui é clínico: como avaliar e como o tratamento se relaciona com o risco. Se o assunto mobilizar você pessoalmente, converse com alguém de confiança ou procure apoio — no Brasil, o CVV atende em **188**.
+:::
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Quais são os critérios do DSM-5 e da CID-11 para episódio depressivo maior? Identifique no caso de Roberto cada sintoma presente. Quantos são necessários e por quanto tempo?
+2. Por que se pede TSH e hemograma antes de fechar o diagnóstico? Que condições orgânicas podem mimetizar depressão?
+3. Explique a latência de resposta dos ISRS. Se a serotonina aumenta em horas, por que a melhora leva semanas? O que essa demora sugere sobre o mecanismo real do efeito antidepressivo?
+4. Quais são os efeitos adversos mais comuns dos ISRS nas primeiras semanas? Por que é importante avisar o paciente antes de começar?
+5. Existe uma preocupação clássica sobre **aumento transitório do risco de suicídio** no início do tratamento, sobretudo em jovens. Pesquise a hipótese explicativa (energia/iniciativa retornando antes do humor) e o que isso implica para o acompanhamento das primeiras semanas.
+6. Quanto tempo se deve manter o ISRS após a melhora de um primeiro episódio depressivo? Por que não se suspende assim que o paciente "fica bem"? O que é uma recaída e como ela difere de uma recorrência?
+7. Como um ISRS deve ser retirado ao fim do tratamento? O que é a síndrome de descontinuação e por que a paroxetina é particularmente associada a ela?
+:::

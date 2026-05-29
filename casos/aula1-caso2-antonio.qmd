@@ -1,0 +1,34 @@
+---
+title: "Caso 1.2 — Doze horas sem beber"
+subtitle: "Seu Antônio, 54 anos · Abstinência alcoólica"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">ABSTINÊNCIA ALCOÓLICA</span>
+
+O Sr. Antônio é internado para uma cirurgia eletiva de hérnia. Na anamnese, minimiza o consumo de álcool ("bebo socialmente"). Cerca de 14 horas após a internação — e, portanto, sem álcool desde a véspera — a equipe de enfermagem o encontra agitado, tremendo as mãos de forma visível, suando muito, com FC 110 e pressão 160/95. Ele está irritado, um pouco confuso sobre onde está, e relata "umas sombras" passando pelo quarto.
+
+A enfermeira aplica a escala **CIWA-Ar** e obtém pontuação 17.
+:::
+
+## Reflexão
+
+Aqui o benzodiazepínico é o tratamento que previne complicações graves, incluindo convulsões e o *delirium tremens*. A abstinência alcoólica é, em essência, o oposto químico da intoxicação: o álcool potencializa o GABA (inibição) e bloqueia o glutamato (excitação); retirado bruscamente após uso crônico, o cérebro fica num estado de hiperexcitabilidade. O BZD funciona porque devolve o estímulo GABAérgico que o cérebro perdeu — é farmacologicamente lógico.
+
+::: {.callout-box}
+**A escala CIWA-Ar**
+
+A *Clinical Institute Withdrawal Assessment for Alcohol, revised* é uma escala de 10 itens que quantifica a gravidade da abstinência e **orienta a dose** de benzodiazepínico. Em muitos protocolos, a medicação é guiada pelos sintomas (*symptom-triggered*): quanto maior o escore, mais medicação. As diretrizes da ASAM (2020) consideram os BZD o tratamento de primeira linha para abstinência moderada (CIWA-Ar ~10–18) e grave (≥19). [Calculadora e explicação da CIWA-Ar (MDCalc)](https://www.mdcalc.com/calc/1736/ciwa-ar-alcohol-withdrawal).
+:::
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Explique, em termos de GABA e glutamato, por que o cérebro de quem bebe cronicamente entra em hiperexcitabilidade ao parar de beber. Por que faz sentido tratar isso com um remédio GABAérgico?
+2. Qual é a janela de tempo típica para o início dos sintomas de abstinência? E para a convulsão de abstinência e para o *delirium tremens*? Por que reconhecer a janela é importante na enfermaria?
+3. O que mede a escala CIWA-Ar? Cite ao menos cinco dos itens. Por que dosar o BZD pelos sintomas (*symptom-triggered*) pode ser melhor do que uma dose fixa para todos?
+4. Diazepam, lorazepam e clordiazepóxido são todos usados na abstinência. Em que situação o lorazepam é preferível ao diazepam?
+5. Por que não se deve usar apenas um betabloqueador ou clonidina para controlar a taquicardia e a pressão e dispensar o benzodiazepínico? O que esses fármacos mascaram sem tratar?
+6. Além do BZD, que outras medidas de suporte são essenciais na abstinência alcoólica? (Pense em tiamina e por que ela deve preceder a glicose — pesquise síndrome de Wernicke.)
+7. Seu Antônio minimizou o consumo. Que lição isso traz sobre a anamnese de uso de álcool antes de qualquer internação ou cirurgia?
+:::

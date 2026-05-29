@@ -1,0 +1,187 @@
+---
+title: "Créditos"
+subtitle: "Autor, metodologia, licença e como citar"
+toc: true
+number-sections: false
+---
+
+# Créditos {.unnumbered}
+
+## Autor
+
+**Henrique Alvarenga da Silva**
+
+Médico psiquiatra. Professor de Psiquiatria do Curso de Medicina da Universidade Federal de São João del-Rei (UFSJ) e professor do curso de Medicina do UNIPTAN/AFYA Educacional. Especialista em Psiquiatria e Psicopatologia, com foco em metodologia de pesquisa e educação médica baseada em evidências. Mestre em Educação Médica.
+
+::: {.contact-links}
+[🌐 Site pessoal](https://www.henriquealvarenga.com){.contact-link}
+[📧 E-mail](mailto:henriquealvarenga@ufsj.edu.br){.contact-link}
+[🆔 ORCID](https://orcid.org/0000-0001-9799-5240){.contact-link}
+[📚 GitHub](https://github.com/henriquealvarenga){.contact-link}
+:::
+
+::: {.about-section}
+## Sobre este material
+
+Este conjunto de aulas faz parte da disciplina de **Terapêutica Clínica** do Curso de Medicina da UFSJ e foi pensado para estudantes do ciclo clínico em seu primeiro contato estruturado com a farmacologia dos transtornos mentais. 
+:::
+
+::: {.about-section}
+## Metodologia e tecnologias
+
+Este recurso foi construído usando ferramentas de código aberto e ciência aberta:
+
+::: {.tech-stack}
+::: {.tech-item}
+#### Escrita & Estrutura
+**Quarto** — Sistema de publicação científica
+**Markdown** — Linguagem de marcação
+**BibTeX** — Gerenciamento bibliográfico
+:::
+
+::: {.tech-item}
+#### Desenvolvimento
+**Positron IDE** — Ambiente integrado
+**Git/GitHub** — Controle de versão
+**GitHub Actions** — Publicação automática
+:::
+
+::: {.tech-item}
+#### Pesquisa clínica
+**PubMed** — Base bibliográfica
+**Diretrizes ASAM, CANMAT/ISBD, INTEGRATE, APA** — Consensos atuais
+**DSM-5-TR · StatPearls** — Critérios e revisões
+:::
+
+::: {.tech-item}
+#### Design
+**CSS** — Interface responsiva
+**Tema editorial** — Tipografia serif/sans
+**Self-hosted fonts** — Playfair, Inter, JetBrains Mono
+:::
+:::
+
+### Inteligência artificial
+
+O desenvolvimento contou com auxílio de IA generativa:
+
+- **Claude** (Anthropic) — assistência na estruturação dos casos clínicos, no código CSS e na organização bibliográfica
+- **Busca assistida** — verificação de diretrizes atuais e literatura recente
+
+::: {.callout-note}
+## Transparência sobre uso de IA
+
+A IA foi utilizada como ferramenta de apoio, não substituto do trabalho intelectual. Todo fato clínico — doses, indicações, contraindicações, primeira linha — foi conferido em diretriz, livro-texto ou artigo revisado por pares. Todas as referências foram validadas individualmente. A responsabilidade pelo conteúdo final é integralmente do autor.
+:::
+:::
+
+::: {.about-section}
+## Repositório e colaboração
+
+O código-fonte está disponível publicamente:
+
+🔗 **Repositório:** [github.com/henriquealvarenga/terapeutica-clinica](https://github.com/henriquealvarenga/terapeutica-clinica)
+
+Contribuições são bem-vindas via *issues* ou *pull requests*, especialmente:
+
+- Correções clínicas ou bibliográficas
+- Sugestões de novos casos ou variações
+- Atualizações conforme diretrizes mais recentes
+- Melhorias na interface e na acessibilidade
+- Apontamentos pedagógicos e revisões
+:::
+
+::: {.about-section}
+## Sobre os casos clínicos
+
+Todos os pacientes apresentados nas quatro aulas — Marina, Seu Antônio, Júlia, Roberto, Carla, Luísa, e os demais — são **fictícios**. Os quadros foram construídos para serem clinicamente realistas e didaticamente úteis: cada um ilustra um problema típico em que a classe de medicamento estudada é a escolha apropriada, e cada um carrega pelo menos uma dificuldade — uma decisão, um conflito entre o que parece óbvio e o que as diretrizes recomendam.
+
+Nenhum caso reproduz história clínica real. Qualquer semelhança com pacientes específicos é coincidência. Nada aqui constitui orientação de prescrição para situações reais — as condutas devem sempre ser confirmadas em diretrizes atualizadas e em supervisão clínica.
+:::
+
+::: {.about-section}
+## Dados de publicação
+
+| Campo                                 | Informação |
+|---------------------------------------|-----------|
+| **Título**                            | Terapêutica Clínica - Módulo Saúde Mental |
+| **Subtítulo**                         | Aprendizagem baseada em casos clínicos |
+| **Edição**                            | 1ª edição |
+| **Ano**                               | 2026 |
+| **Editor**                            | Edição do Autor — Henrique Alvarenga da Silva |
+| **Afiliação institucional do autor**  | UFSJ — Universidade Federal de São João del-Rei, Curso de Medicina |
+| **Local**                             | São João del-Rei, MG, Brasil |
+| **Formato**                           | Material didático online (HTML) |
+| **URL canônica**                      | <https://henriquealvarenga.com/terapeutica-clinica> |
+
+: Ficha bibliográfica {.striped tbl-colwidths="[35,65]"}
+:::
+
+::: {.about-section}
+## Licenciamento
+
+Este trabalho está licenciado sob **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+
+**Você pode:**
+
+- **Compartilhar** — copiar e redistribuir o material
+- **Adaptar** — remixar, transformar e criar a partir do material
+
+**Sob as condições:**
+
+- **Atribuição** — dar crédito apropriado
+- **NãoComercial** — não usar para fins comerciais
+- **CompartilhaIgual** — distribuir contribuições sob a mesma licença
+
+🔗 [Texto completo da licença](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
+:::
+
+::: {.about-section}
+## Citação sugerida {#citacao-sugerida}
+
+Selecione o estilo abaixo:
+
+::: {.panel-tabset}
+
+### ABNT (NBR 6023)
+
+SILVA, Henrique Alvarenga da. **Terapêutica Clínica - Módulo Saúde Mental**: aprendizagem baseada em casos clínicos. São João del-Rei: Edição do Autor, 2026. Material didático online. Disponível em: <https://henriquealvarenga.com/terapeutica-clinica>. Acesso em: [inserir data de acesso].
+
+### Vancouver
+
+Silva HA. Terapêutica Clínica - Módulo Saúde Mental: aprendizagem baseada em casos clínicos [Internet]. São João del-Rei (MG): Edição do Autor; 2026 [citado em ano mês dia]. Disponível em: https://henriquealvarenga.com/terapeutica-clinica
+
+### APA (7ª ed.)
+
+Silva, H. A. da. (2026). *Terapêutica Clínica - Módulo Saúde Mental: Aprendizagem baseada em casos clínicos*. Edição do Autor. https://henriquealvarenga.com/terapeutica-clinica
+
+### BibTeX
+
+```bibtex
+@misc{silva_terapeutica_2026,
+  author    = {Silva, Henrique Alvarenga da},
+  title     = {Terapêutica Clínica - Módulo Saúde Mental: aprendizagem baseada em casos clínicos},
+  publisher = {Edição do Autor},
+  address   = {São João del-Rei, MG, Brasil},
+  year      = {2026},
+  url       = {https://henriquealvarenga.com/terapeutica-clinica},
+  note      = {Material didático online. UFSJ — Curso de Medicina.}
+}
+```
+
+:::
+:::
+
+::: {.about-section}
+## Contato
+
+Dúvidas, sugestões ou correções:
+
+📧 [henriquealvarenga@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)
+
+Ou via *issues* no [repositório GitHub](https://github.com/henriquealvarenga/terapeutica-clinica).
+
+---
+
+*Última atualização: Maio de 2026*
+:::

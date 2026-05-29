@@ -1,0 +1,66 @@
+---
+title: "Aula 4 — A realidade partida"
+subtitle: "Antipsicóticos na esquizofrenia"
+---
+
+## Introdução
+
+As três primeiras aulas trataram de sofrimentos que, por mais intensos que sejam, acontecem dentro de uma realidade compartilhada: Marina sabe que sua crise vai passar, Roberto sabe que está triste, Pedro sabe que seus rituais são exagerados. Na esquizofrenia, é a própria capacidade de distinguir o real do não-real que se altera. O paciente acredita, com convicção, em coisas que não estão acontecendo, ou percebe coisas que não existem.
+
+Esta aula trata dos **antipsicóticos**, a classe que tornou possível tratar esses quadros. Eles apareceram brevemente na Aula 3, controlando a psicose da mania de Lucas; agora são o foco. O caso que se segue inclui também a clozapina, um medicamento que funciona quando outros falham e que, por isso mesmo, exige cuidados particulares.
+
+::: {.callout-box}
+
+A esquizofrenia organiza-se em domínios de sintomas:
+
+- **Sintomas positivos** — algo que se acrescenta à experiência: delírios (crenças falsas, inabaláveis) e alucinações (percepções sem estímulo, classicamente vozes). É o que os antipsicóticos tratam melhor.
+- **Sintomas negativos** — algo que se subtrai: embotamento afetivo, perda de vontade, isolamento, empobrecimento da fala. São os que mais comprometem a vida a longo prazo e os que respondem pior aos medicamentos.
+- **Sintomas cognitivos** — déficits de atenção, memória de trabalho e função executiva.
+
+Os medicamentos:
+
+- **Antipsicóticos de 1ª geração ("típicos")** — ex.: haloperidol, clorpromazina. Bloqueiam fortemente receptores de dopamina (D2). Eficazes nos sintomas positivos, mas com mais efeitos motores.
+- **Antipsicóticos de 2ª geração ("atípicos")** — ex.: risperidona, olanzapina, quetiapina, aripiprazol. Atuam em dopamina e serotonina; menos efeitos motores, mas mais efeitos metabólicos (peso, glicose, lípides).
+- **Clozapina** — um atípico à parte, reservado para casos resistentes. Tem eficácia superior, mas exige monitorização hematológica.
+
+A hipótese dopaminérgica liga esses elementos: o excesso de dopamina em certas vias cerebrais estaria associado aos sintomas positivos, e o bloqueio de D2 reduz esses sintomas.
+:::
+
+## Os três casos desta aula
+
+Como na Aula 3, os três casos acompanham o mesmo paciente em momentos diferentes de sua trajetória.
+
+<ol class="sumario">
+  <li><span class="num">01</span><a href="casos/aula4-caso1-daniel-primeiro.qmd">As vozes no quarto — Daniel, 21 anos · <em>Primeiro episódio psicótico</em></a></li>
+  <li><span class="num">02</span><a href="casos/aula4-caso2-daniel-efeitos.qmd">Os efeitos que aparecem antes da melhora — Daniel, semanas depois · <em>Efeitos adversos e adesão</em></a></li>
+  <li><span class="num">03</span><a href="casos/aula4-caso3-daniel-clozapina.qmd">Quando nada funciona — Daniel, dois anos depois · <em>Esquizofrenia resistente e clozapina</em></a></li>
+</ol>
+
+
+::: {.callout-box}
+O medicamento adequado depende de quem, do quê e de quando. Os benzodiazepínicos mostraram que velocidade tem custo. Os ISRS, que a lentidão pode ser virtude. O transtorno bipolar, que a mesma pessoa precisa de tratamentos opostos conforme a fase. E a esquizofrenia, com a clozapina, que o tratamento mais eficaz costuma ser também o que exige mais cuidado e vigilância.
+:::
+
+## Leituras de apoio
+
+- **INTEGRATE — Diretrizes internacionais para o tratamento algorítmico da esquizofrenia (Lancet Psychiatry, 2025).** A diretriz mais recente; foco em saúde metabólica desde o início e uso oportuno da clozapina. [Resumo no Psychopharmacology Institute](https://psychopharmacologyinstitute.com/section/integrate-new-schizophrenia-treatment-guidelines/).
+- **APA — Practice Guideline for the Treatment of Patients With Schizophrenia (2020).** Recomendações sobre antipsicóticos, clozapina na resistência e no risco de suicídio, cuidado coordenado e psicoeducação. [PsychiatryOnline](https://psychiatryonline.org/doi/10.1176/appi.ajp.2020.177901).
+- **VA/DoD — Manejo do primeiro episódio psicótico e esquizofrenia (resumo no AAFP, 2024).** Bom panorama sobre primeiro episódio e intervenção precoce. [AAFP](https://www.aafp.org/pubs/afp/issues/2024/0500/practice-guidelines-first-episode-psychosis-and-schizophrenia.html).
+- **StatPearls — Schizophrenia (NCBI Bookshelf).** [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK539864/).
+- **StatPearls — Clozapine.** Mecanismo, agranulocitose, monitorização. [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK535399/).
+- **DSM-5-TR** — critérios de esquizofrenia e do espectro dos transtornos psicóticos.
+- Procure também diretrizes brasileiras (ABP) e o capítulo de esquizofrenia/antipsicóticos em um livro-texto de psicofarmacologia (ex.: Stahl).
+
+::: {.entrega-box}
+### Tarefas
+
+**Parte A — Roteiro clínico.** Responda às questões dos três casos (4.1, 4.2 e 4.3).
+
+**Parte B — Reflexão escrita (cerca de 1 página).** Escolha **um** tema:
+
+> *(i)* Daniel, no Caso 4.1, não se reconhece como doente — para ele, as câmeras e as vozes são reais. Escreva uma reflexão sobre o desafio de tratar alguém que não acredita estar doente. Como conciliar o respeito pela pessoa com a necessidade de tratá-la? O que o conceito de *insight* muda na relação médico-paciente?
+>
+> *(ii)* A clozapina é, ao mesmo tempo, o antipsicótico mais eficaz e um dos mais exigentes do ponto de vista do monitoramento, e por isso costuma ser subutilizada. Discuta: por que medicamentos que exigem mais cuidado tendem a ser evitados, mesmo quando são os mais eficazes?
+
+Cite ao menos uma das diretrizes e indique como usou ferramentas de IA/busca — veja a página [Como estudar com IA](como-estudar.qmd).
+:::

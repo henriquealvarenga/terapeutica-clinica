@@ -1,0 +1,31 @@
+---
+title: "Caso 4.2 — Os efeitos que aparecem antes da melhora"
+subtitle: "Daniel, algumas semanas depois · Efeitos adversos e adesão"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">EFEITOS ADVERSOS · ADESÃO</span>
+
+Daniel iniciou um antipsicótico de 2ª geração e os delírios e vozes começaram a recuar — está mais conectado com a realidade. Mas surgiram problemas: ganhou peso rapidamente, sente-se "lento e apagado", e os pais notam que ele às vezes fica com o corpo inquieto, sem conseguir parar de mexer as pernas, dizendo que "não consegue ficar parado por dentro". Daniel está incomodado e comenta que pensou em parar o remédio "porque me deixa pior do que eu estava".
+:::
+
+## Reflexão
+
+Os efeitos adversos costumam aparecer antes (ou junto) da melhora, e são a principal causa de abandono. Na esquizofrenia isso é especialmente grave, porque abandonar o tratamento é a principal causa de recaída — e cada recaída pode deixar sequelas. Entender e explicar os efeitos adversos é o que permite ao médico ajustar o tratamento antes que o paciente desista dele.
+
+::: {.callout-box}
+**Dois grandes grupos de efeitos adversos**
+
+- **Extrapiramidais (motores)** — decorrem do bloqueio de dopamina nas vias motoras. Incluem **parkinsonismo** (rigidez, lentidão), **distonia aguda** (contrações musculares súbitas), **acatisia** (a inquietação interna que Daniel descreve) e, a longo prazo, a **discinesia tardia** (movimentos involuntários, por vezes irreversíveis). Mais comuns com os típicos.
+- **Metabólicos** — ganho de peso, aumento de glicose e colesterol, risco de diabetes. Mais comuns com vários atípicos (sobretudo olanzapina e clozapina). É por isso que diretrizes recentes insistem em **monitorar a saúde metabólica desde o início**.
+:::
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. A inquietação que impede Daniel de "ficar parado por dentro" tem um nome específico. Qual é, e a que grupo de efeitos adversos pertence? Por que é tão importante reconhecê-la? (ela é frequentemente confundida com piora da própria psicose ou com ansiedade)
+2. Diferencie os quatro efeitos extrapiramidais: parkinsonismo, distonia aguda, acatisia e discinesia tardia. Qual deles é a maior preocupação a *longo prazo* e por quê?
+3. O ganho de peso de Daniel é um risco de saúde e de adesão. Que medidas podem ser tomadas? (Pesquise: troca de antipsicótico, monitorização metabólica, e o papel de medicamentos como a **metformina** que algumas diretrizes recentes sugerem considerar.)
+4. Daniel quer parar. Como você conduziria? Compare o risco de manter (efeitos adversos) com o risco de suspender (recaída psicótica). Que ajustes permitiriam manter o tratamento de forma tolerável?
+5. Por quanto tempo se mantém o antipsicótico após a melhora de um primeiro episódio? Por que não se suspende assim que os sintomas somem?
+:::

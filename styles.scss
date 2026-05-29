@@ -1,0 +1,109 @@
+/*-- scss:defaults --*/
+
+$primary:   #2c4a52;
+$secondary: #7a9e9f;
+$body-color: #1f2a2e;
+$link-color: #3a6b73;
+
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "Segoe UI", Roboto, sans-serif;
+$h1-font-size: 2.1rem;
+
+/*-- scss:rules --*/
+
+.navbar-title {
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+// Caixas pedagógicas reutilizáveis
+.callout-box {
+  border-left: 4px solid $secondary;
+  background: #f4f7f7;
+  padding: 1rem 1.25rem;
+  margin: 1.4rem 0;
+  border-radius: 0 6px 6px 0;
+}
+
+.caso-clinico {
+  background: #fbf9f4;
+  border: 1px solid #e4dcc8;
+  border-radius: 8px;
+  padding: 1.5rem 1.75rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+
+.caso-clinico h3,
+.caso-clinico h4 {
+  margin-top: 0;
+  color: $primary;
+}
+
+.farmaco-tag {
+  display: inline-block;
+  background: $primary;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.2rem 0.7rem;
+  border-radius: 999px;
+  letter-spacing: 0.4px;
+  margin-bottom: 0.6rem;
+}
+
+.entrega-box {
+  background: #eef4ef;
+  border: 1px dashed $secondary;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.entrega-box h3 {
+  margin-top: 0;
+}
+
+.questao-list > li {
+  margin-bottom: 0.6rem;
+}
+
+.aviso {
+  font-size: 0.9rem;
+  color: #7a6a4f;
+  background: #fdf6e3;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+}
+
+.card-aula {
+  display: block;
+  border: 1px solid #dde5e5;
+  border-radius: 10px;
+  padding: 1.4rem 1.6rem;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: $body-color;
+  transition: all 0.15s ease;
+}
+
+.card-aula:hover {
+  border-color: $secondary;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+  color: $body-color;
+}
+
+.card-aula .num {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: $secondary;
+  letter-spacing: 1px;
+}
+
+.card-aula .titulo {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: $primary;
+  margin: 0.2rem 0 0.4rem;
+}

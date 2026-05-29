@@ -1,0 +1,32 @@
+---
+title: "Caso 4.3 — Quando nada funciona"
+subtitle: "Daniel, dois anos depois · Esquizofrenia resistente e clozapina"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">ESQUIZOFRENIA RESISTENTE · CLOZAPINA</span>
+
+Apesar dos esforços, o caso de Daniel evoluiu de forma difícil. Ao longo de dois anos, ele fez uso adequado — em dose e tempo suficientes, com adesão verificada — de **dois antipsicóticos diferentes**, sem resposta satisfatória: os delírios persistem, as vozes continuam, ele teve novas internações. A equipe levanta a possibilidade de iniciar **clozapina**.
+:::
+
+## Reflexão
+
+Cerca de um terço dos pacientes com esquizofrenia não responde adequadamente aos antipsicóticos comuns — é a **esquizofrenia resistente ao tratamento**. Para esse grupo, a clozapina é, há décadas, comprovadamente o medicamento mais eficaz. Ela é tão claramente superior que as diretrizes recomendam não demorar a usá-la — mas é também tão potencialmente perigosa (pode causar uma queda grave dos glóbulos brancos de defesa) que seu uso exige um **protocolo rígido de exames de sangue regulares**. A clozapina é o exemplo máximo da equação risco × benefício.
+
+::: {.callout-box}
+**Por que a clozapina é especial — e exigente**
+
+A clozapina é o único antipsicótico com eficácia comprovada superior na esquizofrenia resistente. Mas pode causar **agranulocitose** — uma queda dos neutrófilos, células de defesa contra infecções, em uma pequena fração dos pacientes. Por isso seu uso é condicionado a **monitorização hematológica regular** (hemogramas frequentes), num esquema obrigatório.
+:::
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Como se **define** esquizofrenia resistente ao tratamento? (Atenção aos três elementos: número de antipsicóticos diferentes, e a exigência de **dose adequada**, **tempo adequado** e **adesão comprovada**.) Por que cada um desses elementos importa antes de rotular um caso como "resistente"?
+2. Por que verificar a **adesão** é um passo essencial antes de declarar resistência? Qual recurso ajuda a ter certeza de que o paciente realmente recebeu o medicamento?
+3. A clozapina é considerada o tratamento de escolha na resistência. O que a torna superior aos demais? Por que, apesar disso, ela não é usada como primeira opção em todos os pacientes?
+4. Explique o que é a agranulocitose e por que ela justifica um protocolo de hemogramas regulares. O que esse protocolo permite fazer (detecção precoce) que reduz o risco?
+5. Além da agranulocitose, cite outros efeitos adversos relevantes da clozapina (metabólicos, sedação, sialorreia, risco cardíaco).
+6. As diretrizes mais recentes recomendam não adiar a clozapina quando há resistência (após falha de dois antipsicóticos por tempo adequado). Que prejuízo o adiamento causa ao paciente? Por que, na prática, ela costuma ser subutilizada apesar de tão eficaz?
+7. A clozapina tem ainda uma indicação especial relacionada ao risco de suicídio na esquizofrenia. Qual é? O que isso acrescenta ao seu lugar no arsenal terapêutico?
+:::

@@ -1,0 +1,102 @@
+project:
+  type: website
+  output-dir: _site
+  # Lista explícita do que renderizar. Sem isso, Quarto pega todo .md
+  # do diretório, incluindo GUIA_PRATICO.md e RESUMO_COWORK.md (docs
+  # internos do professor, não páginas do site).
+  render:
+    - index.qmd
+    - aula1.qmd
+    - aula2.qmd
+    - aula3.qmd
+    - aula4.qmd
+    - como-estudar.qmd
+    - creditos.qmd
+    - gabarito.qmd
+    - "casos/*.qmd"
+
+website:
+  title: "Terapêutica Clínica - Módulo Saúde Mental"
+  description: "Aprendizagem baseada em casos clínicos em psicofarmacologia, para o ciclo clínico de Medicina"
+  site-url: "https://henriquealvarenga.com/terapeutica-clinica"
+  repo-url: "https://github.com/henriquealvarenga/terapeutica-clinica"
+  repo-actions: [edit, issue]
+  repo-branch: main
+  navbar:
+    background: light
+    search: true
+    left:
+      - href: index.qmd
+        text: Início
+      - href: aula1.qmd
+        text: "Aula 1"
+      - href: aula2.qmd
+        text: "Aula 2"
+      - href: aula3.qmd
+        text: "Aula 3"
+      - href: aula4.qmd
+        text: "Aula 4"
+      - href: como-estudar.qmd
+        text: "Como estudar"
+      - href: creditos.qmd
+        text: "Créditos"
+  # 4 sidebars (uma por aula). Servem apenas como ÍNDICE de ordenação
+  # para o Quarto gerar os botões Próximo/Anterior no rodapé. O sidebar
+  # não é renderizado visualmente porque `page-layout: full` (abaixo)
+  # suprime as colunas laterais — nada de CSS por cima.
+  sidebar:
+    - id: aula1
+      style: floating
+      contents:
+        - aula1.qmd
+        - casos/aula1-caso1-marina.qmd
+        - casos/aula1-caso2-antonio.qmd
+        - casos/aula1-caso3-julia.qmd
+    - id: aula2
+      style: floating
+      contents:
+        - aula2.qmd
+        - casos/aula2-caso1-roberto.qmd
+        - casos/aula2-caso2-cleusa.qmd
+        - casos/aula2-caso3-pedro.qmd
+    - id: aula3
+      style: floating
+      contents:
+        - aula3.qmd
+        - casos/aula3-caso1-lucas-mania.qmd
+        - casos/aula3-caso2-lucas-depressao.qmd
+        - casos/aula3-caso3-lucas-manutencao.qmd
+    - id: aula4
+      style: floating
+      contents:
+        - aula4.qmd
+        - casos/aula4-caso1-daniel-primeiro.qmd
+        - casos/aula4-caso2-daniel-efeitos.qmd
+        - casos/aula4-caso3-daniel-clozapina.qmd
+  page-footer:
+    left: "Terapêutica Clínica - Módulo Saúde Mental · UFSJ · Curso de Medicina"
+    center: "[Créditos](/creditos.qmd) · [Como citar](/creditos.qmd#citacao-sugerida)"
+    right: "Conteúdo educacional — não constitui orientação de prescrição."
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme-editorial.scss
+    css: styles.css
+    toc: true
+    toc-title: "Nesta página"
+    toc-depth: 3
+    number-sections: false
+    code-copy: true
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: true
+    fig-cap-location: bottom
+    lang: pt-BR
+    page-layout: full
+    page-navigation: true
+
+execute:
+  freeze: auto

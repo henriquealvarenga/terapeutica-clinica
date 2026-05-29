@@ -1,0 +1,29 @@
+---
+title: "Caso 1.1 — A crise no pronto-socorro"
+subtitle: "Marina, 28 anos · Transtorno de pânico"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">TRANSTORNO DE PÂNICO</span>
+
+São 23h de uma sexta-feira. Marina chega ao pronto-socorro levada pela irmã, convencida de que está tendo um infarto. Há cerca de 40 minutos, enquanto assistia TV, sentiu o coração disparar, falta de ar, formigamento nas mãos, uma tontura intensa e uma sensação avassaladora de que ia morrer ou "enlouquecer". É a terceira vez em dois meses.
+
+No exame: consciente, orientada, visivelmente apavorada, taquicárdica (FC 118), respiração rápida, pressão 130/85. ECG sem alterações isquêmicas. Troponina normal. Exame físico sem achados que expliquem o quadro. Ela nega uso de drogas; toma "só um cafezinho de vez em quando".
+
+A médica plantonista conversa com ela, explica que não há sinais de infarto, e a crise começa a cederm, melhorando totalmente ao longo dos próximos 30 min. Marina pergunta, aliviada mas assustada: *"E se acontecer de novo no meio da rua?"*
+:::
+
+## Reflexão
+
+A crise de pânico é autolimitada — geralmente cede em 20 a 30 minutos mesmo sem intervenção. Se a crise passa sozinha, qual é exatamente o papel do remédio? 
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. O que é uma crise (ou ataque) de pânico segundo o DSM-5 e a CID-11 ? Liste os sintomas e note quantos são necessários para o diagnóstico.
+2. Qual a diferença entre **crise de pânico** e **transtorno de pânico**? Marina tem qual dos dois? Por quê?
+3. Antes de atribuir tudo ao pânico, que diagnósticos diferenciais precisam ser pelo menos considerados em alguém com palpitações, falta de ar e formigamento? Por que o ECG e a troponina foram pedidos?
+4. Um benzodiazepínico de poderia abortar a crise. Mas, dado que a crise cede sozinha em ~30 min, quais são os argumentos *contra* dar BZD de rotina em toda crise de pânico no PS?
+5. Qual seria o tratamento de mais adequado para o transtorno de pânico — ou seja, o que efetivamente reduz a frequência das crises ao longo do tempo? 
+6. Que orientação não-farmacológica você daria a Marina ainda no PS para a próxima vez que sentir uma crise começando?
+:::

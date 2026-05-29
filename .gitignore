@@ -1,0 +1,24 @@
+# Quarto
+/.quarto/
+/_site/
+/_freeze/
+
+# Gabarito do professor — nunca subir o fonte; só o HTML criptografado
+gabarito.qmd
+
+# Documento interno do professor — não publicar
+RESUMO_COWORK.md
+
+# OS / editores
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Node (caso StaticCrypt seja instalado localmente)
+node_modules/
+package-lock.json
+yarn.lock
+
+**/*.quarto_ipynb

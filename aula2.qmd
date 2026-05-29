@@ -1,0 +1,54 @@
+---
+title: "Aula 2 — O tratamento de fundo"
+subtitle: "ISRS na depressão, na ansiedade crônica e no TOC"
+---
+
+## Introdução
+
+Na Aula 1 estudamos medicamentos que agem em minutos. Esta aula trata do extremo oposto: medicamentos que levam semanas para mostrar seu efeito completo e que, mesmo assim, são a base do tratamento de alguns dos transtornos mais comuns na prática médica.
+
+Os **inibidores seletivos da recaptação de serotonina (ISRS)** são, atualmente, o tratamento de primeira linha para depressão, para a maioria dos transtornos de ansiedade e para o transtorno obsessivo-compulsivo (TOC). Esta aula é sobre entender por que a paciência faz parte do tratamento, e por que um medicamento que age devagar pode ser superior a um que age rápido quando o problema é crônico.
+
+::: {.callout-box}
+**Farmacologia Básica**
+
+Os ISRS bloqueiam a **recaptação de serotonina** na fenda sináptica, aumentando a quantidade desse neurotransmissor disponível. Os principais são **fluoxetina, sertralina, escitalopram, citalopram, paroxetina e fluvoxamina**.
+
+O detalhe importante é temporal: o aumento da serotonina na fenda acontece em horas, mas a melhora clínica leva 2 a 6 semanas. Isso sugere que o efeito terapêutico não vem do simples aumento de serotonina, mas de adaptações mais lentas do cérebro (mudanças em receptores, neuroplasticidade) que esse aumento desencadeia. Esse descompasso explica boa parte do que importa sobre o uso clínico dos ISRS.
+:::
+
+## Os três casos desta aula
+
+<ol class="sumario">
+  <li><span class="num">01</span><a href="casos/aula2-caso1-roberto.qmd">O cansaço que não passa — Roberto, 42 anos · <em>Depressão maior</em></a></li>
+  <li><span class="num">02</span><a href="casos/aula2-caso2-cleusa.qmd">A preocupação que não desliga — Dona Cleusa, 49 anos · <em>Transtorno de ansiedade generalizada</em></a></li>
+  <li><span class="num">03</span><a href="casos/aula2-caso3-pedro.qmd">Quando trancar a porta não basta — Pedro, 24 anos · <em>Transtorno obsessivo-compulsivo</em></a></li>
+</ol>
+
+## Reflexões
+
+::: {.callout-box}
+Um benzodiazepínico alivia a ansiedade rapidamente, mas pode levar o paciente a depender desse alívio, e perde força com o tempo. Um ISRS não alivia nada na primeira semana; ele atua mudando lentamente o funcionamento do sistema, sem produzir o alívio imediato que gera dependência. É por não dar um efeito imediato que ele é seguro para o uso prolongado.
+:::
+
+## Leituras de apoio
+
+- **StatPearls — Selective Serotonin Reuptake Inhibitors (NCBI Bookshelf).** Mecanismo, indicações, efeitos adversos. [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK554406/).
+- **Trajetória de resposta dos ISRS no TOC (meta-análise).** Mostra que parte do ganho aparece mais cedo do que se pensava e que doses maiores ajudam. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27249090/).
+- **Revisão sobre doses altas de ISRS no TOC resistente (2025).** [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12155805/).
+- **DSM-5-TR** — critérios de episódio depressivo maior, TAG e TOC.
+- Procure também diretrizes brasileiras de depressão e de transtornos de ansiedade (ABP) e os capítulos correspondentes em um livro-texto de psiquiatria ou de psicofarmacologia (ex.: Stahl, *Psicofarmacologia*).
+
+::: {.entrega-box}
+### Tarefas
+
+**Parte A — Roteiro clínico.** Responda às questões dos três casos (2.1, 2.2 e 2.3).
+
+**Parte B — Reflexão escrita (cerca de 1 página).** Escolha **um** tema:
+
+> *(i)* "A paciência faz parte do tratamento." Usando o caso de Roberto, explique para um paciente leigo, em linguagem que ele entenda, por que o medicamento demora a fazer efeito e por que ele não deve parar de tomar nas primeiras semanas, mesmo sentindo apenas os efeitos colaterais. 
+>
+> *(ii)* Compare o alívio rápido do benzodiazepínico com o trabalho lento do ISRS. O que essa diferença diz sobre o que significa tratar e não apenas aliviar um sofrimento?
+
+Cite ao menos uma leitura de apoio e indique como usou ferramentas de IA/busca. Veja a página [Como estudar com IA](como-estudar.qmd).
+:::

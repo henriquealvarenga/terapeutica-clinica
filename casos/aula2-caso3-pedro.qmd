@@ -1,0 +1,24 @@
+---
+title: "Caso 2.3 — Quando trancar a porta não basta"
+subtitle: "Pedro, 24 anos · Transtorno obsessivo-compulsivo"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">TRANSTORNO OBSESSIVO-COMPULSIVO</span>
+
+Pedro, estudante, relata que gasta mais de três horas por dia em rituais. Tem pensamentos recorrentes e angustiantes de que pode ter deixado o fogão ligado ou a porta destrancada, e de que algo terrível acontecerá por culpa dele. Para aliviar a angústia, verifica repetidamente — o fogão, as fechaduras, as tomadas — às vezes 20, 30 vezes antes de conseguir sair de casa. Sabe que é "exagero", mas não consegue parar; a ansiedade só cede quando completa o ritual. Está atrasando-se para a faculdade e evitando sair.
+:::
+
+## Reflexão
+
+O TOC é tratado com ISRS, como a depressão e a ansiedade — mas com duas diferenças importantes: as doses tendem a ser mais altas, e o tempo de resposta pode ser ainda mais longo. Além disso, o tratamento de escolha combina o ISRS com uma forma específica de psicoterapia. É importante entender por que o TOC "exige mais" do mesmo remédio.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Defina **obsessão** e **compulsão**. No caso de Pedro, identifique qual é a obsessão e qual é a compulsão. Que função a compulsão cumpre em relação à angústia da obsessão? (Pense no ciclo obsessão → ansiedade → compulsão → alívio → reforço.)
+2. Os ISRS são primeira linha no TOC. O que muda em relação ao tratamento da depressão quanto a **dose** e **tempo de resposta**? Por que se costuma ir a doses mais altas?
+3. Há um antidepressivo **não-ISRS**, mais antigo, que historicamente foi o primeiro tratamento eficaz do TOC e ainda é usado em casos resistentes. Qual é, e qual seu mecanismo? Por que não é mais primeira linha (pense nos efeitos adversos)?
+4. Qual é a psicoterapia de escolha para o TOC, e em que consiste sua técnica central de **exposição e prevenção de resposta**? Por que pedir ao paciente para *não* realizar o ritual é terapêutico?
+5. Se Pedro não responder a um ISRS em dose adequada por tempo adequado, quais são os próximos passos? (Pesquise: troca de ISRS, potencialização com antipsicótico, etc.)
+:::

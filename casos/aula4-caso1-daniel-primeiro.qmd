@@ -1,0 +1,30 @@
+---
+title: "Caso 4.1 — As vozes no quarto"
+subtitle: "Daniel, 21 anos · Primeiro episódio psicótico"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">PRIMEIRO EPISÓDIO PSICÓTICO</span>
+
+Daniel é estudante universitário, trazido pelos pais, preocupados há alguns meses. Ele foi se isolando, abandonou os amigos, largou disciplinas. Passou a dizer que os colegas "falam dele pelas costas" e, mais recentemente, que há câmeras escondidas no apartamento monitorando seus pensamentos. Os pais ouvem-no, sozinho no quarto, conversando — e ele explica que responde às **vozes** que comentam tudo o que faz e às vezes mandam que ele faça coisas. Está assustado, dormindo pouco, comendo pouco por temer que a comida seja envenenada. Não há uso de drogas detectado em triagem; exames clínicos sem alterações.
+
+É o primeiro episódio. Daniel tem plena convicção de que tudo é real e não entende por que os pais estão "do lado deles".
+:::
+
+## Reflexão
+
+Este é o momento de maior consequência no curso da esquizofrenia. Existe forte evidência de que **quanto mais tempo a psicose fica sem tratamento, pior o prognóstico** — o conceito de "duração da psicose não tratada". Ao mesmo tempo, é um primeiro episódio: o diagnóstico ainda não é certo, o diferencial é amplo, e a escolha do remédio precisa pesar eficácia contra efeitos adversos que um jovem terá de tolerar por muito tempo. E há uma dificuldade humana central: Daniel **não se reconhece como doente** — o que a psiquiatria chama de prejuízo de *insight* — e isso molda toda a relação terapêutica.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Identifique no caso de Daniel quais sintomas são **positivos** e quais sugerem o início de sintomas **negativos**. Qual é o delírio? Que tipo de alucinação ele descreve?
+2. Quais os critérios do DSM-5 e da CIS-11 para esquizofrenia? Quanto tempo de sintomas é necessário, e por que esse critério temporal existe? Como o quadro de Daniel se diferenciaria de um **transtorno psicótico breve** ou de um **transtorno esquizofreniforme**?
+3. Que causas *não psiquiátricas* de psicose precisam ser descartadas? (Pense em substâncias — incluindo intoxicação e abstinência —, causas neurológicas, infecciosas, autoimunes. Por que isso justifica exames e história detalhada?)
+4. A psicose de Daniel também poderia ser a fase psicótica de um transtorno do humor. Que característica diferencia a psicose da esquizofrenia da psicose que ocorre dentro de um episódio de mania ou depressão?
+5. **Escolha do antipsicótico no primeiro episódio:** as diretrizes recomendam iniciar com um antipsicótico (de 1ª ou 2ª geração) que **não** a clozapina, guiado pelo perfil de efeitos adversos e pelas características do paciente. Por que não se começa com a clozapina? Que efeitos adversos pesam mais na decisão para um jovem de 21 anos?
+6. O que é a **"duração da psicose não tratada"** e por que ela é um argumento a favor de não adiar o início do tratamento?
+7. Daniel não se considera doente (ausência de *insight*). Como isso afeta a **adesão** ao tratamento? Que recurso farmacológico existe para pacientes que terão dificuldade de tomar comprimidos todos os dias? 
+8. O que é um programa de **cuidado coordenado para primeiro episódio** (atenção especializada precoce, envolvimento da família, apoio a estudo/trabalho)? Por que a diretriz o recomenda, e não apenas a medicação isolada?
+9. O que são Club Houses para transtornos mentais graves? (dica: A mais famosa é a Fountain House <https://www.fountainhouse.org>)
+:::

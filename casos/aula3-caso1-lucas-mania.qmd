@@ -1,0 +1,29 @@
+---
+title: "Caso 3.1 — Três dias sem dormir"
+subtitle: "Lucas, 26 anos · Mania aguda com sintomas psicóticos"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">MANIA AGUDA · COM SINTOMAS PSICÓTICOS</span>
+
+Lucas é trazido ao pronto-socorro pela família, contrariado. Há cerca de uma semana está "diferente": praticamente não dorme ("não preciso, tenho energia de sobra"), fala sem parar e muda de assunto rapidamente, gastou boa parte das economias num projeto que diz que "vai mudar o mundo". Está eufórico e, quando contrariado, fica intensamente irritado. Afirma com convicção absoluta que foi escolhido para uma missão especial e que "tem um sinal" que só ele percebe. A família conta que um tio teve "problema dos nervos" e tomava lítio.
+
+No PS, Lucas está agitado, com fala acelerada, recusa-se a ficar sentado e desconfia da equipe.
+:::
+
+## Reflexão
+
+Este o caso concentra **vários problemas terapêuticos ao mesmo tempo**: a mania em si, a agitação aguda no PS (que precisa de manejo imediato), e os sintomas psicóticos (a grandiosidade delirante). é importante montar um raciocínio em níveis: o que controlar *agora* (horas) e o que iniciar para a *fase* (dias a semanas).
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Quais os critérios do DSM-5-TR para um **episódio maníaco**? Identifique no caso de Lucas cada um dos sintomas (lembre do mnemônico DIGFAST, se ajudar). Quanto tempo de sintomas é necessário?
+2. O que diferencia **mania** de **hipomania**? E o que distingue transtorno bipolar **tipo I** do **tipo II**?
+3. A grandiosidade de Lucas chega a ser **delirante**. Como diferenciar isso de uma esquizofrenia? Por que o *contexto* (humor eufórico, episódico) é decisivo nessa diferença?
+4. **Manejo imediato da agitação no PS:** quais classes podem ser usadas para acalmar Lucas com segurança nas próximas horas? (Pesquise o papel dos antipsicóticos e o papel **coadjuvante e temporário** dos benzodiazepínicos na agitação aguda)
+5. **Tratamento da fase maníaca:** segundo as diretrizes (p. ex. CANMAT/ISBD), quais são as opções de **primeira linha** para mania aguda — em monoterapia e em combinação? Onde entram o lítio, o valproato e os antipsicóticos de 2ª geração?
+6. Como os **sintomas psicóticos** (o delírio de grandeza) influenciam a escolha? Por que um antipsicótico tende a ser parte do esquema nesse caso?
+7. A família mencionou que o tio usava lítio e melhorou. Que informação isso acrescenta? (Pesquise: a resposta a lítio tende a ter um componente familiar.)
+8. Antes de iniciar **lítio**, que exames de base são necessários, e por quê? (Pense em função renal, tireoide; e por que o lítio exige **monitorização de nível sérico** — o que é uma "janela terapêutica estreita"?)
+:::

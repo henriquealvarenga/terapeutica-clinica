@@ -1,0 +1,67 @@
+---
+title: "Aula 1 — O resgate rápido"
+subtitle: "Benzodiazepínicos nas situações agudas"
+---
+
+## Introdução
+
+Há momentos na medicina em que surge a necessidade de uma solução imediata. Um paciente em crise de pânico no pronto-socorro, alguém tremendo e suando 12 horas depois de parar de beber, uma pessoa que não dorme há três noites depois de um acidente. Nesses casos, esperar o medicamento fazer efeito em algumas semanas não é uma boa ideia. Precisamos de algo que comece a agir em minutos.
+
+Os **benzodiazepínicos** (BZD) são, por excelência, os remédios desse cenário. Esta aula é sobre entender *quando* eles são a escolha principal, *por que* funcionam tão rápido — e por que essa mesma rapidez é também o seu maior problema.
+
+::: {.callout-box}
+**O mínimo de farmacologia que você precisa antes de começar**
+
+Os benzodiazepínicos potencializam a ação do **GABA**, o principal neurotransmissor *inibitório* do cérebro. Eles se ligam ao receptor GABA-A e fazem a inibição natural do sistema nervoso funcionar com mais força. O resultado clínico é uma combinação de quatro efeitos: **ansiolítico** (reduz ansiedade), **sedativo/hipnótico** (induz sono), **anticonvulsivante** (previne convulsões) e **relaxante muscular**.
+
+Três propriedades determinam qual BZD escolher e quando:
+
+- **Velocidade de início** — quão rápido o efeito aparece.
+- **Meia-vida** — quanto tempo o efeito (e o fármaco) duram no corpo.
+- **Metabolização** — alguns dependem muito do fígado (ex.: diazepam), outros menos (ex.: lorazepam), o que importa em idosos e hepatopatas.
+:::
+
+## Os três casos desta aula
+
+<ol class="sumario">
+  <li><span class="num">01</span><a href="casos/aula1-caso1-marina.qmd">A crise no pronto-socorro — Marina, 28 anos · <em>Transtorno de pânico</em></a></li>
+  <li><span class="num">02</span><a href="casos/aula1-caso2-antonio.qmd">Doze horas sem beber — Seu Antônio, 54 anos · <em>Abstinência alcoólica</em></a></li>
+  <li><span class="num">03</span><a href="casos/aula1-caso3-julia.qmd">A noite depois do acidente — Júlia, 35 anos · <em>Reação aguda ao estresse e insônia</em></a></li>
+</ol>
+
+## Reflexões
+
+Os três casos têm em comum o uso de um remédio que age rápido. 
+
+- Em **Seu Antônio** (abstinência), o BZD é o mais indicado — primeira linha, pode salvar vidas.
+- Em **Marina** (pânico), ele pode abortar a crise, mas o uso repetido tem mais risco do que benefício, e o verdadeiro tratamento é outro.
+- Em **Júlia** (trauma/insônia), ele é, no máximo, uma muleta de poucos dias, e talvez nem isso.
+
+::: {.callout-box}
+A mesma propriedade que torna os benzodiazepínicos tão úteis — agir rápido e forte sobre a ansiedade — é o que os torna perigosos a longo prazo: **tolerância** (precisar de doses cada vez maiores), **dependência** (o corpo passa a precisar do remédio), **abstinência** (que se parece com a do álcool) e prejuízo cognitivo, sobretudo em idosos. Por isso a regra é que BZD são excelentes para o **curto prazo** e para a **crise**; raramente são uma boa ideia como tratamento contínuo de meses ou anos.
+:::
+
+Pense nisso: por que um remédio que alivia a ansiedade em 20 minutos é, paradoxalmente, *pior* candidato a tratamento de longo prazo do que um que leva semanas para agir? 
+
+## Leituras de apoio
+
+- **ASAM — Diretriz de manejo da abstinência alcoólica (2020).** Referência sobre uso de BZD guiado por CIWA-Ar. [Resumo no Journal of Addiction Medicine](https://journals.lww.com/journaladdictionmedicine/fulltext/2020/06001/the_asam_clinical_practice_guideline_on_alcohol.1.aspx).
+- **MDCalc — CIWA-Ar.** Calculadora e descrição dos 10 itens da escala. [Acessar](https://www.mdcalc.com/calc/1736/ciwa-ar-alcohol-withdrawal).
+- **StatPearls — Benzodiazepines (NCBI Bookshelf).** Revisão de mecanismo, farmacocinética e usos. [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK470159/).
+- **StatPearls — Alcohol Withdrawal.** [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK441882/).
+- **DSM-5-TR** — critérios de ataque de pânico, transtorno de pânico, reação/transtorno de estresse agudo (consulte a edição disponível na sua biblioteca).
+- Para o diferencial do pânico e manejo no PS, procure também diretrizes brasileiras (ABP — Associação Brasileira de Psiquiatria) e o capítulo correspondente em um livro-texto de psiquiatria que você tenha acesso.
+
+::: {.entrega-box}
+### Tarefas
+
+**Parte A — Roteiro clínico.** Responda, de forma objetiva, às questões dos três casos (1.1, 1.2 e 1.3). 
+
+**Parte B — Reflexão escrita (cerca de 1 página).** Escolha **um** dos dois temas abaixo e escreva um texto pessoal e argumentado:
+
+> *(i)* "Um remédio que alivia a angústia em 20 minutos pode ser perigoso justamente por funcionar tão bem." Discuta essa frase usando os casos da aula. O que significa, na prática, um remédio "bom demais"?
+>
+> *(ii)* Marina perguntou: *"e se acontecer de novo no meio da rua?"*. Imagine que você é o médico. O que você diria a ela sobre o papel de carregar um comprimido "para a emergência" no bolso? 
+
+Cite ao menos uma das leituras de apoio. Indique quais ferramentas (IA, buscadores, bases científicas) você usou e *como* — veja a página [Como estudar com IA](como-estudar.qmd).
+:::

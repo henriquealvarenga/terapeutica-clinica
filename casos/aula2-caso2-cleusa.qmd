@@ -1,0 +1,24 @@
+---
+title: "Caso 2.2 — A preocupação que não desliga"
+subtitle: "Dona Cleusa, 49 anos · Transtorno de ansiedade generalizada"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">TRANSTORNO DE ANSIEDADE GENERALIZADA</span>
+
+Dona Cleusa procura a UBS com queixas físicas: tensão no pescoço, dor de cabeça, "intestino preso", cansaço, dificuldade para dormir. Ao conversar, descreve que "se preocupa com tudo" há anos — com os filhos, com dinheiro, com a saúde, mesmo quando "está tudo bem". A preocupação é difícil de controlar, está sempre presente, e ela se sente no limite, irritável. Já foi a vários médicos por causa dos sintomas físicos, sempre com exames normais.
+:::
+
+## Reflexão
+
+Dona Cleusa tem uma ansiedade crônica, contínua, de fundo — o oposto da crise aguda da Marina da aula 1. Nesse caso o ISRS (lento, mas seguro a longo prazo) é a escolha, e o benzodiazepínico (rápido, mas com risco de dependência) é justamente o que não se quer usar de forma contínua.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Quais os critérios do DSM-5 e da CID-11 para do transtorno de ansiedade generalizada (TAG)? Quanto tempo de sintomas é necessário? Como ele se diferencia da preocupação "normal" do dia a dia?
+2. Por que tantos pacientes com TAG chegam primeiro com queixas físicas? Que armadilha diagnóstica isso cria na atenção primária?
+3. Para a ansiedade crônica de Dona Cleusa, por que um ISRS é preferível a um benzodiazepínico de uso contínuo, apesar de o BZD aliviar a ansiedade muito mais rápido? Construa a comparação ponto a ponto (início de ação, risco de dependência, tolerância, segurança a longo prazo).
+4. Há situações em que se usa um BZD por um período curto no começo do tratamento de um transtorno de ansiedade, enquanto se espera o ISRS agir? Qual seria a lógica e o risco dessa "ponte"?
+5. Que tratamentos(s) não medicamentoso(s) tem eficácia comparável ou complementar à dos ISRS na ansiedade? 
+:::

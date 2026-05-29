@@ -1,0 +1,51 @@
+---
+title: ""
+pagetitle: "Terapêutica Clínica - Módulo Saúde Mental"
+toc: false
+---
+
+::: {.hero}
+[Material didático · UFSJ · Medicina]{.eyebrow}
+
+# Terapêutica Clínica  {.hero-title}
+# Módulo Saúde Mental {.hero-title}
+
+[Aprendizagem baseada em casos clínicos]{.hero-subtitle}
+
+::: {.lede}
+Cada aula um problema clínico é apresentado para ajudar a pensar e aprender usar uma classe de medicamento. Você deve ler o caso do paciente, estudar por conta própria com livros, artigos e IA. Use como guia o roteiro de perguntas, e ao final escreva uma pequena reflexão.
+
+**Professores:**   
+Clarice Rizzi Lage   
+Henrique Alvarenga da Silva  
+Raquel Coelho Moreira  
+Rosa Gouvêa de  Sousa  
+:::
+:::
+
+## Introdução
+
+A psicofarmacologia fica muito mais clara quando se percebe que cada classe de medicamento tem uma utilidade. Os benzodiazepínicos agem em minutos e são os medicamentos de emergência, de uso idealmente de curto prazo. Os ISRS agem em semanas e são os medicamentos do tratamento a médio e longo prazo. O transtorno bipolar mostra como o tratamento precisa ser sempre reajustado, dependendo da fase do paciente. E a esquizofrenia mostra que a equação risco × benefício precisa sempre ser levada em consideração.
+
+## As quatro aulas
+
+<ol class="sumario">
+  <li><span class="num">01</span><a href="aula1.qmd">O resgate rápido — benzodiazepínicos nas situações agudas</a></li>
+  <li><span class="num">02</span><a href="aula2.qmd">O tratamento de fundo — ISRS na depressão, ansiedade e TOC</a></li>
+  <li><span class="num">03</span><a href="aula3.qmd">A doença que muda de fase — transtorno bipolar</a></li>
+  <li><span class="num">04</span><a href="aula4.qmd">A realidade partida — antipsicóticos na esquizofrenia</a></li>
+</ol>
+
+## Como funciona a avaliação
+
+Em cada aula o aluno tem duas tarefas. A primeiro é o **conjunto de respostas ao roteiro** de questões clínicas — perguntas objetivas que organizam o estudo. O segundo é uma **reflexão escrita curta**, de cerca de uma página, sobre o que aprendeu com esse caso.
+
+A página [Como estudar com IA](como-estudar.qmd) traz orientações sobre como usar ChatGPT, Claude, Google e bases científicas de forma produtiva e honesta neste trabalho.
+
+::: {.cta-block}
+[Começar pela Aula 1](aula1.qmd){.btn-read}
+:::
+
+::: {.aviso}
+**Importante.** Todo o conteúdo deste site é material educacional para discussão em sala. Os casos são fictícios. Nada aqui constitui orientação de prescrição para pacientes reais, e os esquemas terapêuticos devem sempre ser confirmados em diretrizes atualizadas e na supervisão clínica.
+:::

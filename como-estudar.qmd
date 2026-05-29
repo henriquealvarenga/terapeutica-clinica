@@ -1,0 +1,50 @@
+---
+title: "Como estudar com IA, busca e bases científicas"
+subtitle: "Um guia honesto para usar as ferramentas a favor do seu aprendizado"
+---
+
+A proposta deste curso é que você **estude ativamente** os casos usando todas as ferramentas disponíveis — incluindo inteligência artificial. Essa é a habilidade que você vai usar na vida profissional. 
+
+
+::: {.callout-box}
+**A IA é um tutor que às vezes inventa coisas com toda a confiança do mundo.**
+
+Modelos de linguagem (ChatGPT, Claude, Gemini etc.) podem **alucinar** — afirmar com segurança informações erradas, inventar referências, trocar doses. Em medicina, isso é perigoso. Por isso, a regra central é: **use a IA para entender e organizar, mas confirme todo fato clínico (dose, indicação, contraindicação) em uma fonte confiável** — diretriz, livro-texto ou artigo revisado por pares.
+:::
+
+## O que a IA faz bem
+
+- **Explicar um conceito em vários níveis.** "Explique o mecanismo dos benzodiazepínicos no receptor GABA-A como se eu estivesse no 3º período."
+- **Fazer analogias e checar seu entendimento.** "Eu entendi assim: [sua explicação]. Está correto? O que faltou?"
+- **Organizar o raciocínio clínico.** "Quais perguntas eu deveria me fazer ao decidir entre tratar a crise e tratar o transtorno?"
+- **Gerar perguntas de autoteste.** "Me faça 5 perguntas difíceis sobre abstinência alcoólica para ver se eu realmente entendi."
+- **Traduzir e resumir artigos** que você já encontrou (mas confira o resumo contra o texto original).
+
+## O que a IA faz mal 
+
+- **Citar referências.** A IA frequentemente inventa títulos, autores e DOIs que parecem reais. **Nunca** cite um artigo que só a IA te deu sem encontrá-lo você mesmo.
+- **Dar doses e esquemas exatos.** Pode errar. Confirme sempre em diretriz ou bula.
+- **Afirmar "a conduta correta é X".** Medicina tem nuance, contexto e diretrizes que mudam. Desconfie de respostas categóricas.
+
+## Um fluxo de trabalho sugerido para cada caso
+
+1. **Leia o caso e o roteiro de questões** antes de qualquer ferramenta. Tente responder de cabeça primeiro — anote o que não sabe.
+2. **Use a IA como tutor** para destravar os conceitos que faltaram (mecanismos, definições, comparações). Peça explicações, não respostas prontas.
+3. **Confirme os fatos clínicos** (doses, primeira linha, contraindicações) em uma fonte confiável — veja a lista abaixo.
+4. **Volte ao roteiro** e escreva suas respostas com suas palavras.
+5. **Use a IA para revisar** sua redação: "Esta explicação está clara e correta? O que um professor questionaria?"
+
+## Onde confirmar os fatos (fontes confiáveis)
+
+- **PubMed** — base de artigos científicos. [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/)
+- **NCBI Bookshelf / StatPearls** — revisões clínicas gratuitas e confiáveis. [ncbi.nlm.nih.gov/books](https://www.ncbi.nlm.nih.gov/books/)
+- **Diretrizes** — ASAM (abstinência), CANMAT/ISBD (bipolar), e as diretrizes brasileiras da **ABP** (Associação Brasileira de Psiquiatria).
+- **DSM-5** e **CID-11** — para critérios diagnósticos.
+- **Livro-texto** — um manual de psicofarmacologia (ex.: Stahl) ou de psiquiatria que você tenha acesso.
+- **Ferramentas de busca acadêmica assistida** — Consensus, Open Evidende,  Elicit e Semantic Scholar ajudam a achar artigos a partir de perguntas.
+
+## Honestidade acadêmica
+
+Em cada entrega, **diga quais ferramentas usou e como**. Isso faz parte do aprendizado e é a postura profissional esperada. Por exemplo:
+
+> *"Usei o Claude para entender o mecanismo do GABA e para gerar perguntas de autoteste. Confirmei as indicações de benzodiazepínico na abstinência na diretriz da ASAM (2020) e no StatPearls. A reflexão final é de minha autoria."*

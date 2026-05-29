@@ -1,0 +1,25 @@
+---
+title: "Caso 3.2 — A queda depois do voo"
+subtitle: "Lucas, três meses depois · Depressão bipolar"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">DEPRESSÃO BIPOLAR</span>
+
+A crise maníaca de Lucas foi controlada e ele teve alta em uso de medicação. Três meses depois, volta ao ambulatório — agora do polo oposto. Está profundamente deprimido: sem energia, dormindo demais, sem prazer em nada, com lentidão e sentimentos de culpa por "tudo o que fez" durante a mania. Pergunta se não dá para "tomar aquele remédio de depressão que todo mundo toma".
+:::
+
+## Reflexão
+
+O paciente com transtorno bipolar não pode ser tratado "como uma depressão comum". É preciso cuidado com pedido de Lucas — "me dá um antidepressivo". O tratamento da depressão *bipolar* é diferente do da depressão *unipolar* da Aula 2, e prescrever um ISRS isolado a um paciente bipolar pode desencadear uma **virada (switch) para a mania** ou acelerar a ciclagem. Este caso mostra que o *mesmo sintoma* (humor deprimido) pede *tratamentos diferentes* conforme o diagnóstico de base.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Clinicamente, a depressão bipolar e a depressão unipolar podem parecer idênticas. Que pistas na história ajudam a suspeitar que uma depressão é, na verdade, bipolar? 
+2. Por que dar um ISRS isolado a Lucas agora pode ser uma má ideia? Explique os conceitos de **virada maníaca (switch)** e de **aceleração de ciclagem**.
+3. Quais são as opções de **primeira linha** para a depressão bipolar segundo as diretrizes (p. ex. CANMAT/ISBD)? (Pesquise: quetiapina, lurasidona, lítio, lamotrigina — note que vários *não* são antidepressivos no sentido clássico.)
+4. A lamotrigina tem um papel particular na depressão/manutenção bipolar. Qual? E por que ela precisa ser titulada lentamente?
+5. Se, ainda assim, um antidepressivo for usado na depressão bipolar, que precaução é regra? 
+6. Lucas expressa culpa intensa pelo que fez na mania. Além da farmacologia, que abordagem de psicoeducação ajudaria a família e o paciente a entender a doença como cíclica e tratável, reduzindo a culpa?
+:::
