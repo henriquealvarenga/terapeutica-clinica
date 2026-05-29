@@ -22,7 +22,7 @@ website:
   description: "Aprendizagem baseada em casos clínicos em psicofarmacologia, para o ciclo clínico de Medicina"
   site-url: "https://henriquealvarenga.com/terapeutica-clinica"
   repo-url: "https://github.com/henriquealvarenga/terapeutica-clinica"
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
   repo-branch: main
   navbar:
     background: light
