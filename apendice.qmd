@@ -1,0 +1,69 @@
+---
+title: "Apêndice — A nova nomenclatura (NbN)"
+subtitle: "Nomear os psicofármacos pela farmacologia, não pela indicação"
+---
+
+::: {.callout-box}
+**Rascunho para revisão.** Este texto foi preparado como ponto de partida. Confira as classificações de cada fármaco na versão vigente da NbN (app e site oficiais) antes de usar em aula, já que a nomenclatura é atualizada periodicamente.
+:::
+
+## Introdução
+
+Um paciente recebe um "antipsicótico" para dormir e fica assustado: "mas eu não tenho psicose". Outro toma um "antidepressivo" para transtorno obsessivo-compulsivo e não entende por quê, já que não se considera deprimido. Esses mal-entendidos não são culpa do paciente — são culpa do nome. A nomenclatura tradicional batiza os psicofármacos pela **indicação** original (antidepressivo, antipsicótico, estabilizador do humor, ansiolítico), e essa lógica envelheceu mal.
+
+A **Neuroscience-based Nomenclature (NbN)** propõe outra base: nomear cada fármaco pela sua **farmacologia** — o sistema de neurotransmissão que ele modifica e o modo como atua. É uma mudança de eixo que conversa diretamente com o espírito deste módulo, em que cada aula parte do mecanismo para entender a indicação.
+
+## O problema da nomenclatura por indicação
+
+A classificação clássica foi construída há cerca de meio século, quando se conhecia menos sobre os mecanismos. Ela tem três limitações práticas:
+
+As fronteiras entre as categorias deixaram de fazer sentido. Os chamados "antipsicóticos" são usados em esquizofrenia, mas também em transtorno bipolar e em depressão resistente; os "estabilizadores do humor" aparecem em quadros que nada têm de bipolar. O nome diz uma coisa, a prática faz outra.
+
+O nome não reflete o conhecimento atual. Fármacos com perfis farmacológicos bem diferentes — por exemplo, um antagonista e um agonista parcial de dopamina — caem na mesma gaveta de "antipsicótico", como se fossem equivalentes.
+
+E há o custo humano: a distância entre o nome e o uso confunde o paciente, alimenta estigma e prejudica a adesão. Explicar "este remédio atua no seu sistema de serotonina" costuma ser mais claro e menos carregado do que dizer "este é um antidepressivo" a quem não se vê como deprimido.
+
+## Como a NbN funciona
+
+A NbN descreve cada fármaco por dois eixos principais:
+
+O **domínio farmacológico** — qual sistema de neurotransmissão ou alvo molecular o fármaco modifica (por exemplo, serotonina, dopamina, GABA).
+
+O **modo de ação** — o que ele faz nesse alvo (por exemplo, inibir a recaptação, antagonizar o receptor, modular alostericamente).
+
+A esses dois eixos somam-se quatro dimensões de apoio para cada verbete: as **indicações aprovadas**, a **eficácia e os efeitos adversos**, uma **nota prática** com o que a força-tarefa considera clinicamente mais relevante, e a **neurobiologia** subjacente. Assim, o nome deixa de ser um rótulo fechado e passa a ser uma descrição do que o fármaco realmente é.
+
+### Os domínios e os modos de ação
+
+A versão atual organiza os fármacos em **onze domínios farmacológicos**: acetilcolina, canais iônicos, dopamina, GABA, glutamato, histamina, melatonina, noradrenalina, opioide, serotonina e lítio.
+
+E em cerca de **dez modos de ação**, entre eles: agonista de receptor, antagonista de receptor, agonista parcial, inibidor de recaptação, inibidor de recaptação e liberador, inibidor de recaptação e antagonista, inibidor enzimático, interação enzimática, bloqueador de canal iônico e modulador alostérico positivo.
+
+## Relendo as quatro aulas em NbN
+
+O exercício mais útil é traduzir o que você já estudou. As classes centrais das quatro aulas ganham descrições mais informativas:
+
+| Classe (nome tradicional) | Domínio (NbN) | Modo de ação | Exemplo |
+|---|---|---|---|
+| Ansiolítico / benzodiazepínico | GABA | Modulador alostérico positivo | Diazepam |
+| Antidepressivo (ISRS) | Serotonina | Inibidor de recaptação | Fluoxetina |
+| Estabilizador do humor | Lítio | Interação enzimática | Lítio |
+| Antipsicótico | Dopamina | Antagonista de receptor | Haloperidol |
+| Antipsicótico | Dopamina | Agonista parcial de receptor | Aripiprazol |
+
+Repare no contraste das duas últimas linhas: haloperidol e aripiprazol são ambos "antipsicóticos" na nomenclatura antiga, mas têm modos de ação opostos no mesmo domínio — um bloqueia o receptor, o outro o estimula parcialmente. A NbN torna essa diferença visível já no nome, o que ajuda a prever efeitos e a justificar a escolha ao paciente.
+
+## Limitações e críticas
+
+A NbN não é unanimidade, e vale conhecer as ressalvas. Ela não informa a indicação clínica num relance — quem busca rapidamente "para que serve" precisa consultar a dimensão de indicações, e não o nome. Há uma curva de aprendizado, e parte dos clínicos considera os nomes por indicação mais práticos no dia a dia. A adoção ainda é parcial: muitas diretrizes, bulas e prontuários seguem usando a terminologia tradicional, de modo que, na prática, é preciso transitar entre os dois sistemas. A proposta é evolutiva e revisada periodicamente, então classificações específicas podem mudar.
+
+## Como acessar
+
+A NbN é mantida por uma força-tarefa internacional iniciada pela ECNP, com a participação de ACNP, CINP, AsCNP e IUPHAR. A forma recomendada de consultar a versão mais recente é pelo aplicativo gratuito e pelo site oficial do projeto, onde cada fármaco aparece com seus dois eixos e as quatro dimensões de apoio.
+
+## Referências
+
+- Zohar J, Stahl S, Möller HJ, Blier P, Kupfer D, Yamawaki S, et al. A review of the current nomenclature for psychotropic agents and an introduction to the Neuroscience-based Nomenclature. *Eur Neuropsychopharmacol.* 2015;25(12):2318–2325.
+- Zohar J, Nutt DJ, Kupfer DJ, Möller HJ, Yamawaki S, Spedding M, et al. A proposal for an updated neuropsychopharmacological nomenclature. *Eur Neuropsychopharmacol.* 2014;24(7):1005–1014.
+- Neuroscience-based Nomenclature (NbN) — European College of Neuropsychopharmacology (ECNP). Disponível em: <https://www.ecnp.eu/research/neuroscience-based-nomenclature-nbn/>
+- Site oficial da NbN-2R: <https://nbn2r.com/>

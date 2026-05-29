@@ -11,6 +11,7 @@ project:
     - aula3.qmd
     - aula4.qmd
     - como-estudar.qmd
+    - apendice.qmd
     - creditos.qmd
     - professores.qmd
     - gabarito.qmd
@@ -29,16 +30,20 @@ website:
     left:
       - href: index.qmd
         text: Início
-      - href: aula1.qmd
-        text: "Aula 1"
-      - href: aula2.qmd
-        text: "Aula 2"
-      - href: aula3.qmd
-        text: "Aula 3"
-      - href: aula4.qmd
-        text: "Aula 4"
+      - text: "Aulas"
+        menu:
+          - href: aula1.qmd
+            text: "Aula 1 — Benzodiazepínicos"
+          - href: aula2.qmd
+            text: "Aula 2 — ISRS"
+          - href: aula3.qmd
+            text: "Aula 3 — Transtorno bipolar"
+          - href: aula4.qmd
+            text: "Aula 4 — Antipsicóticos"
       - href: como-estudar.qmd
         text: "Como estudar"
+      - href: apendice.qmd
+        text: "Apêndice"
       - href: creditos.qmd
         text: "Créditos"
     right:
