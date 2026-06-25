@@ -76,22 +76,6 @@ A IA foi utilizada como ferramenta de apoio, não substituto do trabalho intelec
 :::
 
 ::: {.about-section}
-## Repositório e colaboração
-
-O código-fonte está disponível publicamente:
-
-🔗 **Repositório:** [github.com/henriquealvarenga/terapeutica-clinica](https://github.com/henriquealvarenga/terapeutica-clinica)
-
-Contribuições são bem-vindas via *issues* ou *pull requests*, especialmente:
-
-- Correções clínicas ou bibliográficas
-- Sugestões de novos casos ou variações
-- Atualizações conforme diretrizes mais recentes
-- Melhorias na interface e na acessibilidade
-- Apontamentos pedagógicos e revisões
-:::
-
-::: {.about-section}
 ## Sobre os casos clínicos
 
 Todos os pacientes apresentados nas quatro aulas — Marina, Seu Antônio, Júlia, Roberto, Carla, Luísa, e os demais — são **fictícios**. Os quadros foram construídos para serem clinicamente realistas e didaticamente úteis: cada um ilustra um problema típico em que a classe de medicamento estudada é a escolha apropriada, e cada um carrega pelo menos uma dificuldade — uma decisão, um conflito entre o que parece óbvio e o que as diretrizes recomendam.
@@ -178,8 +162,6 @@ Silva, H. A. da. (2026). *Terapêutica Clínica - Módulo Saúde Mental: Aprendi
 Dúvidas, sugestões ou correções:
 
 📧 [henriquealvarenga@ufsj.edu.br](mailto:henriquealvarenga@ufsj.edu.br)
-
-Ou via *issues* no [repositório GitHub](https://github.com/henriquealvarenga/terapeutica-clinica).
 
 ---
 

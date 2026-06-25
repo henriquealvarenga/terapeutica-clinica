@@ -1,66 +1,61 @@
 ---
-title: "Aula 3 — A doença que muda de fase"
-subtitle: "Transtorno bipolar: um paciente, vários tratamentos"
+title: "Aula 3 — Medicalização excessiva"
+subtitle: "Quando o cuidado vira excesso · patologização e medicalização da vida"
 ---
 
 ## Introdução
 
-As duas primeiras aulas associaram um problema a uma classe de medicamento: crise aguda, benzodiazepínico; transtorno crônico do humor ou da ansiedade, ISRS. Ao contrário desses casos, o transtorno bipolar não tem um tratamento, mas vários, dependendo da fase em que o paciente está.
+Boa parte das experiências que sempre acompanharam a vida humana — a tristeza diante de uma perda, a timidez ao falar em público, a inquietação de uma criança, as alterações de sono e memória que chegam com o envelhecimento — vem sendo progressivamente reinterpretada sob uma ótica médica. O que antes era compreendido como variação esperada do temperamento, resposta legítima ao sofrimento ou etapa natural da vida passa a ser nomeado como sintoma, disfunção ou transtorno. Esse deslocamento, conhecido como **medicalização da vida cotidiana**, não significa apenas trocar de vocabulário: ele transfere para o território clínico o manejo de problemas que antes pertenciam à esfera pessoal, familiar, escolar ou social.
 
-O mesmo paciente pode precisar de um medicamento para a **mania**, de outro para a **depressão bipolar**, de algo para a **agitação** ou para os **sintomas psicóticos** (delírios, alucinações) de uma crise grave, e de um tratamento de **manutenção** para evitar que tudo volte. E o medicamento certo para uma fase pode ser inadequado, ou contraindicado, em outra.
+Diferente das Aulas 1 e 2, que ensinaram *quando e como prescrever*, esta aula pede o movimento inverso: reconhecer os limites da medicalização e saber, quando é o caso, **desprescrever**. A teoria está dividida em quatro partes curtas — leia-as antes de discutir os casos.
 
-::: {.callout-box}
-**Conceitos**
+## Material da aula
 
-O transtorno bipolar é um transtorno do humor caracterizado pela alternância entre polos:
-
-- **Mania / hipomania:** humor elevado ou irritável, energia aumentada, menos necessidade de sono, aceleração do pensamento, grandiosidade, impulsividade. Na mania grave pode haver sintomas psicóticos (delírios de grandeza, alucinações).
-- **Depressão bipolar:** clinicamente parecida com a depressão da Aula 2, mas que exige tratamento diferente.
-
-As classes de medicamentos envolvidas:
-
-- **Estabilizadores de humor:** lítio, valproato (divalproato), lamotrigina, carbamazepina.
-- **Antipsicóticos (sobretudo os de 2ª geração / "atípicos"):** quetiapina, olanzapina, aripiprazol, risperidona, lurasidona, cariprazina, entre outros — usados tanto na mania quanto, alguns deles, na depressão bipolar.
-- **Benzodiazepínicos:** papel coadjuvante e temporário para agitação e insônia.
-- **Antidepressivos (ISRS e outros):** entram aqui com cautela e, em algumas situações, são contraindicados.
-:::
+<ol class="sumario">
+  <li><span class="num">01</span><a href="aula3-teoria1-medicalizacao.qmd">A medicalização da vida — <em>mecanismos e contexto</em></a></li>
+  <li><span class="num">02</span><a href="aula3-teoria2-evidencias.qmd">Mais tratamento, melhores resultados? — <em>a crítica à medicina baseada em evidências</em></a></li>
+  <li><span class="num">03</span><a href="aula3-teoria3-desprescrever.qmd">Desprescrever: a farmacologia da retirada — <em>abstinência e redução hiperbólica</em></a></li>
+  <li><span class="num">04</span><a href="aula3-teoria4-gestacao.qmd">Gestação e puerpério — <em>decidir sob incerteza</em></a></li>
+</ol>
 
 ## Os três casos desta aula
 
-Os três casos acompanham o mesmo paciente em momentos diferentes, para mostrar que tratar é uma sequência de decisões no tempo, e não uma escolha única.
+Os três casos percorrem três momentos da vida em que a medicalização aparece com força — o puerpério, a infância e a vida adulta - e pedem o mesmo exercício: enxergar a pessoa e o contexto por trás do diagnóstico, da receita e das escolhas que os acompanham.
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="casos/aula3-caso1-lucas-mania.qmd">Três dias sem dormir — Lucas, 26 anos · <em>Mania aguda com sintomas psicóticos</em></a></li>
-  <li><span class="num">02</span><a href="casos/aula3-caso2-lucas-depressao.qmd">A queda depois do voo — Lucas, três meses depois · <em>Depressão bipolar</em></a></li>
-  <li><span class="num">03</span><a href="casos/aula3-caso3-lucas-manutencao.qmd">Ficar bem e continuar bem — Lucas, um ano depois · <em>Manutenção e adesão</em></a></li>
+  <li><span class="num">01</span><a href="casos/aula3-caso1-conceicao-polifarmacia.qmd">Polifarmácia e desprescrição — Conceição, 54 anos · <em>Oito caixas de remédio</em></a></li>
+  <li><span class="num">02</span><a href="casos/aula3-caso2-aline-puerperio.qmd">Psicose puerperal — Aline, 26 anos · <em>Treze dias depois do parto</em></a></li>
+  <li><span class="num">03</span><a href="casos/aula3-caso3-davi-infancia.qmd">Medicalização na infância — Davi, 11 anos · <em>Expulso da escola</em></a></li>
 </ol>
 
 ## Reflexões
 
-- O benzodiazepínico pode ser coadjuvante temporário na agitação da mania.
-- O ISRS pode ser usado com cautela: o que trata a depressão unipolar pode desestabilizar a bipolar.
-- Estabilizadores de humor e antipsicóticos se justificam porque a doença muda de fase.
-
+- Nem todo sofrimento é doença, e nem toda doença se resolve com mais medicamento.
+- Diagnóstico amplo e prescrição fácil podem aliviar a angústia do encontro clínico — a do paciente e a do médico — e, ao mesmo tempo, encobrir o que produz o sofrimento.
+- Desprescrever é ato clínico que exige método: reavaliar o diagnóstico, retirar devagar (redução hiperbólica) e distinguir abstinência de recaída.
+- O contexto — família, escola, trabalho, rede de apoio — não é "pano de fundo" do caso: muitas vezes é o caso.
 
 ## Leituras de apoio
 
-- **CANMAT e ISBD — Diretrizes para o tratamento do transtorno bipolar (resumo e atualização de 2023).** Referência central sobre primeira linha em mania, depressão bipolar e manutenção. [PsychiatryOnline](https://psychiatryonline.org/doi/full/10.1176/appi.focus.20230009).
-- **Neurotorium — slides sobre tratamento agudo do bipolar (mania e depressão).** Resumo visual das hierarquias de tratamento. [Mania](https://neurotorium.org/slidedeck/bipolar-disorder-acute-treatment/slide/9-canmat-isbd-guidelines-pharmacological-treatment-of-acute-bipolar-mania/) · [Depressão bipolar](https://neurotorium.org/slidedeck/bipolar-disorder-acute-treatment/slide/11-canmat-isbd-guidelines-pharmacological-treatment-of-acute-bipolar-depression/).
-- **StatPearls — Bipolar Disorder (NCBI Bookshelf).** [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK558998/).
-- **StatPearls — Lithium.** Janela terapêutica, monitorização, toxicidade. [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK519062/).
-- **DSM-5-TR** — critérios de episódio maníaco, hipomaníaco e dos transtornos bipolares I e II.
-- Procure também diretrizes brasileiras (ABP) e o capítulo de transtorno bipolar em um livro-texto de psicofarmacologia (ex.: Stahl).
+- **Moncrieff J. et al. — "The serotonin theory of depression: a systematic umbrella review" (Molecular Psychiatry, 2022).** Revisão que questiona a base serotoninérgica simples da depressão. [Acessar](https://www.nature.com/articles/s41380-022-01661-0).
+- **Horowitz MA, Taylor D. — "Tapering of SSRI treatment to mitigate withdrawal symptoms" (The Lancet Psychiatry, 2019).** Base farmacológica da **redução hiperbólica** e da ocupação do SERT. [Acessar](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366%2819%2930032-X/fulltext).
+- **Whitaker R. — *Anatomia de uma Epidemia* (2010).** A hipótese da cronificação associada ao uso prolongado de psicotrópicos.
+- **Frances A. — *Voltando ao Normal / Saving Normal* (2013).** Sobre inflação diagnóstica e a expansão das fronteiras do normal.
+- **Moynihan R, Heath I, Henry D. — "Selling sickness: the pharmaceutical industry and disease mongering" (BMJ, 2002).** Texto clássico sobre *disease mongering*. [Acessar](https://www.bmj.com/content/324/7342/886).
+- **Conrad P. — *The Medicalization of Society* (2007).** Referência sociológica sobre o conceito de medicalização.
+- **Fórum sobre Medicalização da Educação e da Sociedade / Conselho Federal de Psicologia.** Materiais brasileiros sobre práticas não medicalizantes, úteis para os casos da infância e da atenção primária.
+- Procure também sobre **desprescrição em saúde mental**, **crises não epilépticas psicogênicas (CNEP)** e **Projeto Terapêutico Singular (PTS)** no SUS.
 
 ::: {.entrega-box}
 ### Tarefas
 
-**Parte A — Roteiro clínico.** Responda às questões dos três casos (3.1, 3.2 e 3.3).
+**Parte A — Roteiro clínico.** Responda às questões dos três casos (1, 2 e 3).
 
 **Parte B — Reflexão escrita (cerca de 1 página).** Escolha **um** tema:
 
-> *(i)* Escreva, em linguagem acessível, o que você diria a Lucas no Caso 3.3, quando ele pergunta se pode parar a medicação porque "está bem". Seja honesto sobre os efeitos colaterais que o incomodam e ajude-o a entender o risco da suspensão.
+> *(i)* Conceição (Caso 1) chega tomando oito psicotrópicos e melhora à medida que os retira. Escreva o que você diria a ela — em linguagem acessível — para explicar por que tirar remédios pode ser tão terapêutico quanto adicioná-los, e como isso será feito com segurança.
 >
-> *(ii)* As três aulas começaram com a ideia de que cada problema tem seu medicamento e terminaram mostrando que o mesmo paciente precisa de medicamentos diferentes em momentos diferentes. Escreva uma reflexão sobre o que isso muda no modo de pensar a terapêutica.
+> *(ii)* As Aulas 1 e 2 ensinaram quando e como prescrever. Esta aula pede o movimento inverso. Escreva uma reflexão sobre como reconhecer os limites da medicalização sem cair no extremo oposto de negligenciar quem realmente precisa de tratamento (lembre-se de Aline e Davi).
 
-Cite ao menos uma das diretrizes e indique como usou ferramentas de IA/busca. Veja a página [Como estudar com IA](como-estudar.qmd).
+Cite ao menos uma das leituras e indique como usou ferramentas de IA/busca. Veja a página [Como estudar com IA](como-estudar.qmd).
 :::

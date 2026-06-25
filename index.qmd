@@ -25,15 +25,21 @@ Rosa Gouvêa de  Sousa 
 
 ## Introdução
 
-A psicofarmacologia fica muito mais clara quando se percebe que cada classe de medicamento tem uma utilidade. Os benzodiazepínicos agem em minutos e são os medicamentos de emergência, de uso idealmente de curto prazo. Os ISRS agem em semanas e são os medicamentos do tratamento a médio e longo prazo. O transtorno bipolar mostra como o tratamento precisa ser sempre reajustado, dependendo da fase do paciente. E a esquizofrenia mostra que a equação risco × benefício precisa sempre ser levada em consideração.
+A psicofarmacologia fica muito mais clara quando se percebe que cada classe de medicamento tem uma utilidade — e também os seus limites. Os benzodiazepínicos agem em minutos e são os medicamentos de emergência, de uso idealmente de curto prazo. Os ISRS agem em semanas e são os medicamentos do tratamento a médio e longo prazo. E a medicalização excessiva lembra que nem todo sofrimento é doença, e que saber *retirar* um medicamento é tão clínico quanto saber prescrevê-lo. Em duas aulas extras, o transtorno bipolar mostra como o tratamento precisa ser reajustado conforme a fase do paciente, e a esquizofrenia, que a equação risco × benefício precisa sempre ser levada em consideração.
 
-## As quatro aulas
+## As três aulas
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="aula1.qmd">O resgate rápido — benzodiazepínicos nas situações agudas</a></li>
-  <li><span class="num">02</span><a href="aula2.qmd">O tratamento de fundo — ISRS na depressão, ansiedade e TOC</a></li>
-  <li><span class="num">03</span><a href="aula3.qmd">A doença que muda de fase — transtorno bipolar</a></li>
-  <li><span class="num">04</span><a href="aula4.qmd">A realidade partida — antipsicóticos na esquizofrenia</a></li>
+  <li><span class="num">01</span><a href="aula1.qmd">Benzodiazepínicos — o resgate rápido nas situações agudas</a></li>
+  <li><span class="num">02</span><a href="aula2.qmd">ISRS — o tratamento de fundo na depressão, ansiedade e TOC</a></li>
+  <li><span class="num">03</span><a href="aula3.qmd">Medicalização excessiva — quando o cuidado vira excesso</a></li>
+</ol>
+
+### Aulas extras
+
+<ol class="sumario">
+  <li><span class="num">+</span><a href="extra-bipolar.qmd">Transtorno bipolar — a doença que muda de fase</a></li>
+  <li><span class="num">+</span><a href="extra-antipsicoticos.qmd">Antipsicóticos — esquizofrenia e psicoses</a></li>
 </ol>
 
 ## Como funciona a avaliação

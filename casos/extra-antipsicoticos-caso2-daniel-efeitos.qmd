@@ -1,6 +1,6 @@
 ---
-title: "Caso 4.2 — Os efeitos que aparecem antes da melhora"
-subtitle: "Daniel, algumas semanas depois · Efeitos adversos e adesão"
+title: "Caso 2 — Efeitos adversos e adesão"
+subtitle: "Os efeitos que aparecem antes da melhora · Daniel, algumas semanas depois"
 ---
 
 ::: {.caso-clinico}

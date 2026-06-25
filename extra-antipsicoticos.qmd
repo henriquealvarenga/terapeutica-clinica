@@ -1,13 +1,13 @@
 ---
-title: "Aula 4 — A realidade partida"
-subtitle: "Antipsicóticos na esquizofrenia"
+title: "Aula extra — Antipsicóticos"
+subtitle: "Esquizofrenia"
 ---
 
 ## Introdução
 
-As três primeiras aulas trataram de sofrimentos que, por mais intensos que sejam, acontecem dentro de uma realidade compartilhada: Marina sabe que sua crise vai passar, Roberto sabe que está triste, Pedro sabe que seus rituais são exagerados. Na esquizofrenia, é a própria capacidade de distinguir o real do não-real que se altera. O paciente acredita, com convicção, em coisas que não estão acontecendo, ou percebe coisas que não existem.
+Boa parte dos sofrimentos vistos até aqui, por mais intensos que sejam, acontecem dentro de uma realidade compartilhada: Marina sabe que sua crise vai passar, Roberto sabe que está triste, Pedro sabe que seus rituais são exagerados. Na esquizofrenia, é a própria capacidade de distinguir o real do não-real que se altera. O paciente acredita, com convicção, em coisas que não estão acontecendo, ou percebe coisas que não existem.
 
-Esta aula trata dos **antipsicóticos**, a classe que tornou possível tratar esses quadros. Eles apareceram brevemente na Aula 3, controlando a psicose da mania de Lucas; agora são o foco. O caso que se segue inclui também a clozapina, um medicamento que funciona quando outros falham e que, por isso mesmo, exige cuidados particulares.
+Esta aula trata dos **antipsicóticos**, a classe que tornou possível tratar esses quadros. Eles apareceram brevemente na aula extra sobre transtorno bipolar, controlando a psicose da mania de Lucas; agora são o foco. O caso que se segue inclui também a clozapina, um medicamento que funciona quando outros falham e que, por isso mesmo, exige cuidados particulares.
 
 ::: {.callout-box}
 
@@ -28,12 +28,12 @@ A hipótese dopaminérgica liga esses elementos: o excesso de dopamina em certas
 
 ## Os três casos desta aula
 
-Como na Aula 3, os três casos acompanham o mesmo paciente em momentos diferentes de sua trajetória.
+Como na aula extra sobre transtorno bipolar, os três casos acompanham o mesmo paciente em momentos diferentes de sua trajetória.
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="casos/aula4-caso1-daniel-primeiro.qmd">As vozes no quarto — Daniel, 21 anos · <em>Primeiro episódio psicótico</em></a></li>
-  <li><span class="num">02</span><a href="casos/aula4-caso2-daniel-efeitos.qmd">Os efeitos que aparecem antes da melhora — Daniel, semanas depois · <em>Efeitos adversos e adesão</em></a></li>
-  <li><span class="num">03</span><a href="casos/aula4-caso3-daniel-clozapina.qmd">Quando nada funciona — Daniel, dois anos depois · <em>Esquizofrenia resistente e clozapina</em></a></li>
+  <li><span class="num">01</span><a href="casos/extra-antipsicoticos-caso1-daniel-primeiro.qmd">Primeiro episódio psicótico — Daniel, 21 anos · <em>As vozes no quarto</em></a></li>
+  <li><span class="num">02</span><a href="casos/extra-antipsicoticos-caso2-daniel-efeitos.qmd">Efeitos adversos e adesão — Daniel, semanas depois · <em>Os efeitos que aparecem antes da melhora</em></a></li>
+  <li><span class="num">03</span><a href="casos/extra-antipsicoticos-caso3-daniel-clozapina.qmd">Esquizofrenia resistente e clozapina — Daniel, dois anos depois · <em>Quando nada funciona</em></a></li>
 </ol>
 
 
@@ -54,11 +54,11 @@ O medicamento adequado depende de quem, do quê e de quando. Os benzodiazepínic
 ::: {.entrega-box}
 ### Tarefas
 
-**Parte A — Roteiro clínico.** Responda às questões dos três casos (4.1, 4.2 e 4.3).
+**Parte A — Roteiro clínico.** Responda às questões dos três casos (1, 2 e 3).
 
 **Parte B — Reflexão escrita (cerca de 1 página).** Escolha **um** tema:
 
-> *(i)* Daniel, no Caso 4.1, não se reconhece como doente — para ele, as câmeras e as vozes são reais. Escreva uma reflexão sobre o desafio de tratar alguém que não acredita estar doente. Como conciliar o respeito pela pessoa com a necessidade de tratá-la? O que o conceito de *insight* muda na relação médico-paciente?
+> *(i)* Daniel, no Caso 1 (primeiro episódio), não se reconhece como doente — para ele, as câmeras e as vozes são reais. Escreva uma reflexão sobre o desafio de tratar alguém que não acredita estar doente. Como conciliar o respeito pela pessoa com a necessidade de tratá-la? O que o conceito de *insight* muda na relação médico-paciente?
 >
 > *(ii)* A clozapina é, ao mesmo tempo, o antipsicótico mais eficaz e um dos mais exigentes do ponto de vista do monitoramento, e por isso costuma ser subutilizada. Discuta: por que medicamentos que exigem mais cuidado tendem a ser evitados, mesmo quando são os mais eficazes?
 

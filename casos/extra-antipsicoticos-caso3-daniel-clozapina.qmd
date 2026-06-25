@@ -1,6 +1,6 @@
 ---
-title: "Caso 4.3 — Quando nada funciona"
-subtitle: "Daniel, dois anos depois · Esquizofrenia resistente e clozapina"
+title: "Caso 3 — Esquizofrenia resistente e clozapina"
+subtitle: "Quando nada funciona · Daniel, dois anos depois"
 ---
 
 ::: {.caso-clinico}

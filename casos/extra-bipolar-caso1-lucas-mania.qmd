@@ -1,6 +1,6 @@
 ---
-title: "Caso 3.1 — Três dias sem dormir"
-subtitle: "Lucas, 26 anos · Mania aguda com sintomas psicóticos"
+title: "Caso 1 — Mania aguda com sintomas psicóticos"
+subtitle: "Três dias sem dormir · Lucas, 26 anos"
 ---
 
 ::: {.caso-clinico}

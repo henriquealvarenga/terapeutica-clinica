@@ -1,6 +1,6 @@
 ---
-title: "Caso 3.2 — A queda depois do voo"
-subtitle: "Lucas, três meses depois · Depressão bipolar"
+title: "Caso 2 — Depressão bipolar"
+subtitle: "A queda depois do voo · Lucas, três meses depois"
 ---
 
 ::: {.caso-clinico}

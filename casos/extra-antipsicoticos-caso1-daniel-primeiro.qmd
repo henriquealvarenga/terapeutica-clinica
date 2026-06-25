@@ -1,6 +1,6 @@
 ---
-title: "Caso 4.1 — As vozes no quarto"
-subtitle: "Daniel, 21 anos · Primeiro episódio psicótico"
+title: "Caso 1 — Primeiro episódio psicótico"
+subtitle: "As vozes no quarto · Daniel, 21 anos"
 ---
 
 ::: {.caso-clinico}

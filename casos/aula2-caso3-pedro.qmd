@@ -1,6 +1,6 @@
 ---
-title: "Caso 2.3 — Quando trancar a porta não basta"
-subtitle: "Pedro, 24 anos · Transtorno obsessivo-compulsivo"
+title: "Caso 2.3 — Transtorno obsessivo-compulsivo"
+subtitle: "Quando trancar a porta não basta · Pedro, 24 anos"
 ---
 
 ::: {.caso-clinico}

@@ -1,6 +1,6 @@
 ---
-title: "Caso 1.1 — A crise no pronto-socorro"
-subtitle: "Marina, 28 anos · Transtorno de pânico"
+title: "Caso 1.1 — Transtorno de pânico"
+subtitle: "A crise no pronto-socorro · Marina, 28 anos"
 ---
 
 ::: {.caso-clinico}

@@ -1,6 +1,6 @@
 ---
-title: "Caso 1.2 — Doze horas sem beber"
-subtitle: "Seu Antônio, 54 anos · Abstinência alcoólica"
+title: "Caso 1.2 — Abstinência alcoólica"
+subtitle: "Doze horas sem beber · Seu Antônio, 54 anos"
 ---
 
 ::: {.caso-clinico}

@@ -1,0 +1,18 @@
+---
+title: "Teoria 4 — Gestação e puerpério"
+subtitle: "Decidir sob incerteza"
+---
+
+Poucas situações expõem tão bem a tensão entre risco e benefício quanto a decisão de manter ou suspender um psicotrópico na gravidez. A classificação de risco na gestação ajuda a organizar a conversa, mas não substitui a **decisão compartilhada**, que precisa pesar tanto o risco da exposição medicamentosa quanto o risco do **sofrimento não tratado**.
+
+| Categoria | Significado | Exemplos |
+|:---------:|-------------|----------|
+| **A** | Sem risco demonstrado em gestantes | — |
+| **B** | Sem risco em animais; sem estudos em humanos | Citalopram, Escitalopram |
+| **C** | Efeitos adversos em animais; sem estudos em humanos | Fluoxetina, Sertralina, Venlafaxina |
+| **D** | Evidências de risco fetal; uso em situações específicas | Nortriptilina, Paroxetina, Bupropiona |
+| **X** | Contraindicado; risco supera o benefício | — |
+
+: Classificação de risco dos antidepressivos na gestação {.striped}
+
+A maior parte dos antidepressivos está nas categorias **B ou C**. Nenhuma decisão aqui é puramente farmacológica: ela é também ética e relacional.

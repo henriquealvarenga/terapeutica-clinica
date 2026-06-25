@@ -1,0 +1,33 @@
+---
+title: "Caso 3 — Medicalização na infância"
+subtitle: "Expulso da escola · Davi, 11 anos"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">INFÂNCIA · MEDICALIZAÇÃO</span>
+
+Durante uma reunião de **matriciamento em saúde mental**, um médico de família e comunidade traz para discussão o caso de **Davi, 11 anos**, acompanhado na Atenção Primária. A criança foi encaminhada ao CAPS, mas não conseguiu acesso a atendimento especializado em saúde mental infantojuvenil — não há CAPSi no município. O profissional relata sentir-se sem recursos para ajudar a família e afirma já ter tentado **diferentes intervenções medicamentosas sem melhora significativa**.
+
+A queixa principal são **comportamentos agressivos e impulsivos**. Nos últimos meses, Davi foi expulso da escola após episódios repetidos de agressão física a colegas e conflitos frequentes com professores; a instituição afirmava não ter condições de mantê-lo em sala. Em casa, a mãe descreve dificuldades semelhantes: ele não aceita limites, tem explosões de raiva quando contrariado e, por vezes, agride a si próprio ou à própria mãe.
+
+Mais recentemente surgiram **sintomas psicóticos**: Davi passou a relatar escuta de vozes que faziam comentários depreciativos sobre si mesmo e que, às vezes, o incentivavam a agredir outras pessoas ou a si próprio.
+
+Quanto ao tratamento, já fez uso de **risperidona**, **clorpromazina** e **periciazina (Neuleptil® 1%)**, atualmente em 30 gotas por dia. Segundo o médico, a risperidona produziu melhora parcial inicial das vozes, mas o benefício não se sustentou; as demais medicações tiveram pouca resposta.
+
+Ao ser questionado sobre a composição familiar, o médico informa que os pais são separados e que a intensificação dos comportamentos agressivos **coincide temporalmente** com mudanças importantes: há alguns meses o pai iniciou novo relacionamento e gradualmente se afastou — hoje o contato é raro. A mãe refere sobrecarga importante no cuidado e escassez de apoio familiar ou comunitário.
+:::
+
+## Reflexão
+
+O caso de Davi mostra a medicalização da infância em estado quase puro: diante de um sofrimento que tem raízes claras no contexto (abandono paterno, sobrecarga materna, exclusão escolar, ausência de rede), a única ferramenta acionada foi a **troca sucessiva de antipsicóticos** — sem que nenhuma delas tocasse no que produz e mantém o sofrimento. A pergunta clínica decisiva não é "qual o próximo medicamento", mas "o que está acontecendo com esta criança, nesta família, nesta escola". Isso não significa que sintomas psicóticos numa criança devam ser ignorados — significa que avaliá-los exige ler o contexto antes de ampliar a farmacoterapia.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Como diferenciar **sofrimento psíquico relacionado a eventos de vida** de transtornos mentais estruturados na infância?
+2. Em que medida a **centralidade das intervenções medicamentosas** pode ter ampliado ou limitado a compreensão do sofrimento apresentado pela criança?
+3. O que este caso ensina sobre a importância de investigar o **contexto familiar, escolar e social** na avaliação do sofrimento psíquico infantil?
+4. Qual o **significado clínico das vozes** relatadas por Davi? Elas necessariamente indicam um transtorno psicótico? (Pesquise alucinações no contexto de trauma, sofrimento e desenvolvimento.)
+5. Quais fatores familiares, escolares e sociais podem estar **contribuindo para o agravamento** do quadro?
+6. Quais **estratégias não medicamentosas** poderiam ser desenvolvidas — incluindo escola, família e rede intersetorial — antes da ampliação da farmacoterapia?
+:::

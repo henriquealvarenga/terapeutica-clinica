@@ -9,7 +9,12 @@ project:
     - aula1.qmd
     - aula2.qmd
     - aula3.qmd
-    - aula4.qmd
+    - aula3-teoria1-medicalizacao.qmd
+    - aula3-teoria2-evidencias.qmd
+    - aula3-teoria3-desprescrever.qmd
+    - aula3-teoria4-gestacao.qmd
+    - extra-bipolar.qmd
+    - extra-antipsicoticos.qmd
     - como-estudar.qmd
     - apendice.qmd
     - creditos.qmd
@@ -21,9 +26,6 @@ website:
   title: "Terapêutica Clínica - Módulo Saúde Mental"
   description: "Aprendizagem baseada em casos clínicos em psicofarmacologia, para o ciclo clínico de Medicina"
   site-url: "https://henriquealvarenga.com/terapeutica-clinica"
-  repo-url: "https://github.com/henriquealvarenga/terapeutica-clinica"
-  repo-actions: [issue]
-  repo-branch: main
   navbar:
     background: light
     search: true
@@ -37,9 +39,13 @@ website:
           - href: aula2.qmd
             text: "Aula 2 — ISRS"
           - href: aula3.qmd
-            text: "Aula 3 — Transtorno bipolar"
-          - href: aula4.qmd
-            text: "Aula 4 — Antipsicóticos"
+            text: "Aula 3 — Medicalização excessiva"
+          - text: "---"
+          - text: "Aulas extras"
+          - href: extra-bipolar.qmd
+            text: "Extra — Transtorno bipolar"
+          - href: extra-antipsicoticos.qmd
+            text: "Extra — Antipsicóticos"
       - href: como-estudar.qmd
         text: "Como estudar"
       - href: apendice.qmd
@@ -72,16 +78,27 @@ website:
       style: floating
       contents:
         - aula3.qmd
-        - casos/aula3-caso1-lucas-mania.qmd
-        - casos/aula3-caso2-lucas-depressao.qmd
-        - casos/aula3-caso3-lucas-manutencao.qmd
-    - id: aula4
+        - aula3-teoria1-medicalizacao.qmd
+        - aula3-teoria2-evidencias.qmd
+        - aula3-teoria3-desprescrever.qmd
+        - aula3-teoria4-gestacao.qmd
+        - casos/aula3-caso1-conceicao-polifarmacia.qmd
+        - casos/aula3-caso2-aline-puerperio.qmd
+        - casos/aula3-caso3-davi-infancia.qmd
+    - id: extra-bipolar
       style: floating
       contents:
-        - aula4.qmd
-        - casos/aula4-caso1-daniel-primeiro.qmd
-        - casos/aula4-caso2-daniel-efeitos.qmd
-        - casos/aula4-caso3-daniel-clozapina.qmd
+        - extra-bipolar.qmd
+        - casos/extra-bipolar-caso1-lucas-mania.qmd
+        - casos/extra-bipolar-caso2-lucas-depressao.qmd
+        - casos/extra-bipolar-caso3-lucas-manutencao.qmd
+    - id: extra-antipsicoticos
+      style: floating
+      contents:
+        - extra-antipsicoticos.qmd
+        - casos/extra-antipsicoticos-caso1-daniel-primeiro.qmd
+        - casos/extra-antipsicoticos-caso2-daniel-efeitos.qmd
+        - casos/extra-antipsicoticos-caso3-daniel-clozapina.qmd
   page-footer:
     left: "Terapêutica Clínica - Módulo Saúde Mental · UFSJ · Curso de Medicina"
     center: "[Créditos](/creditos.qmd) · [Como citar](/creditos.qmd#citacao-sugerida)"

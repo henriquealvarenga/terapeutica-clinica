@@ -1,6 +1,6 @@
 ---
-title: "Aula 1 — O resgate rápido"
-subtitle: "Benzodiazepínicos nas situações agudas"
+title: "Aula 1 — Benzodiazepínicos"
+subtitle: "O resgate rápido · uso nas situações agudas"
 ---
 
 ## Introdução
@@ -24,9 +24,9 @@ Três propriedades determinam qual BZD escolher e quando:
 ## Os três casos desta aula
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="casos/aula1-caso1-marina.qmd">A crise no pronto-socorro — Marina, 28 anos · <em>Transtorno de pânico</em></a></li>
-  <li><span class="num">02</span><a href="casos/aula1-caso2-antonio.qmd">Doze horas sem beber — Seu Antônio, 54 anos · <em>Abstinência alcoólica</em></a></li>
-  <li><span class="num">03</span><a href="casos/aula1-caso3-julia.qmd">A noite depois do acidente — Júlia, 35 anos · <em>Reação aguda ao estresse e insônia</em></a></li>
+  <li><span class="num">01</span><a href="casos/aula1-caso1-marina.qmd">Transtorno de pânico — Marina, 28 anos · <em>A crise no pronto-socorro</em></a></li>
+  <li><span class="num">02</span><a href="casos/aula1-caso2-antonio.qmd">Abstinência alcoólica — Seu Antônio, 54 anos · <em>Doze horas sem beber</em></a></li>
+  <li><span class="num">03</span><a href="casos/aula1-caso3-julia.qmd">Estresse agudo e insônia — Júlia, 35 anos · <em>A noite depois do acidente</em></a></li>
 </ol>
 
 ## Reflexões

@@ -1,6 +1,6 @@
 ---
-title: "Caso 1.3 — A noite depois do acidente"
-subtitle: "Júlia, 35 anos · Reação aguda ao estresse e insônia"
+title: "Caso 1.3 — Estresse agudo e insônia"
+subtitle: "A noite depois do acidente · Júlia, 35 anos"
 ---
 
 ::: {.caso-clinico}

@@ -1,6 +1,6 @@
 ---
-title: "Caso 2.1 — O cansaço que não passa"
-subtitle: "Roberto, 42 anos · Depressão maior"
+title: "Caso 2.1 — Depressão maior"
+subtitle: "O cansaço que não passa · Roberto, 42 anos"
 ---
 
 ::: {.caso-clinico}

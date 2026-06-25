@@ -1,0 +1,32 @@
+---
+title: "Caso 1 — Polifarmácia e desprescrição"
+subtitle: "Oito caixas de remédio · Conceição, 54 anos"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">POLIFARMÁCIA · DESPRESCRIÇÃO</span>
+
+Conceição, 54 anos, é acompanhada no ambulatório de saúde mental da policlínica. Chega em uso de **múltiplos psicotrópicos e anticonvulsivantes**, referindo tratamento psiquiátrico contínuo há mais de 15 anos. Nas primeiras consultas, relata tristeza persistente, desânimo constante e dificuldade de realizar as atividades do dia sem o auxílio dos medicamentos — diz precisar deles para dormir e para "conseguir começar o dia". Refere ainda sintomas alucinatórios inespecíficos e queixa-se de dores difusas e intensas pelo corpo.
+
+Faz também acompanhamento neurológico por episódios descritos como "convulsões", iniciados há cerca de dez anos, num período que considera o mais difícil da vida. Segundo ela, eram episódios de tremores, intensa agitação corporal e sofrimento emocional, **sem perda de consciência, sem relaxamento esfincteriano e sem período pós-ictal** claramente identificado. Durante uma das crises sofreu uma queda com lesão grave no ombro, que exigiu cirurgia. Um eletroencefalograma da época foi interpretado como "sugestivo de atividade convulsiva", e a partir daí iniciou-se o anticonvulsivante, mantido por cerca de dez anos — sem novos episódios desde então.
+
+Com o vínculo, emergem elementos da história de vida: solidão intensa, ausência de rede de apoio, ausência de amigas próximas e sofrimento ligado ao distanciamento afetivo do marido, que mantém um relacionamento extraconjugal há anos. Ela aponta essa situação como uma das maiores fontes de sofrimento e relaciona os conflitos conjugais mais intensos ao surgimento do episódio convulsivo mais grave. As medicações são compradas e organizadas pelo marido; Conceição relata sentir-se excessivamente sedada, sem energia e emocionalmente "anestesiada".
+
+**Medicações na avaliação inicial:** Bupropiona 300 mg/dia · Duloxetina 60 mg/dia · Clonazepam 4 mg/dia · Risperidona 4 mg/dia · Aripiprazol 20 mg/dia · Clorpromazina 50 mg/dia · Divalproato de sódio 1000 mg/dia · Carbamazepina 400 mg/dia.
+:::
+
+## Reflexão
+
+Este caso mostra que a polifarmácia raramente é fruto de uma única decisão: ela se constrói em **cascata**, ao longo de anos, cada medicamento somando-se ao anterior para tratar um sintoma — muitas vezes efeito adverso do medicamento de antes. O ponto de virada foi clínico e relacional: um vínculo que permitiu reler as "convulsões" (cuja descrição sugere fortemente **crises não epilépticas psicogênicas**) e reconhecer, no centro do quadro, um sofrimento de vida que nenhum dos oito medicamentos endereçava. A desprescrição aqui não foi "tirar remédio", e sim **devolver sentido** ao sofrimento e construir, com a paciente, um caminho mais seguro.
+
+Ao longo de mais de um ano, com consultas regulares, incentivo à psicoterapia (até então inexistente), articulação com a neurologia para reavaliar os episódios e reduzir gradualmente as medicações, e compartilhamento do cuidado com a Atenção Primária, Conceição retomou atividade física em grupo, ampliou sua convivência social e conseguiu **reduzir significativamente a polifarmácia** — incluindo a retirada dos anticonvulsivantes em conjunto com a neurologia —, mantendo acompanhamento clínico regular.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Quais **hipóteses diagnósticas** podem ser consideradas para os episódios descritos como "convulsões"? Que dados do relato apontam para **crise não epiléptica psicogênica (CNEP)** em vez de epilepsia? Por que um EEG "sugestivo" não fecha o diagnóstico?
+2. Quais **riscos** estão associados à polifarmácia observada neste caso? (Pense em interações, sedação, efeitos metabólicos e motores, quedas, e na sobreposição de três antipsicóticos e dois anticonvulsivantes.)
+3. Quais **fatores psicossociais** aparecem como centrais na produção e na manutenção do sofrimento de Conceição?
+4. Quais **estratégias** permitem construir um processo de desmedicalização **seguro**? Onde entram a **redução hiperbólica**, a distinção entre abstinência e recaída, e a articulação com a neurologia e a Atenção Primária?
+5. Como construir um **Projeto Terapêutico Singular (PTS)** centrado nas necessidades de Conceição, e não apenas nos diagnósticos acumulados? Que papel têm o vínculo, a psicoterapia e a rede social?
+:::

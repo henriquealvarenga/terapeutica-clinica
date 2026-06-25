@@ -1,0 +1,29 @@
+---
+title: "Teoria 2 — Mais tratamento, melhores resultados?"
+subtitle: "A crítica à medicina baseada em evidências"
+---
+
+As principais evidências favoráveis aos antidepressivos vêm de ensaios clínicos randomizados curtos (em geral 8 a 12 semanas) e de estudos de prevenção de recaída. Nestes, pacientes que melhoram com o antidepressivo são divididos entre os que mantêm a medicação e os que passam a placebo; o grupo que mantém costuma recair menos. Mas parte dessa diferença pode ser **sintoma de abstinência** da retirada, confundido com recaída do transtorno original — o que torna a leitura dos resultados mais complexa.
+
+Algumas limitações metodológicas recorrentes desses ensaios:
+
+- financiamento pela indústria farmacêutica;
+- amostras reduzidas;
+- exclusão dos pacientes mais graves;
+- elevado risco de vieses;
+- curta duração do acompanhamento;
+- diferença clínica frequentemente pequena entre placebo e medicamento.
+
+Uma crítica central é a distinção entre **eficácia estatística** e **relevância clínica**. Mesmo quando a diferença entre placebo e antidepressivo é estatisticamente significativa, ela nem sempre produz mudança perceptível na vida das pessoas. Estima-se que cerca de **88% da melhora** observada nos estudos ocorra também no grupo placebo — ou seja, a diferença atribuível ao fármaco é pequena diante da melhora total. Metanálises recentes indicam que a maior parte das pessoas não obtém benefício substancial, mesmo no curto prazo (aproximadamente **30%** se beneficiam a curto prazo), e que não há evidência robusta sustentando o uso contínuo e indefinido.
+
+A pergunta de fundo não é apenas se o medicamento melhora sintomas em poucas semanas, mas se ele **altera positivamente a trajetória** da condição ao longo dos anos. Há estudos sugerindo que o uso prolongado de antidepressivos pode contribuir para a **cronificação** dos quadros depressivos: agindo de forma contínua sobre mecanismos serotoninérgicos, produziriam adaptações neurobiológicas associadas a uma *disforia tardia*. O benefício de curto prazo seria modesto e poderia conviver, no longo prazo, com pior evolução clínica e mais efeitos adversos.
+
+::: {.callout-box}
+**Problemas centrais do modelo (mesmo reconhecendo o valor da MBE)**
+
+- reducionismo biomédico, com dificuldade de incorporar a dimensão subjetiva do sofrimento;
+- hierarquia de evidências frequentemente questionável;
+- maior publicação de estudos positivos do que negativos (viés de publicação);
+- confusão entre significância estatística e relevância clínica;
+- risco de deslegitimar a experiência vivida pelo paciente.
+:::

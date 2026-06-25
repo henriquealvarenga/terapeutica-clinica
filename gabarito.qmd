@@ -9,7 +9,7 @@ Este documento é **exclusivamente para uso do professor**. Não deve ser compar
 
 ---
 
-# Aula 1 — O resgate rápido: Benzodiazepínicos
+# Aula 1 — Benzodiazepínicos
 
 ## Caso 1.1 — Marina, 28 anos (transtorno de pânico)
 
@@ -335,14 +335,1282 @@ Essa gradação ensina que o mesmo medicamento em classes diferentes de paciente
 
 ---
 
-# [CONTINUA PARA AULAS 2, 3, 4...]
+# Aula 2 — ISRS
 
-[O restante do gabarito seguiria a mesma estrutura: 3 casos por aula, 6–8 questões por caso, respostas comentadas diretas, pontos de ensino em destaque.]
+## Caso 2.1 — Depressão maior (Roberto, 42 anos)
 
-**NOTAS PARA O COWORK:**
-- Este template é para a **Aula 1 completa**. As Aulas 2, 3 e 4 devem seguir a mesma lógica, mas com conteúdo específico (ISRS, bipolar, antipsicóticos).
-- Cada resposta deve ser **verificável em fonte confiável** antes de ser escrita.
-- Use Claude/ChatGPT para *estruturar*, mas não como verdade final.
-- As reflexões sobre "pontos de ensino" (avisar erros comuns, destacar nuances) são tão importantes quanto as respostas factuais.
+### Questão 1
+**P: Quais são os critérios do DSM-5 e da CID-11 para episódio depressivo maior? Identifique no caso de Roberto cada sintoma presente. Quantos são necessários e por quanto tempo?**
+
+**R:**
+Pelo **DSM-5-TR**, o episódio depressivo maior exige **≥ 5 dos 9 sintomas**, presentes por **pelo menos 2 semanas**, na maior parte do dia, quase todos os dias — e, obrigatoriamente, ao menos um deles deve ser (1) humor deprimido ou (2) anedonia (perda de interesse/prazer). Os nove sintomas são: humor deprimido; anedonia; alteração de peso/apetite; alteração do sono (insônia ou hipersonia); agitação ou retardo psicomotor; fadiga/perda de energia; sentimento de inutilidade ou culpa excessiva; dificuldade de concentração/indecisão; pensamentos de morte ou ideação suicida. Há ainda o critério de sofrimento/prejuízo funcional e a exclusão de causa orgânica ou por substância.
+
+Em Roberto, identificamos:
+
+| Sintoma DSM-5 | Presente no caso? |
+|---------------|-------------------|
+| Anedonia | Sim — "perdeu o interesse pelas coisas de que gostava" |
+| Insônia (terminal) | Sim — "acorda às 4h e não volta a dormir" |
+| Alteração de peso | Sim — "emagreceu sem querer" |
+| Inutilidade/culpa | Sim — "sente-se inútil e culpado" |
+| Concentração | Sim — "dificuldade de concentração que está afetando o trabalho" |
+| Ideação de morte | Sim — "seria melhor não acordar" (ideação passiva) |
+| Humor deprimido | Implícito — "não é mais o mesmo" há 4 meses |
+
+São **6–7 sintomas por ~4 meses**, muito acima do mínimo de 5 sintomas em 2 semanas. A **CID-11** organiza de forma semelhante (sintomas afetivos, cognitivo-comportamentais e neurovegetativos), também exigindo cerca de 2 semanas e graduando leve/moderado/grave conforme número e intensidade.
+
+**Ponto de ensino:** A **insônia terminal** (despertar precoce sem retorno ao sono) é classicamente associada à depressão melancólica — diferente da insônia inicial, mais típica da ansiedade. Alunos tendem a esquecer que a ideação suicida *passiva* ("queria não acordar") já conta como sintoma e já exige avaliação de risco.
+
+---
+
+### Questão 2
+**P: Por que se pede TSH e hemograma antes de fechar o diagnóstico? Que condições orgânicas podem mimetizar depressão?**
+
+**R:**
+Depressão é um **diagnóstico que exige exclusão de causas orgânicas**, porque várias doenças clínicas produzem fadiga, lentificação, alteração de humor, sono e apetite indistinguíveis de um episódio depressivo. O **TSH** rastreia hipotireoidismo — uma das grandes mascaradoras de depressão (cansaço, lentidão, ganho de peso, humor baixo) e potencialmente reversível com levotiroxina. O **hemograma** detecta anemia, que causa fadiga e desânimo, e pode sinalizar doença sistêmica/inflamatória.
+
+Outras condições a considerar no diferencial: deficiências de **vitamina B12 e folato**; **doença de Parkinson** e outras neurodegenerativas; **diabetes** descompensado; doenças infecciosas crônicas; neoplasias ocultas (especialmente pancreática, classicamente associada a depressão); e, sobretudo, **medicamentos depressogênicos** (corticoides, betabloqueadores, isotretinoína, alguns anti-hipertensivos, interferon). Também é essencial excluir uso de substâncias e álcool.
+
+**Ponto de ensino:** Em Roberto, "tireoide e hemograma normais" é o que valida o diagnóstico de depressão primária. A regra é a mesma da Aula 1 (caso da Marina, com ECG/troponina): **não se atribui à psiquiatria antes de excluir o orgânico tratável** — mas, uma vez excluído, não se deve protelar o tratamento pedindo exames intermináveis.
+
+---
+
+### Questão 3
+**P: Explique a latência de resposta dos ISRS. Se a serotonina aumenta em horas, por que a melhora leva semanas? O que essa demora sugere sobre o mecanismo real do efeito antidepressivo?**
+
+**R:**
+O ISRS bloqueia o **transportador de recaptação de serotonina (SERT)** já nas primeiras doses, elevando a serotonina na fenda sináptica em **horas**. No entanto, a melhora clínica do humor demora **2 a 6 semanas** (em geral, primeiros sinais em 2–4 semanas, resposta plena em 4–6). Esse descompasso é a evidência mais forte de que **o efeito antidepressivo não é simplesmente "mais serotonina"**.
+
+A explicação aceita é a da **adaptação neuronal lenta**. Logo no início, o excesso de serotonina ativa **autorreceptores 5-HT1A** somatodendríticos, que funcionam como um "freio" e *reduzem* a taxa de disparo dos neurônios serotoninérgicos — por isso o paciente não melhora (e pode até piorar a ansiedade) nas primeiras semanas. Com o uso continuado, esses autorreceptores **dessensibilizam**, o freio se solta, e a transmissão serotoninérgica efetiva aumenta. Em paralelo, ocorrem mudanças mais "rio abaixo": maior expressão de **BDNF**, **neurogênese hipocampal** e remodelamento sináptico — processos que levam semanas e que muitos consideram o verdadeiro substrato da melhora.
+
+**Ponto de ensino:** Esse é o ponto que **mais arruína a adesão** quando não é explicado. O paciente sente os colaterais nos primeiros dias e a melhora só semanas depois — e conclui que "o remédio não funciona" ou "está me fazendo mal", abandonando antes da janela terapêutica. Avisar Roberto de que "vai levar de 2 a 6 semanas e os efeitos chatos vêm antes do alívio" é parte do tratamento, não cortesia.
+
+---
+
+### Questão 4
+**P: Quais são os efeitos adversos mais comuns dos ISRS nas primeiras semanas? Por que é importante avisar o paciente antes de começar?**
+
+**R:**
+Os efeitos adversos mais frequentes, sobretudo no início, são:
+
+| Sistema | Efeitos comuns |
+|---------|----------------|
+| **Gastrointestinal** | Náusea, diarreia, dispepsia (os mais precoces; costumam ceder em 1–2 semanas) |
+| **Neurológico** | Cefaleia, tremor, insônia ou sonolência |
+| **Psíquico** | Aumento transitório de ansiedade/inquietação ("jitteriness") nos primeiros dias |
+| **Sexual** | Redução de libido, retardo do orgasmo, anorgasmia, disfunção erétil (tardios e **persistentes**, não cedem com o tempo) |
+| **Outros** | Sudorese, anorexia inicial; a longo prazo, possível ganho de peso |
+
+Avisar o paciente é decisivo por dois motivos. Primeiro, porque os **colaterais aparecem antes da melhora** (Questão 3): se Roberto não for preparado, vai interpretar a náusea e a inquietação como sinal de que o remédio "piorou tudo" e abandonará. Segundo, porque a **disfunção sexual** é a principal causa de abandono silencioso a médio prazo — o paciente raramente relata espontaneamente, e o médico precisa perguntar ativamente. Antecipar ("isso pode acontecer, é manejável, me avise") preserva a aliança e permite ajustes (esperar, reduzir dose, trocar por um ISRS com perfil melhor ou por bupropiona).
+
+**Ponto de ensino:** Náusea e cefaleia são **transitórias** (toleram em dias a 1–2 semanas); a **disfunção sexual é persistente**. Confundir os dois leva o aluno a tranquilizar erroneamente o paciente ("vai passar") sobre um efeito que não passa.
+
+---
+
+### Questão 5
+**P: Existe uma preocupação clássica sobre aumento transitório do risco de suicídio no início do tratamento, sobretudo em jovens. Pesquise a hipótese explicativa (energia/iniciativa retornando antes do humor) e o que isso implica para o acompanhamento das primeiras semanas.**
+
+**R:**
+Sim. A FDA emitiu, em 2004, um **black box warning** sobre aumento de ideação e comportamento suicida em **crianças, adolescentes e adultos jovens (< 25 anos)** nas primeiras semanas de uso de antidepressivos. A hipótese explicativa clássica é a do **descompasso entre recuperação da iniciativa e do humor**: o retardo psicomotor e a anergia melhoram *antes* do humor depressivo e da desesperança. Resulta um intervalo perigoso em que o paciente, ainda profundamente deprimido e sem esperança, **recupera energia e capacidade de planejar e executar** — inclusive um ato suicida que antes a própria inércia impedia.
+
+A implicação prática é o **monitoramento estreito nas primeiras 2 a 4 semanas**: retornos mais frequentes (idealmente em 1–2 semanas após o início e a cada ajuste de dose), perguntas diretas e repetidas sobre ideação, envolvimento de um familiar de confiança como rede de apoio, e prescrição de **quantidades limitadas** de comprimidos para reduzir o risco de superdosagem. É importante contextualizar para o aluno que, no balanço populacional, **tratar a depressão reduz o suicídio** — o não tratamento é mais perigoso que o tratamento. O alerta não é "não prescreva", e sim "prescreva e vigie".
+
+**Ponto de ensino:** Roberto tem 42 anos (fora da faixa de maior alerta), mas **já apresenta ideação passiva** — portanto a vigilância das primeiras semanas vale plenamente. O erro comum do aluno é o oposto do esperado: temer que "o ISRS causa suicídio" e hesitar em tratar, quando a conduta correta é tratar **e** monitorar de perto.
+
+---
+
+### Questão 6
+**P: Quanto tempo se deve manter o ISRS após a melhora de um primeiro episódio depressivo? Por que não se suspende assim que o paciente "fica bem"? O que é uma recaída e como ela difere de uma recorrência?**
+
+**R:**
+Após a **remissão** de um primeiro episódio, mantém-se o ISRS por mais **6 a 12 meses** na mesma dose que produziu a melhora — é a chamada **fase de continuação**. Em pacientes com episódios recorrentes, história familiar importante, sintomas residuais ou episódios graves, indica-se **manutenção por anos ou indefinidamente** (diretrizes APA, NICE e ABP). A regra de ouro: **a dose que tratou é a dose que mantém** — não se reduz "pela metade" só porque o paciente melhorou.
+
+Não se suspende ao "ficar bem" porque a melhora sintomática (**resposta**) e mesmo a **remissão** não significam que o cérebro voltou ao estado pré-mórbido. Suspender precocemente, ainda dentro do episódio em curso, expõe o paciente à **recaída**: o **mesmo episódio** ressurge porque o tratamento foi interrompido antes de o quadro se resolver de fato. Já a **recorrência** é o surgimento de um **novo episódio** depois de um período de recuperação verdadeira (em geral definido como ≥ 6 meses assintomático). Em resumo: recaída = o episódio antigo volta cedo demais; recorrência = um episódio novo aparece mais tarde.
+
+**Ponto de ensino:** A imagem útil é a do antibiótico — completa-se o curso mesmo depois que a febre cede, sob pena de a infecção voltar. Aqui, a "fase de continuação" de 6–12 meses cobre o período em que o episódio ainda poderia recair se o suporte farmacológico fosse retirado.
+
+---
+
+### Questão 7
+**P: Como um ISRS deve ser retirado ao fim do tratamento? O que é a síndrome de descontinuação e por que a paroxetina é particularmente associada a ela?**
+
+**R:**
+A retirada deve ser **gradual (desmame/tapering)**, ao longo de **semanas**, reduzindo a dose por etapas — nunca abruptamente. A **síndrome de descontinuação** dos ISRS ocorre quando a suspensão é brusca ou rápida demais e o cérebro, adaptado ao bloqueio crônico do SERT, fica subitamente sem ele. Os sintomas são lembrados pelo mnemônico **FINISH**: **F**lu-like (sintomas gripais), **I**nsônia, **N**áusea, **I**mbalance (tontura, desequilíbrio), **S**ensory disturbances (parestesias, sensações de "choque elétrico", os clássicos *brain zaps*) e **H**yperarousal (ansiedade, irritabilidade, agitação). Costuma surgir em 1–3 dias após a suspensão e dura dias a poucas semanas.
+
+A **paroxetina** é a mais associada por dois motivos: tem a **meia-vida mais curta** entre os ISRS (≈ 21 h) e **não possui metabólito ativo** de longa duração — logo, ao parar, os níveis caem rapidamente, sem "almofada" que suavize a queda. Soma-se a isso seu **efeito anticolinérgico** mais pronunciado, cuja retirada agrava o desconforto. No extremo oposto, a **fluoxetina**, com meia-vida muito longa (a do metabólito ativo norfluoxetina chega a 1–2 semanas), **autodesmama** e quase não produz síndrome de descontinuação — por isso, às vezes, é usada para fazer a transição de pacientes que reagem mal à retirada de outro ISRS.
+
+**Ponto de ensino:** É preciso **distinguir descontinuação de recaída**. A síndrome de descontinuação aparece em **dias**, traz sintomas *físicos* (brain zaps, gripe, tontura) ausentes do quadro original e **melhora rapidamente ao reintroduzir** a droga; a recaída surge ao longo de **semanas**, reproduz os sintomas *depressivos* originais e não cede de imediato. Importante: a síndrome de descontinuação **não é dependência/adição** — não há fissura nem comportamento aditivo.
+
+---
+
+## Caso 2.2 — Transtorno de ansiedade generalizada (Dona Cleusa, 49 anos)
+
+### Questão 1
+**P: Quais os critérios do DSM-5 e da CID-11 para o transtorno de ansiedade generalizada (TAG)? Quanto tempo de sintomas é necessário? Como ele se diferencia da preocupação "normal" do dia a dia?**
+
+**R:**
+Pelo **DSM-5-TR**, o TAG exige **ansiedade e preocupação excessivas**, na maior parte dos dias, por **pelo menos 6 meses**, sobre múltiplos eventos/atividades; a preocupação é **difícil de controlar**; e associa-se a **≥ 3 de 6 sintomas** (inquietação/sensação de estar no limite, fadiga fácil, dificuldade de concentração, irritabilidade, tensão muscular, perturbação do sono). Acrescenta-se o critério de sofrimento/prejuízo funcional e a exclusão de causa orgânica, substância ou outro transtorno. A **CID-11** é convergente, enfatizando "apreensão geral" ou preocupação focada em múltiplos temas cotidianos, com sintomas de hiperatividade autonômica e tensão, por vários meses.
+
+Dona Cleusa preenche o quadro: preocupa-se "com tudo há anos" (cronicidade > 6 meses), de forma difícil de controlar e mesmo "quando está tudo bem" (excessiva e desproporcional), com **tensão muscular** (pescoço, cefaleia), **fadiga**, **irritabilidade** e **perturbação do sono** — bem mais que os 3 sintomas exigidos.
+
+A diferença para a preocupação "normal" é qualitativa e quantitativa: a preocupação cotidiana é **proporcional, controlável, focada e transitória**; a do TAG é **excessiva, difícil de controlar, difusa, persistente** e acompanhada de sintomas físicos e prejuízo funcional.
+
+**Ponto de ensino:** O divisor de águas é o **"difícil de controlar" + os 6 meses + o prejuízo**. Preocupar-se com contas no fim do mês é normal; preocupar-se com tudo, o tempo todo, sem conseguir desligar, por anos, é patológico.
+
+---
+
+### Questão 2
+**P: Por que tantos pacientes com TAG chegam primeiro com queixas físicas? Que armadilha diagnóstica isso cria na atenção primária?**
+
+**R:**
+Porque a ansiedade é, fisiologicamente, um estado de **hiperativação** que se expressa no corpo: a tensão muscular crônica gera **cefaleia tensional e dor cervical**; a ativação autonômica e a alteração da motilidade intestinal geram **dispepsia e "intestino preso"**; o sono fragmentado gera **fadiga**. Além disso, muitos pacientes **não nomeiam a experiência como "ansiedade"** — mas uma dor de cabeça é uma queixa "legítima" de levar à UBS.
+
+A **armadilha diagnóstica** é a **somatização levar a uma cascata de investigação orgânica interminável**: o paciente percorre vários especialistas, faz exames repetidos (sempre normais), recebe tratamentos sintomáticos isolados — e o transtorno de base nunca é diagnosticado nem tratado. Dona Cleusa é o retrato disso ("já foi a vários médicos, sempre com exames normais"). O custo é alto: anos de sofrimento, iatrogenia e medicalização desnecessária.
+
+**Ponto de ensino:** Exames repetidamente normais em um paciente com queixas físicas múltiplas e crônicas devem **levantar a hipótese de transtorno de ansiedade/somatização**, não motivar o décimo exame. A conduta certa é, *após* exclusão razoável do orgânico, fazer a pergunta-chave: "a senhora se preocupa muito com as coisas?".
+
+---
+
+### Questão 3
+**P: Para a ansiedade crônica de Dona Cleusa, por que um ISRS é preferível a um benzodiazepínico de uso contínuo, apesar de o BZD aliviar a ansiedade muito mais rápido? Construa a comparação ponto a ponto.**
+
+**R:**
+O ISRS é a **primeira linha** no TAG justamente porque a ansiedade é **crônica e contínua** — e, num quadro de meses a anos, o que importa é a segurança no uso prolongado, não a velocidade do alívio. Comparação ponto a ponto:
+
+| Característica | ISRS | Benzodiazepínico (uso contínuo) |
+|----------------|------|----------------------------------|
+| **Início de ação** | Lento (2–6 semanas) | Rápido (minutos a horas) |
+| **Tratamento de fundo** | Sim — atua sobre a ansiedade crônica | Não — alívio sintomático momentâneo |
+| **Tolerância** | Não desenvolve | Desenvolve — perde efeito ansiolítico com o tempo |
+| **Dependência** | Não causa | Causa dependência física e psicológica |
+| **Risco na retirada** | Síndrome de descontinuação (desconfortável, não é adição) | Abstinência grave (ansiedade rebote, insônia, convulsões) |
+| **Segurança a longo prazo** | Boa; uso por anos é seguro | Ruim — sedação, quedas, déficit cognitivo, risco em idosos |
+
+Para uma paciente de 49 anos com quadro de **anos**, prescrever BZD contínuo significaria entrar num ciclo de **tolerância → escalonamento de dose → dependência**, com a ansiedade ainda sem tratamento de fundo. O ISRS, embora lento, **trata a doença** e pode ser mantido com segurança.
+
+**Ponto de ensino:** Este é o contraponto direto da Marina da Aula 1. Lá, ansiedade **aguda** (crise de pânico) — o BZD tem espaço pontual. Aqui, ansiedade **crônica e contínua** — o BZD contínuo é precisamente o que se quer evitar.
+
+---
+
+### Questão 4
+**P: Há situações em que se usa um BZD por um período curto no começo do tratamento de um transtorno de ansiedade, enquanto se espera o ISRS agir? Qual seria a lógica e o risco dessa "ponte"?**
+
+**R:**
+Sim — é a estratégia da **"ponte benzodiazepínica"**. A **lógica** decorre da latência do ISRS: ele leva 2–6 semanas para agir e pode **aumentar transitoriamente a ansiedade nos primeiros dias**. Para um paciente em grande sofrimento, esse intervalo pode ser intolerável e levar ao abandono. Um BZD em dose baixa, por **período curto e definido (poucas semanas)**, "cobre" essa janela enquanto o ISRS ainda não fez efeito, e depois é desmamado.
+
+O **risco** é que a ponte vire moradia. O alívio rápido do BZD é fortemente reforçador, e a tolerância e a dependência se instalam com o uso continuado. Sem um plano explícito de retirada — dose baixa, prazo fixado por escrito, desmame programado —, a "ponte de 2 semanas" facilmente se torna uso crônico. Em idosos, a relação risco-benefício piora (sedação, quedas), e muitos preferem evitar a ponte.
+
+**Ponto de ensino:** A ponte é uma ferramenta legítima, mas perigosa pela mesma razão que a torna útil — funciona rápido. O segredo não é o fármaco, é o **enquadramento**: prazo, dose e desmame combinados *antes* de iniciar, como no caso da Júlia (Aula 1).
+
+---
+
+### Questão 5
+**P: Que tratamento(s) não medicamentoso(s) tem eficácia comparável ou complementar à dos ISRS na ansiedade?**
+
+**R:**
+A **terapia cognitivo-comportamental (TCC)** é o tratamento não farmacológico de primeira linha no TAG, com eficácia **comparável à dos ISRS** e benefício adicional de **maior durabilidade após o término**. No TAG, trabalha a **reestruturação cognitiva** das crenças sobre a preocupação (intolerância à incerteza), o **treino de relaxamento** e o manejo da preocupação. A combinação **ISRS + TCC** tende a ser superior a qualquer um isolado e reduz a recaída na retirada da medicação.
+
+Complementam o tratamento: **psicoeducação** (entender que os sintomas físicos são manifestação da ansiedade — particularmente útil para Dona Cleusa), **mindfulness**, **atividade física regular**, **higiene do sono** e redução de **cafeína**.
+
+**Ponto de ensino:** Dizer a Dona Cleusa que "está tudo normal nos exames" sem oferecer nada é o erro a evitar — ela já ouviu isso e continuou sofrendo. A psicoeducação reenquadra a queixa e abre a porta para TCC e ISRS.
+
+---
+
+## Caso 2.3 — Transtorno obsessivo-compulsivo (Pedro, 24 anos)
+
+### Questão 1
+**P: Defina obsessão e compulsão. No caso de Pedro, identifique qual é a obsessão e qual é a compulsão. Que função a compulsão cumpre em relação à angústia da obsessão?**
+
+**R:**
+**Obsessão** é um pensamento, imagem ou impulso **recorrente, intrusivo e indesejado**, reconhecido como próprio (ego-distônico), que gera **ansiedade/angústia** acentuadas. **Compulsão** é um comportamento repetitivo ou ato mental que a pessoa se sente compelida a realizar **em resposta à obsessão**, com o objetivo de **reduzir a angústia ou prevenir um evento temido** — embora não tenha conexão realista com o que pretende evitar, ou seja claramente excessivo.
+
+Em Pedro:
+- **Obsessão:** os pensamentos recorrentes de que pode ter deixado o **fogão ligado / a porta destrancada** e de que "algo terrível acontecerá por culpa dele".
+- **Compulsão:** **verificar repetidamente** (fogão, fechaduras) muitas vezes antes de sair.
+
+A **função** da compulsão é o eixo do TOC: ela **alivia temporariamente a angústia** da obsessão. Esse alívio opera por **reforço negativo** — o ciclo é **obsessão → ansiedade → compulsão → alívio → reforço**. Cada verificação ensina o cérebro que "verificar fez a angústia passar", aumentando a chance de verificar de novo. Assim, a compulsão, que parece a solução, é o que **perpetua e agrava** o transtorno. Pedro **reconhece o exagero** (insight preservado), mas não consegue resistir.
+
+**Ponto de ensino:** A compulsão **não dá prazer** — alivia sofrimento. O insight preservado ("sei que é exagero") é típico do TOC, ao contrário do delírio psicótico.
+
+---
+
+### Questão 2
+**P: Os ISRS são primeira linha no TOC. O que muda em relação ao tratamento da depressão quanto a dose e tempo de resposta? Por que se costuma ir a doses mais altas?**
+
+**R:**
+No TOC, os ISRS seguem como primeira linha, com duas diferenças marcantes em relação à depressão. **Dose:** tipicamente **mais altas**, próximas ou no **máximo da faixa** (ex.: fluoxetina 60–80 mg/dia, sertralina 200 mg/dia, escitalopram 20 mg/dia). **Tempo de resposta:** latência **ainda mais longa** — espera-se **10 a 12 semanas** em dose adequada antes de considerar falha (contra 4–6 semanas na depressão).
+
+A razão das doses altas é em parte empírica (melhor resposta em doses elevadas) e em parte mecanística: o efeito anti-obsessivo parece exigir **modulação serotoninérgica mais intensa e sustentada** dos circuitos córtico-estriato-tálamo-corticais do TOC.
+
+**Ponto de ensino:** O erro clássico é **declarar "falha terapêutica" cedo demais e em dose baixa**. No TOC, "dose adequada por tempo adequado" significa **dose alta por 10–12 semanas**.
+
+---
+
+### Questão 3
+**P: Há um antidepressivo não-ISRS, mais antigo, que historicamente foi o primeiro tratamento eficaz do TOC e ainda é usado em casos resistentes. Qual é, e qual seu mecanismo? Por que não é mais primeira linha (pense nos efeitos adversos)?**
+
+**R:**
+É a **clomipramina**, um **antidepressivo tricíclico** — o primeiro fármaco com eficácia comprovada no TOC, hoje reservado a **casos resistentes**. Seu mecanismo central é a **inibição potente da recaptação de serotonina** (além de noradrenalina), o que reforça historicamente a hipótese serotoninérgica do transtorno.
+
+Não é mais primeira linha pelo **perfil de efeitos adversos** e pelo **risco em superdosagem**: efeitos **anticolinérgicos** (boca seca, constipação, retenção urinária, visão turva), **anti-histamínicos** (sedação, ganho de peso), **alfa-adrenérgicos** (hipotensão ortostática) e, criticamente, **cardiotoxicidade** (prolongamento do QT, arritmias, com risco letal em superdosagem). Reduz também o limiar convulsivo. Os ISRS, com eficácia comparável e segurança muito superior, deslocaram-na para a segunda linha.
+
+**Ponto de ensino:** A clomipramina ilustra um princípio geral: fármacos antigos muitas vezes **não são menos eficazes, e sim menos seguros/toleráveis**. A migração para ISRS no TOC foi por segurança, não por potência.
+
+---
+
+### Questão 4
+**P: Qual é a psicoterapia de escolha para o TOC, e em que consiste sua técnica central de exposição e prevenção de resposta? Por que pedir ao paciente para não realizar o ritual é terapêutico?**
+
+**R:**
+A psicoterapia de escolha é a **TCC com Exposição e Prevenção de Resposta (EPR)**, em muitos casos combinada ao ISRS (a combinação supera cada um isolado). A técnica tem duas partes: **exposição** — o paciente é exposto, de forma gradual e planejada, ao gatilho que dispara a obsessão (p. ex., sair sem checar o fogão); e **prevenção de resposta** — é orientado a **não realizar a compulsão**, tolerando a ansiedade que surge.
+
+Pedir para **não realizar o ritual** é terapêutico porque **quebra o reforço negativo** que mantém o ciclo. Ao não verificar, o paciente experimenta que a ansiedade **atinge um pico e depois decai sozinha** (**habituação**) e que **a catástrofe temida não acontece**. Aprende, na prática, que a compulsão era **desnecessária**. Repetidas exposições enfraquecem a associação obsessão→compulsão.
+
+**Ponto de ensino:** A intuição leiga ("se eu verificar, alivio") está certa no curto prazo, mas é o que **alimenta** o TOC. A EPR é contraintuitiva: o alívio imediato da compulsão é o veneno; tolerar a angústia é o remédio. A **acomodação familiar** (fazer o ritual pelo paciente ou tranquilizá-lo repetidamente) também reforça o ciclo e deve ser evitada.
+
+---
+
+### Questão 5
+**P: Se Pedro não responder a um ISRS em dose adequada por tempo adequado, quais são os próximos passos?**
+
+**R:**
+Primeiro, confirmar que houve **ensaio adequado**: ISRS em **dose alta por 10–12 semanas**, com **adesão verificada** e, idealmente, **EPR concomitante** — muita "resistência" é tratamento subótimo. Confirmada a falha, os passos escalonados:
+
+1. **Trocar por outro ISRS** — a não resposta a um não prediz não resposta a outro.
+2. **Trocar por clomipramina** — potente, monitorando ECG e tolerabilidade.
+3. **Potencialização com antipsicótico** — adicionar **antipsicótico de 2ª geração em dose baixa** (risperidona, aripiprazol) ao ISRS é a estratégia mais consagrada no TOC resistente, sobretudo com tique associado.
+4. **Otimizar/intensificar a EPR.**
+5. **Casos refratários graves:** combinações e, em situações extremas e selecionadas, neuromodulação (TMS) ou estimulação cerebral profunda, em serviços especializados.
+
+**Ponto de ensino:** A potencialização com **antipsicótico em dose baixa** é a marca do TOC resistente e costuma surpreender ("antipsicótico para TOC?"). Antes de escalonar, sempre **reauditar dose, tempo, adesão e a presença de EPR**.
+
+---
+
+## Resumo pedagógico da Aula 2
+
+**O ISRS é o mesmo remédio com três personalidades, conforme o transtorno — e a chave de todos é o tempo.** Em depressão, ansiedade e TOC, a classe é primeira linha, mas o uso muda em cada um:
+
+- **Roberto (depressão):** o desafio é a **latência de 2–6 semanas** (colaterais antes da melhora), a **vigilância do risco suicida** nas primeiras semanas e a **manutenção** por 6–12 meses para evitar recaída.
+- **Dona Cleusa (TAG):** ansiedade **crônica** pede o ISRS, lento mas seguro, e **não** o benzodiazepínico contínuo — o contraponto direto da Marina da Aula 1.
+- **Pedro (TOC):** o mesmo ISRS, porém em **doses mais altas**, por **mais tempo (10–12 semanas)**, e combinado à **EPR**.
+
+A lição transversal é a **gestão da expectativa de tempo**: o erro que mais sabota o tratamento com ISRS, nos três casos, é **interromper cedo demais** — antes da latência, antes de completar a continuação, ou declarando falha sem dose e tempo adequados.
+
+---
+
+# Aula 3 — Medicalização excessiva
+
+## Caso 1 — Polifarmácia e desprescrição (Conceição, 54 anos)
+
+### Questão 1
+**P: Quais hipóteses diagnósticas podem ser consideradas para os episódios descritos como "convulsões"? Que dados do relato apontam para crise não epiléptica psicogênica (CNEP) em vez de epilepsia? Por que um EEG "sugestivo" não fecha o diagnóstico?**
+
+**R:**
+As hipóteses para os episódios são: (1) **crises epilépticas** verdadeiras; (2) **crises não epilépticas psicogênicas (CNEP)** — também chamadas crises dissociativas ou pseudocrises; (3) outras causas de eventos paroxísticos (síncope, crise de ansiedade/pânico, transtorno conversivo). O conjunto do relato aponta fortemente para **CNEP**.
+
+Os dados que sugerem CNEP em vez de epilepsia:
+
+| Característica | No caso de Conceição | Sugere |
+|----------------|----------------------|--------|
+| Consciência | Preservada ("sem perda de consciência") | CNEP |
+| Liberação esfincteriana | Ausente | CNEP |
+| Período pós-ictal | Ausente / não identificado | CNEP |
+| Semiologia motora | Tremores, agitação corporal intensa, sofrimento emocional | CNEP (movimentos irregulares, assíncronos) |
+| Gatilho | Surgimento ligado a conflito conjugal grave | CNEP (relação com estresse emocional) |
+| Curso | Sem novas crises após anos, mesmo na vigência de revisão da medicação | CNEP |
+
+A epilepsia generalizada típica costuma cursar com perda de consciência, fase tônico-clônica com movimentos rítmicos e síncronos, possível liberação esfincteriana e **confusão pós-ictal** — todos ausentes aqui.
+
+Quanto ao EEG: um laudo "sugestivo de atividade convulsiva" **não fecha o diagnóstico de epilepsia**. O EEG interictal de rotina tem **sensibilidade limitada** (muitos epilépticos têm EEG normal, e há achados inespecíficos super-interpretados em pessoas sem epilepsia). O padrão-ouro para diferenciar CNEP de epilepsia é o **vídeo-EEG**, que registra o evento clínico simultaneamente ao traçado: na CNEP, o EEG ictal não mostra a descarga epileptiforme que acompanharia uma crise verdadeira.
+
+**Ponto de ensino:** Um exame "sugestivo" cria uma âncora diagnóstica que se perpetua por anos. Aqui, um EEG super-interpretado fundou dez anos de anticonvulsivante. A lição é não tratar um laudo como verdade absoluta — correlacionar sempre com a **semiologia clínica** e, na dúvida sobre CNEP, buscar vídeo-EEG antes de cronificar a terapia.
+
+---
+
+### Questão 2
+**P: Quais riscos estão associados à polifarmácia observada neste caso?**
+
+**R:**
+Conceição usa **oito medicamentos**, incluindo **três antipsicóticos** (risperidona, aripiprazol, clorpromazina), **dois anticonvulsivantes** (divalproato, carbamazepina), um benzodiazepínico em dose alta (clonazepam 4 mg/dia) e dois antidepressivos (bupropiona, duloxetina). Os riscos se somam:
+
+- **Sedação e "anestesia" emocional** — exatamente o que ela relata. Clonazepam 4 mg/dia + clorpromazina + risperidona produzem sedação aditiva, embotamento e perda de energia.
+- **Risco de quedas e fraturas** — sedação + hipotensão ortostática (clorpromazina, risperidona) elevam o risco; ela já sofreu queda com lesão grave de ombro.
+- **Efeitos extrapiramidais e discinesia tardia** — a sobreposição de três antipsicóticos potencializa parkinsonismo, acatisia e risco cumulativo de discinesia tardia, muitas vezes irreversível.
+- **Síndrome metabólica** — risperidona e clorpromazina causam ganho de peso, dislipidemia e disglicemia; divalproato agrava o ganho de peso.
+- **Interações farmacocinéticas** — a **carbamazepina é potente indutora enzimática (CYP3A4)**, reduzindo o nível de outros fármacos; o **divalproato é inibidor**, com efeito oposto. A combinação dos dois é farmacologicamente contraditória e gera níveis imprevisíveis.
+- **Redução do limiar convulsivo** — bupropiona e clorpromazina baixam o limiar, um paradoxo em alguém em uso de anticonvulsivante.
+- **Risco de cardiotoxicidade** — prolongamento de QT (clorpromazina + outros) e arritmias.
+- **Cascata de prescrição** — efeitos adversos de um fármaco tratados com mais fármacos.
+
+**Ponto de ensino:** Três antipsicóticos juntos **não somam eficácia** — somam efeitos adversos. A polipsicofarmácia raramente tem suporte na evidência e quase sempre é sinal de **cascata de prescrição**, não de quadro refratário.
+
+---
+
+### Questão 3
+**P: Quais fatores psicossociais aparecem como centrais na produção e na manutenção do sofrimento de Conceição?**
+
+**R:**
+O sofrimento de Conceição tem raízes claramente **biográficas e relacionais**, não apenas "químicas":
+
+- **Solidão e ausência de rede de apoio** — sem amigas próximas, isolamento social.
+- **Sofrimento conjugal crônico** — distanciamento afetivo do marido e relacionamento extraconjugal mantido por anos, apontado por ela como a maior fonte de sofrimento.
+- **Relação temporal entre conflito e sintoma** — o episódio "convulsivo" mais grave surgiu no período de maior conflito conjugal, sugestivo do mecanismo dissociativo/conversivo da CNEP.
+- **Posição de dependência e perda de autonomia** — as medicações são compradas e organizadas pelo marido, de modo que o próprio tratamento reproduz a relação de subordinação.
+- **Determinantes de gênero** — mulheres recebem mais psicotrópicos, e o sofrimento ligado a relações e papéis sociais é frequentemente convertido em diagnóstico e medicação.
+
+**Ponto de ensino:** Quando o medicamento "anestesia" mas não resolve, é sinal de que o sofrimento está endereçado a uma vida, não a uma lesão. Nenhum dos oito remédios tocava a solidão, o luto conjugal ou a falta de autonomia — e por isso nenhum produzia melhora sustentada.
+
+---
+
+### Questão 4
+**P: Quais estratégias permitem construir um processo de desmedicalização seguro? Onde entram a redução hiperbólica, a distinção entre abstinência e recaída, e a articulação com a neurologia e a Atenção Primária?**
+
+**R:**
+A desprescrição segura é um **processo gradual, planejado e compartilhado**, não a retirada abrupta de remédios. Princípios:
+
+1. **Um fármaco por vez, do mais dispensável ao mais essencial.** Priorizar a retirada do que tem pior relação risco-benefício (a sobreposição de antipsicóticos, o clonazepam em dose alta) antes de mexer em tudo simultaneamente.
+2. **Redução hiperbólica (Horowitz & Taylor).** Como a relação dose–ocupação do receptor **não é linear** — pequenas doses já saturam grande parte dos alvos —, reduções proporcionais ao final do desmame causam grandes quedas de ocupação e desencadeiam abstinência. A redução hiperbólica propõe **cortes percentuais cada vez menores**, alongando a "cauda" final da retirada, em vez de cortes lineares fixos.
+3. **Distinguir abstinência de recaída.** Sintomas que surgem **dias após** uma redução, com perfil de retirada (acrônimo **FINISH**), são **abstinência** — autolimitados e revertidos pela desaceleração do desmame. A recaída do transtorno original tende a surgir mais tarde e a reproduzir o quadro de base. Confundir os dois leva a "reintroduzir o remédio" e cronificar indefinidamente o tratamento.
+4. **Articulação com a neurologia** — a retirada dos anticonvulsivantes precisa ser **conjunta com o neurologista**, reavaliando o diagnóstico (CNEP vs epilepsia), idealmente com vídeo-EEG, e monitorando ao longo do desmame.
+5. **Compartilhamento com a Atenção Primária** — a APS sustenta o acompanhamento longitudinal e monitora abstinência/recaída fora do ambulatório especializado.
+6. **Vínculo e tempo** — o desmame de Conceição levou mais de um ano; a velocidade é guiada pela tolerância da paciente, não por um calendário fixo.
+
+**Ponto de ensino:** "Retirar exige tanto conhecimento quanto prescrever." A retirada abrupta produz abstinência que é lida como recaída — o erro mais comum que aprisiona o paciente no remédio. Desprescrever é uma intervenção ativa, lenta e monitorada.
+
+---
+
+### Questão 5
+**P: Como construir um Projeto Terapêutico Singular (PTS) centrado nas necessidades de Conceição, e não apenas nos diagnósticos acumulados? Que papel têm o vínculo, a psicoterapia e a rede social?**
+
+**R:**
+O PTS parte de uma inversão: a pergunta deixa de ser "qual medicamento ajustar" e passa a ser "**o que Conceição precisa para viver melhor**". É um plano construído **com** a paciente, individualizado e revisável, articulando diferentes recursos:
+
+- **Vínculo terapêutico** — foi o vínculo que permitiu reler as "convulsões", reconhecer o sofrimento conjugal e legitimar a experiência dela. É a "tecnologia leve" que sustenta todo o processo de desprescrição.
+- **Psicoterapia** — até então inexistente; é o espaço para elaborar o sofrimento conjugal, a solidão e a perda de autonomia que os fármacos apenas silenciavam.
+- **Reconstrução da rede social** — atividade física em grupo, ampliação da convivência, combate ao isolamento. Esses ganhos foram tão terapêuticos quanto a retirada dos remédios.
+- **Autonomia e protagonismo** — devolver a ela o controle sobre o próprio tratamento (hoje organizado pelo marido) é parte do objetivo terapêutico.
+- **Rede de cuidado** — articulação entre ambulatório de saúde mental, neurologia e Atenção Primária, com responsabilidades compartilhadas.
+
+**Ponto de ensino:** O PTS é o oposto da medicalização: não nega o sofrimento nem o tratamento, mas recoloca o sujeito — e não o diagnóstico — no centro. A meta não é "tirar remédios", e sim **devolver sentido ao sofrimento**; a redução da polifarmácia é consequência, não objetivo isolado.
+
+---
+
+## Caso 2 — Psicose puerperal (Aline, 26 anos)
+
+### Questão 1
+**P: Quais são as principais hipóteses diagnósticas para este caso?**
+
+**R:**
+O quadro de Aline — início **agudo nos primeiros dias após o parto** (13º dia), delírios místico-religiosos (ela é Maria, o bebê é Jesus, missão divina), desconfiança/recusa de ajuda, redução drástica da necessidade de sono, aceleração do pensamento, expansividade, gastos excessivos, irritabilidade e agressividade — é altamente sugestivo de **psicose puerperal**, frequentemente a expressão de um **episódio do espectro bipolar** (maníaco ou misto com sintomas psicóticos) deflagrado pelo puerpério.
+
+| Hipótese | A favor | Observações |
+|----------|---------|-------------|
+| **Psicose puerperal** | Início agudo no puerpério precoce, delírios, desorganização, risco mãe-bebê | Emergência psiquiátrica; alta associação com transtorno bipolar |
+| **Episódio maníaco/misto com sintomas psicóticos** | Redução de sono, energia elevada, fuga de ideias, gastos, irritabilidade | Pode ser a primeira manifestação de transtorno bipolar |
+| **Diferenciais orgânicos do pós-parto** | Necessário descartar | Disfunção tireoidiana pós-parto, infecção/sepse puerperal, eclâmpsia/encefalopatia, distúrbios hidroeletrolíticos, encefalite autoimune (anti-NMDA), intoxicação/abstinência |
+
+**Importante:** psicose puerperal **não** é o mesmo que *baby blues* (disforia leve e autolimitada) nem depressão pós-parto — é um quadro mais grave, agudo e que demanda intervenção imediata.
+
+**Ponto de ensino:** Diante de psicose aguda no puerpério, a investigação orgânica é **obrigatória antes** de fechar o diagnóstico psiquiátrico. Atribuir tudo a "psiquiátrico" sem excluir causa orgânica é um erro grave.
+
+---
+
+### Questão 2
+**P: Quais são os principais riscos para a paciente e para o recém-nascido?**
+
+**R:**
+A psicose puerperal é uma das **emergências psiquiátricas mais graves** justamente pelo duplo risco:
+
+**Para a mãe (Aline):**
+- **Suicídio** — o puerpério é período de risco elevado; a psicose o agrava.
+- **Comportamento desorganizado e impulsivo** — autonegligência, recusa de alimentação/hidratação.
+- **Rápida deterioração clínica** — o curso pode flutuar e piorar em horas.
+
+**Para o recém-nascido:**
+- **Negligência grave** — já há dificuldade em garantir aleitamento, higiene e cuidados básicos.
+- **Risco de infanticídio / agressão direta** — particularmente perigoso quando o delírio **incorpora o bebê** (aqui, o bebê é "Jesus" e há "missão de salvação"): delírios altruístas ou de conteúdo religioso podem motivar atos contra a criança.
+- **Falha de vínculo** e prejuízo no desenvolvimento se a situação se prolonga.
+
+**Ponto de ensino:** O delírio que envolve diretamente o bebê é um **sinal de alarme máximo**. Nunca presumir que a mãe "não faria mal ao próprio filho". A segurança da díade mãe-bebê é prioridade imediata.
+
+---
+
+### Questão 3
+**P: Em quais situações a internação psiquiátrica é indicada no puerpério?**
+
+**R:**
+A internação está indicada quando o cuidado ambulatorial não garante segurança:
+
+- **Risco de auto ou heteroagressão** — ideação/risco suicida, risco ao recém-nascido.
+- **Psicose ou desorganização grave** — incapacidade de cuidar de si e do bebê, juízo crítico ausente.
+- **Recusa de cuidado e de medicação** com quadro grave.
+- **Necessidade de investigação/estabilização** que não pode ser feita com segurança em casa.
+- **Ausência de rede de suporte** capaz de garantir supervisão contínua da mãe e da criança.
+
+Aline preenche vários: psicose aguda, delírio envolvendo o bebê, recusa de ajuda, incapacidade de cuidados básicos — por isso foi **internada em hospital geral por cerca de dez dias** e, após estabilização, encaminhada ao **CAPS**.
+
+**Ponto de ensino:** Aqui a aula "inverte a chave": a crítica à medicalização **não** é convite a negligenciar quem precisa de cuidado intensivo. Quando há recurso, busca-se preservar o vínculo mãe-bebê (unidades de internação conjunta), mas a segurança vem primeiro.
+
+---
+
+### Questão 4
+**P: Como construir um Projeto Terapêutico Singular para Aline após a alta hospitalar?**
+
+**R:**
+Passada a fase aguda, o PTS articula continuidade do tratamento, suporte à maternidade e prevenção de recaída:
+
+- **Acompanhamento longitudinal no CAPS**, com referência clara e plano de manejo de crise.
+- **Tratamento de manutenção**, se confirmado transtorno do espectro bipolar — com decisão compartilhada sobre fármaco, dose e duração, evitando naturalizar uso indefinido.
+- **Suporte ao exercício da maternidade** — apoio aos cuidados com o bebê, reconstrução do vínculo, atenção à possível depressão pós-parto subsequente.
+- **Envolvimento da família** — orientação sobre sinais precoces de recaída, divisão de tarefas, redução da sobrecarga.
+- **Decisão compartilhada sobre amamentação** — pesando desejo de amamentar, exposição medicamentosa pelo leite e necessidade de sono protegido (privação de sono é gatilho de recaída maníaca).
+- **Articulação com a Atenção Primária** para puericultura, saúde da mulher e seguimento próximo.
+- **Psicoeducação** sobre a natureza do quadro, o alto risco de recorrência em gestações futuras e o planejamento reprodutivo.
+
+**Ponto de ensino:** Tratar com a intensidade que o quadro exige na crise **e** construir, depois, um projeto que não cronifique o cuidado de forma automática são duas faces do mesmo compromisso. O PTS não termina na alta — começa nela.
+
+---
+
+### Questão 5
+**P: Quais estratégias de cuidado podem ser desenvolvidas a partir de uma perspectiva desmedicalizante, sem negligenciar a gravidade do quadro?**
+
+**R:**
+A perspectiva desmedicalizante **não** significa não medicar Aline — significa não reduzir o cuidado ao medicamento e não naturalizar seu uso indefinido. Estratégias:
+
+- **Tratar a crise com a intensidade necessária** (medicação, internação) — sem isso, falar em desmedicalização seria negligência.
+- **Projetos terapêuticos temporários e revisáveis** — definir critérios de reavaliação da medicação de manutenção, em vez de prescrição "para sempre".
+- **Tecnologias leves** — vínculo, escuta, acompanhamento contínuo, suporte ao papel materno.
+- **Fortalecimento de rede e suporte social** — família, comunidade, APS.
+- **Decisão compartilhada** em todos os pontos sensíveis (manutenção, amamentação, planejamento reprodutivo).
+- **Prevenção de recaída por meios não farmacológicos** — proteção do sono, redução de estresse, monitoramento de sinais precoces.
+
+**Ponto de ensino:** Desmedicalizar é qualificar o uso do medicamento, não aboli-lo. O contraste com o Caso 1 é didático: lá o problema era excesso; aqui, o risco oposto seria subtratar uma emergência.
+
+---
+
+### Questão 6
+**P: Qual o papel da rede de atenção psicossocial, da família e da atenção básica no acompanhamento deste caso?**
+
+**R:**
+O cuidado de Aline é **necessariamente em rede**:
+
+- **CAPS** — coordena o cuidado em saúde mental após a alta, com acompanhamento intensivo, manejo de crise e suporte à reinserção.
+- **Atenção Básica / Saúde da Família** — proximidade territorial, seguimento longitudinal, puericultura, saúde da mulher, visita domiciliar e detecção precoce de recaída.
+- **Família** — corresponsável pelo cuidado da mãe e do bebê, fonte de supervisão e de identificação de sinais de alarme; precisa de orientação e apoio (a sobrecarga é fator de risco).
+- **Hospital geral / leito de retaguarda** — para reagudização que exija reinternação.
+- **Matriciamento** — apoio da equipe de saúde mental à Atenção Primária.
+
+**Ponto de ensino:** A continuidade entre níveis (hospital → CAPS → APS → família) é o que previne tanto a recaída quanto a institucionalização. Cuidado fragmentado produz reinternações e abandono.
+
+---
+
+### Questão 7
+**P: Quais evidências sustentam (ou limitam) o uso de psicotrópicos durante a gestação e o puerpério? Discuta a amamentação.**
+
+**R:**
+A decisão de manter ou suspender um psicotrópico na gestação/puerpério é o exemplo máximo de **decisão sob incerteza**, em que se pesa o risco da exposição medicamentosa contra o risco do **sofrimento não tratado** (que também afeta o feto/bebê: depressão e psicose não tratadas associam-se a piores desfechos).
+
+A **classificação de risco na gestação** organiza a conversa, mas não a substitui:
+
+| Categoria | Significado | Exemplos |
+|:---------:|-------------|----------|
+| **A** | Sem risco demonstrado | — |
+| **B** | Sem risco em animais; sem estudos em humanos | Citalopram, escitalopram |
+| **C** | Efeitos adversos em animais; sem estudos em humanos | Fluoxetina, sertralina, venlafaxina |
+| **D** | Evidências de risco fetal; uso em situações específicas | Nortriptilina, paroxetina, bupropiona |
+| **X** | Contraindicado; risco supera o benefício | — |
+
+A maioria dos antidepressivos está em **B ou C**. Nenhuma decisão é puramente farmacológica — é também **ética e relacional**, tomada de forma **compartilhada**.
+
+**Sobre a amamentação:** a decisão também é compartilhada e pondera (1) o benefício do aleitamento, (2) a passagem do fármaco pelo leite e a exposição do lactente, (3) e, no caso de Aline, a **necessidade de proteger o sono da mãe** — pois a privação de sono é gatilho potente de recaída maníaca, e amamentação noturna exclusiva pode conflitar com esse objetivo. A conclusão raramente é "proibir" ou "liberar" de forma absoluta: é individualizada.
+
+**Ponto de ensino:** "Não medicar" também é uma decisão com riscos. O sofrimento materno não tratado não é a opção "segura" por padrão. A classificação de risco é **ponto de partida** para a conversa, não a resposta pronta.
+
+---
+
+## Caso 3 — Medicalização na infância (Davi, 11 anos)
+
+### Questão 1
+**P: Como diferenciar sofrimento psíquico relacionado a eventos de vida de transtornos mentais estruturados na infância?**
+
+**R:**
+A diferenciação exige ler o sofrimento **em contexto e ao longo do tempo**, não como sintomas isolados:
+
+| Critério | Sofrimento ligado a eventos de vida | Transtorno estruturado |
+|----------|--------------------------------------|------------------------|
+| Relação temporal | Surge/agrava **junto** a um evento (o afastamento do pai) | Curso próprio, menos atrelado a gatilhos |
+| Sentido | Compreensível à luz da história | Persiste apesar da resolução do contexto |
+| Reversibilidade | Tende a melhorar com mudança do contexto e suporte | Necessita intervenção mais específica e prolongada |
+| Pervasividade | Pode ser situacional (escola, casa) | Costuma ser mais transversal e estável |
+
+Em Davi, a **coincidência temporal** entre a intensificação da agressividade e o afastamento paterno, somada à sobrecarga materna, à exclusão escolar e à ausência de rede, aponta fortemente para **sofrimento reativo a eventos de vida** — sem que isso dispense avaliação cuidadosa dos sintomas psicóticos.
+
+**Ponto de ensino:** Na infância, sintomas são frequentemente expressão de um contexto (família, escola, comunidade), não de uma "doença no cérebro da criança". A pergunta-chave não é "qual diagnóstico", mas "**o que está acontecendo com esta criança, nesta família, nesta escola**".
+
+---
+
+### Questão 2
+**P: Em que medida a centralidade das intervenções medicamentosas pode ter ampliado ou limitado a compreensão do sofrimento apresentado pela criança?**
+
+**R:**
+A trajetória de Davi é a medicalização da infância **em estado quase puro**: diante de um sofrimento com raízes claras no contexto, a única ferramenta acionada foi a **troca sucessiva de antipsicóticos** (risperidona → clorpromazina → periciazina), sem que nenhuma tocasse no que produz e mantém o sofrimento.
+
+Essa centralidade **limitou** a compreensão:
+
+- **Estreitou o olhar** — cada falha gerou "qual o próximo remédio?", e não "o que falta investigar?".
+- **Ocultou o contexto** — abandono paterno, sobrecarga materna e exclusão escolar permaneceram fora do plano.
+- **Reforçou a ideia de criança "doente/refratária"** — quando havia um sofrimento legítimo mal endereçado.
+- **Expôs a criança a riscos** — efeitos adversos de antipsicóticos sem benefício sustentado.
+
+**Ponto de ensino:** A "melhora parcial inicial que não se sustenta" não significa que falta o remédio certo — pode significar que o **alvo da intervenção está errado**. Quando trocar de antipsicótico vira a única conduta, é sinal de que o contexto não está sendo tratado.
+
+---
+
+### Questão 3
+**P: O que este caso ensina sobre a importância de investigar o contexto familiar, escolar e social na avaliação do sofrimento psíquico infantil?**
+
+**R:**
+O caso ensina que **a avaliação do contexto é parte do diagnóstico**, não um acessório. Foi a investigação da composição familiar — feita tardiamente — que revelou a **coincidência temporal** entre o agravamento e o afastamento do pai, e a sobrecarga materna sem rede de apoio.
+
+Investigar contexto significa avaliar:
+- **Família** — separação dos pais, abandono afetivo, sobrecarga e adoecimento do cuidador, dinâmica de limites.
+- **Escola** — a expulsão (que retira um espaço de socialização e proteção), conflitos, possível bullying, dificuldades de aprendizagem.
+- **Social/comunitário** — ausência de rede, vulnerabilidade, acesso a serviços (no caso, não há CAPSi no município).
+
+**Ponto de ensino:** Em saúde mental infantil, a criança é frequentemente quem "denuncia" um sofrimento que é do sistema ao seu redor. Avaliar o contexto antes de ampliar a farmacoterapia é regra, não exceção.
+
+---
+
+### Questão 4
+**P: Qual o significado clínico das vozes relatadas por Davi? Elas necessariamente indicam um transtorno psicótico?**
+
+**R:**
+**Não necessariamente.** Alucinações auditivas na infância têm significado clínico muito mais amplo do que em adultos e **não fecham** diagnóstico de transtorno psicótico isoladamente:
+
+- **Fenômenos do desenvolvimento** — experiências perceptivas atípicas são relativamente comuns em crianças e frequentemente **transitórias**.
+- **Contexto de trauma e sofrimento** — vozes podem surgir associadas a **estresse intenso, abandono, violência e privação afetiva**. As de Davi têm conteúdo coerente com seu sofrimento (**depreciativas**, ligadas à agressividade) — perfil compatível com resposta a trauma/adversidade, não obrigatoriamente com esquizofrenia.
+- **Diferenciais** — descartar causas orgânicas, considerar dissociação, avaliar a presença de outros sintomas de um quadro psicótico estruturado.
+
+A própria evolução farmacológica reforça a cautela: resposta apenas parcial e não sustentada aos antipsicóticos é incompatível com a expectativa de uma psicose primária responsiva.
+
+**Ponto de ensino:** "Ouvir vozes" na infância exige investigar **trauma e contexto** antes de cravar diagnóstico psicótico e ampliar antipsicóticos. A presença de alucinações **não** é, por si, indicação automática de polifarmácia antipsicótica.
+
+---
+
+### Questão 5
+**P: Quais fatores familiares, escolares e sociais podem estar contribuindo para o agravamento do quadro?**
+
+**R:**
+Vários fatores se somam:
+
+- **Familiares** — separação dos pais; **afastamento progressivo do pai** após novo relacionamento (contato hoje raro), vivido como abandono; **sobrecarga materna** e escassez de apoio.
+- **Escolares** — **expulsão da escola**, que retira um espaço estruturante de socialização e proteção e reforça o ciclo de exclusão e agressividade; conflitos com professores.
+- **Sociais/de rede** — ausência de apoio comunitário; **inexistência de CAPSi no município**, dificultando acesso a cuidado especializado infantojuvenil; isolamento da família.
+
+Esses fatores formam um círculo vicioso: o abandono e a sobrecarga alimentam a agressividade; a agressividade leva à exclusão escolar; a exclusão aprofunda o isolamento e o sofrimento.
+
+**Ponto de ensino:** O sofrimento de Davi é também produzido por **falhas do sistema** (escola que expulsa, rede que não acolhe, ausência de serviço). Identificar esses fatores é condição para intervir onde o problema realmente está.
+
+---
+
+### Questão 6
+**P: Quais estratégias não medicamentosas poderiam ser desenvolvidas — incluindo escola, família e rede intersetorial — antes da ampliação da farmacoterapia?**
+
+**R:**
+Antes (e em vez) de mais um antipsicótico, o cuidado de Davi deveria mobilizar a **rede intersetorial**:
+
+- **Matriciamento** — o caso já chega por uma reunião de matriciamento: a equipe de saúde mental apoia o médico de família, qualificando o cuidado **no território**, já que não há CAPSi. É o recurso central diante da ausência de serviço especializado.
+- **Escola** — articulação para **reinserção escolar** (a expulsão é parte do problema, não solução), mediação de conflitos, plano de manejo de comportamento, avaliação pedagógica.
+- **Família** — apoio e alívio da **sobrecarga materna**, orientação sobre limites e manejo de crises, trabalho sobre o abandono paterno; intervenção familiar/psicoterapia.
+- **Psicoterapia para a criança** — espaço para elaborar abandono, raiva e as vozes em contexto de trauma.
+- **Rede intersetorial** — assistência social (CRAS/CREAS), Conselho Tutelar quando pertinente, atividades comunitárias e de convivência.
+- **Construção de um PTS** — plano singular que articule todos esses atores em torno das necessidades reais de Davi e da família.
+
+**Ponto de ensino:** Diante de um sofrimento de origem contextual, a intervenção potente é **intersetorial**, não farmacológica. O matriciamento e a articulação com escola e família fazem o que a troca de antipsicóticos não conseguiu: tocar no que produz o sofrimento.
+
+---
+
+## Resumo pedagógico da Aula 3
+
+**A medicalização excessiva e a desmedicalização são dois erros simétricos — e o bom juízo clínico fica no equilíbrio entre eles.** Os três casos ensinam a calibrar a intensidade do cuidado ao que cada situação realmente exige:
+
+- **Conceição (polifarmácia):** o problema é o **excesso**. A conduta é **desprescrever** com método — redução hiperbólica, distinção abstinência × recaída, articulação em rede — e construir um PTS centrado na pessoa.
+- **Aline (psicose puerperal):** o risco oposto seria **subtratar uma emergência real**. Trata-se com a intensidade devida (internação, medicação) e, depois, constrói-se um projeto que não cronifique automaticamente o cuidado.
+- **Davi (infância):** o problema é **medicar o que é contextual**. A conduta correta é ler o contexto, entender as vozes à luz do trauma/desenvolvimento e mobilizar a **rede intersetorial** antes de ampliar a farmacoterapia.
+
+A lição transversal: **não existe "mais remédio" como resposta universal**. Prescrever, desprescrever e não prescrever são, todas, decisões clínicas ativas — e exigem o mesmo rigor.
+
+---
+
+# Aula extra — Transtorno bipolar
+
+## Caso 1 — Mania aguda com sintomas psicóticos (Lucas, 26 anos)
+
+### Questão 1
+**P: Quais os critérios do DSM-5-TR para um episódio maníaco? Identifique no caso de Lucas cada um dos sintomas (lembre do mnemônico DIGFAST). Quanto tempo de sintomas é necessário?**
+
+**R:**
+O episódio maníaco do DSM-5-TR exige um **período distinto de humor anormalmente e persistentemente elevado, expansivo ou irritável** *e* **aumento anormal e persistente da atividade ou energia dirigida a objetivos**, durando **pelo menos 1 semana** (ou qualquer duração, se houver necessidade de hospitalização). Durante esse período, são necessários **3 ou mais** dos sintomas do critério B (4 ou mais se o humor for apenas irritável).
+
+O mnemônico **DIGFAST** organiza esses sintomas:
+
+| Letra | Sintoma | Em Lucas |
+|-------|---------|----------|
+| **D** — Distractibility | Distratibilidade | Sim — fala muda de assunto rapidamente |
+| **I** — Indiscretion | Atividades de risco / consequências dolorosas | Sim — gastou as economias num projeto |
+| **G** — Grandiosity | Autoestima inflada / grandiosidade | Sim — "escolhido para uma missão especial" |
+| **F** — Flight of ideas | Fuga de ideias / pensamento acelerado | Sim — fala sem parar, troca de assunto |
+| **A** — Activity | Aumento da atividade dirigida a objetivos / agitação | Sim — projeto que "vai mudar o mundo", agitado |
+| **S** — Sleep | Redução da necessidade de sono | Sim — "não preciso, tenho energia de sobra" |
+| **T** — Talkativeness | Loquacidade / pressão de fala | Sim — fala acelerada, sem parar |
+
+Lucas preenche praticamente todos os itens, com duração de cerca de uma semana, humor eufórico/irritável e prejuízo evidente. Diagnóstico de **episódio maníaco** claro; a presença de delírio de grandeza o qualifica como **maníaco com sintomas psicóticos**.
+
+**Ponto de ensino:** O critério A foi reforçado no DSM-5: não basta a alteração do humor; é obrigatório o **aumento de energia/atividade**. Isso reduz falsos positivos (irritabilidade isolada não é mania).
+
+---
+
+### Questão 2
+**P: O que diferencia mania de hipomania? E o que distingue transtorno bipolar tipo I do tipo II?**
+
+**R:**
+A diferença entre **mania** e **hipomania** é de **gravidade, duração e consequências** (os sintomas do critério B são os mesmos):
+
+| Característica | Mania | Hipomania |
+|----------------|-------|-----------|
+| Duração mínima | ≥ 7 dias (ou qualquer, se hospitalização) | ≥ 4 dias consecutivos |
+| Prejuízo funcional | **Marcado** | Mudança observável, **sem prejuízo marcado** |
+| Hospitalização | Pode necessitar | Por definição, **não** necessita |
+| Sintomas psicóticos | Podem ocorrer | **Excluem hipomania** (se há psicose, é mania) |
+
+Quanto aos tipos:
+- **Bipolar tipo I** — exige pelo menos **um episódio maníaco** na vida (episódios depressivos não são necessários para o diagnóstico).
+- **Bipolar tipo II** — exige pelo menos **um episódio hipomaníaco** *e* pelo menos **um episódio depressivo maior**, e **nunca** um episódio maníaco completo.
+
+Lucas tem **bipolar tipo I**: episódio maníaco completo, com psicose e necessidade de PS.
+
+**Ponto de ensino:** A presença de sintomas psicóticos automaticamente classifica o episódio como maníaco (nunca hipomaníaco). Qualquer paciente com humor elevado **e** psicose é, por definição, bipolar tipo I.
+
+---
+
+### Questão 3
+**P: A grandiosidade de Lucas chega a ser delirante. Como diferenciar isso de uma esquizofrenia? Por que o contexto (humor eufórico, episódico) é decisivo?**
+
+**R:**
+O ponto-chave é que, na mania, os sintomas psicóticos são **congruentes com o humor** e **temporalmente ligados ao episódio afetivo**. O delírio de Lucas (ser escolhido para uma "missão especial") é uma extensão grandiosa do humor eufórico — surge *junto* com a euforia, a energia e a redução do sono, e tende a desaparecer quando o humor se normaliza. Na esquizofrenia, os sintomas psicóticos ocorrem **na ausência** de um episódio de humor proeminente por um período significativo, acompanhados de sintomas negativos, desorganização persistente e curso mais crônico.
+
+O DSM-5-TR exige, para esquizofrenia, que eventuais episódios de humor tenham estado presentes por **minoria** da duração total da doença. No **transtorno esquizoafetivo** há sobreposição (psicose por ≥ 2 semanas *sem* sintomas de humor proeminentes, mas com episódios afetivos durante a maior parte do curso). No caso de Lucas, o quadro é claramente **episódico e afetivo**: a psicose é o "topo" da onda maníaca.
+
+**Ponto de ensino:** O erro clássico é diagnosticar esquizofrenia diante de qualquer delírio. A pergunta decisiva é cronológica: *a psicose vive dentro do episódio de humor ou existe independente dele?* Tratar uma mania psicótica como esquizofrenia (só antipsicótico, sem estabilizador) deixaria o paciente sem proteção contra novas oscilações.
+
+---
+
+### Questão 4
+**P: Manejo imediato da agitação no PS — quais classes podem acalmar Lucas com segurança nas próximas horas? (Papel dos antipsicóticos e papel coadjuvante/temporário dos benzodiazepínicos.)**
+
+**R:**
+O objetivo na agitação aguda é **tranquilização rápida sem oversedação**, priorizando desescalonamento verbal e via oral antes da parenteral. As duas classes centrais:
+
+1. **Antipsicóticos** — pilar do manejo da agitação na mania, porque controlam tanto a agitação quanto os **sintomas psicóticos** e já constituem parte do tratamento de fase. Os de 2ª geração (olanzapina, risperidona, aripiprazol, quetiapina) são preferidos; haloperidol ainda é usado em emergência (cautela com extrapiramidais e QT). A via IM cobre quem recusa via oral.
+2. **Benzodiazepínicos** — entram como **coadjuvantes e temporários** (lorazepam), úteis para reduzir agitação/ansiedade e diminuir a dose de antipsicótico. Não tratam a mania nem a psicose; servem de "ponte" nas primeiras horas/dias.
+
+**Cuidado:** evitar **olanzapina IM + benzodiazepínico parenteral** muito próximos, pelo risco de depressão cardiorrespiratória — espaçar e monitorar.
+
+**Ponto de ensino:** No PS, "acalmar" não é o tratamento da doença. O benzodiazepínico é a muleta das primeiras horas; o antipsicótico controla agitação *e* psicose; o estabilizador é o que de fato trata a mania.
+
+---
+
+### Questão 5
+**P: Tratamento da fase maníaca segundo as diretrizes (CANMAT/ISBD) — opções de primeira linha em monoterapia e em combinação. Onde entram lítio, valproato e antipsicóticos de 2ª geração?**
+
+**R:**
+Pela **CANMAT/ISBD**:
+
+- **Monoterapia de primeira linha:** **lítio**, **valproato (divalproato)**, **quetiapina**, **aripiprazol**, **asenapina**, **paliperidona**, **risperidona** e **cariprazina**.
+- **Terapia combinada de primeira linha:** estabilizador (lítio **ou** valproato) **+** antipsicótico de 2ª geração. A combinação tende a ser **mais eficaz** e é preferida em mania grave ou psicótica.
+
+Posicionamento:
+- **Lítio** — estabilizador-protótipo; maior evidência na **prevenção de recaída e redução de suicídio**; início mais lento, o que favorece combiná-lo com antipsicótico na fase aguda.
+- **Valproato** — bom antimaníaco, início mais rápido; útil em sintomas mistos/irritabilidade. **Contraindicado em mulheres em idade fértil** sem contracepção eficaz (teratogenicidade) — menos crítico aqui por Lucas ser homem.
+- **Antipsicóticos de 2ª geração** — eficazes, início rápido; indispensáveis quando há psicose.
+
+Para Lucas (mania psicótica grave): **lítio + antipsicótico de 2ª geração** é escolha de primeira linha bem fundamentada, reforçada pela resposta familiar ao lítio (Questão 7).
+
+**Ponto de ensino:** "Estabilizador de humor" não é sinônimo de "antimaníaco". A lamotrigina, por exemplo, **não** trata mania aguda (seu papel é depressão/manutenção). Saber *para qual fase* serve cada droga é o cerne da terapêutica bipolar.
+
+---
+
+### Questão 6
+**P: Como os sintomas psicóticos (delírio de grandeza) influenciam a escolha? Por que um antipsicótico tende a fazer parte do esquema?**
+
+**R:**
+A presença de psicose **fortalece a indicação de incluir um antipsicótico** e geralmente leva à preferência por **terapia combinada** em vez de monoterapia. O antipsicótico ataca diretamente o delírio (modulação dopaminérgica) e tem início mais rápido que o lítio, oferecendo controle precoce do quadro mais perigoso; além disso, faz dupla função (agitação aguda + psicose + mania). Quetiapina, aripiprazol, risperidona, asenapina e cariprazina cobrem mania **e** psicose. Na manutenção, reavalia-se a necessidade de manter o antipsicótico a longo prazo, pesando eficácia contra efeitos metabólicos.
+
+**Ponto de ensino:** Mania psicótica raramente se trata bem com estabilizador isolado nas primeiras semanas — o lítio sozinho demora a controlar a psicose. O antipsicótico dá segurança e velocidade; o estabilizador sustenta o resultado.
+
+---
+
+### Questão 7
+**P: A família mencionou que o tio usava lítio e melhorou. Que informação isso acrescenta?**
+
+**R:**
+Dado clinicamente valioso. A **resposta ao lítio tem componente familiar (genético)**: parentes de primeiro grau de respondedores ao lítio têm maior probabilidade de também responder bem. História familiar de bipolaridade com **boa resposta a lítio** é um dos preditores positivos mais consistentes — junto de quadro clássico (mania eufórica, episódios bem delimitados com recuperação completa, ausência de ciclagem rápida), perfil que combina com Lucas. Portanto, o relato de que o tio "melhorou com lítio" é um **argumento concreto a favor de escolher o lítio**.
+
+**Ponto de ensino:** A história familiar não serve só ao diagnóstico; orienta a **escolha do fármaco**. Perguntar "algum parente fez tratamento? Qual remédio? Funcionou?" pode mudar a conduta.
+
+---
+
+### Questão 8
+**P: Antes de iniciar lítio, que exames de base são necessários e por quê? Por que o lítio exige monitorização de nível sérico — o que é uma "janela terapêutica estreita"?**
+
+**R:**
+O lítio é eliminado **exclusivamente pelos rins** e tem efeitos crônicos sobre **rim e tireoide**:
+
+| Exame | Por quê |
+|-------|---------|
+| **Função renal** (creatinina, ureia, TFG) | Lítio é excretado pelos rins; disfunção eleva níveis e risco de toxicidade; uso crônico pode causar nefropatia/diabetes insípido nefrogênico |
+| **TSH (tireoide)** | Lítio pode induzir **hipotireoidismo** e bócio |
+| **Eletrólitos** (sódio, cálcio) | Depleção de sódio aumenta a reabsorção de lítio (toxicidade); lítio pode elevar o cálcio |
+| **ECG** | Em mais velhos ou com risco cardíaco |
+| **Beta-hCG** | Teratogenicidade (anomalia de Ebstein) — relevante em mulheres em idade fértil |
+
+**Janela terapêutica estreita** significa que a distância entre a dose eficaz e a tóxica é pequena: a faixa sérica terapêutica fica em torno de **0,6–1,2 mEq/L**, e sinais de **toxicidade** surgem acima de ~1,5 mEq/L (tremor grosseiro, ataxia, confusão, vômitos, convulsões). Por isso é obrigatório **dosar o nível sérico** (em vale, ~12 h após a dose), com função renal e TSH periódicos.
+
+**Ponto de ensino:** Fármacos de janela estreita (lítio, varfarina, digoxina) exigem monitorização do nível. Desidratação, dieta hipossódica, AINEs, IECA/BRA e tiazídicos elevam o lítio e podem precipitar intoxicação — orientar o paciente é parte do tratamento.
+
+---
+
+## Caso 2 — Depressão bipolar (Lucas, três meses depois)
+
+### Questão 1
+**P: A depressão bipolar e a unipolar podem parecer idênticas. Que pistas na história ajudam a suspeitar que uma depressão é, na verdade, bipolar?**
+
+**R:**
+A suspeita vem sobretudo da **história longitudinal** e de características do episódio:
+
+- **História de mania/hipomania** prévia (o dado definitivo — sempre perguntar ativamente).
+- **História familiar** de transtorno bipolar.
+- **Início precoce** e **múltiplos episódios** recorrentes.
+- **Sintomas atípicos/"reversos":** hipersonia, hiperfagia, lentificação intensa, fadiga marcada — exatamente o que Lucas apresenta.
+- **Sintomas psicóticos** ou depressão grave de início abrupto.
+- **Virada (hipo)maníaca prévia induzida por antidepressivo.**
+
+No caso de Lucas não é "suspeita": ele **já teve mania psicótica documentada**. Logo, sua depressão atual é, por definição, **depressão bipolar tipo I**.
+
+**Ponto de ensino:** Muitos bipolares passam anos rotulados como depressão unipolar. A pergunta que muda tudo é sobre episódios de **energia aumentada, redução de sono sem cansaço e expansividade** no passado — e ouvir a família.
+
+---
+
+### Questão 2
+**P: Por que dar um ISRS isolado a Lucas agora pode ser uma má ideia? Explique virada maníaca (switch) e aceleração de ciclagem.**
+
+**R:**
+Prescrever um **antidepressivo isolado** a um paciente bipolar é arriscado por dois fenômenos:
+
+1. **Virada maníaca (switch):** o antidepressivo pode empurrar o humor para o outro polo, desencadeando episódio **(hipo)maníaco ou misto**. Em bipolar **tipo I** como Lucas, o risco é relevante; agentes duais (tricíclicos, venlafaxina) parecem ter risco maior que os ISRS.
+2. **Aceleração de ciclagem:** o uso de antidepressivos pode aumentar a **frequência de episódios** ao longo do tempo (ciclagem rápida ≥ 4/ano), tornando o curso mais instável.
+
+Por isso a regra é **nunca usar antidepressivo isolado** no bipolar; ele só seria considerado **sob cobertura de estabilizador/antipsicótico antimaníaco**. E a depressão bipolar tem tratamentos de **primeira linha que não são antidepressivos clássicos**.
+
+**Ponto de ensino:** O mesmo sintoma (humor deprimido) pede tratamentos diferentes conforme o diagnóstico de base. Tratar depressão bipolar "como uma depressão comum" é um dos erros mais clássicos e danosos.
+
+---
+
+### Questão 3
+**P: Quais são as opções de primeira linha para depressão bipolar segundo as diretrizes (CANMAT/ISBD)?**
+
+**R:**
+Pela **CANMAT/ISBD**, primeiras linhas para depressão bipolar tipo I (note que vários **não** são antidepressivos clássicos):
+
+| Agente | Observação |
+|--------|------------|
+| **Quetiapina** | Antipsicótico de 2ª geração; eficácia robusta na depressão bipolar |
+| **Lurasidona** | 2ª geração; bom perfil metabólico (monoterapia ou adjuvante a lítio/valproato) |
+| **Lítio** | Estabilizador; também antidepressivo na bipolaridade e protetor de longo prazo |
+| **Lamotrigina** | Particularmente na depressão/manutenção |
+| **Cariprazina** | 2ª geração com eficácia na fase depressiva |
+
+Como Lucas já vem em uso de medicação da fase maníaca, a conduta frequente é **otimizar o estabilizador/antipsicótico em uso** e/ou **acrescentar** quetiapina, lurasidona ou lamotrigina.
+
+**Ponto de ensino:** Em depressão bipolar, "antidepressivo" não é a primeira pergunta. Quetiapina e lurasidona tratam a depressão **sem** o risco de switch do antidepressivo isolado.
+
+---
+
+### Questão 4
+**P: A lamotrigina tem papel particular na depressão/manutenção bipolar. Qual? E por que precisa de titulação lenta?**
+
+**R:**
+A **lamotrigina** atua principalmente no **polo depressivo** e na **prevenção de recaídas depressivas** — é mais "profilática para baixo" do que antimaníaca. **Não trata mania aguda** e tem eficácia limitada na depressão **aguda grave** (seu forte é a prevenção de longo prazo). Vantagens: baixo risco de switch e perfil metabólico favorável (não causa ganho de peso).
+
+A **titulação lenta** é obrigatória pelo risco de **reações cutâneas graves**, sobretudo **síndrome de Stevens-Johnson**. O risco aumenta com escalonamento rápido e com **valproato** (que inibe o metabolismo da lamotrigina, dobrando seus níveis). Inicia-se baixo (ex.: 25 mg/dia) e aumenta-se ao longo de semanas, orientando a **suspender ao primeiro sinal de rash**.
+
+**Ponto de ensino:** Lamotrigina é "droga para o polo certo": excelente para prevenir depressão, inútil para mania aguda. "Comece baixo, vá devagar" não é capricho — é prevenção de Stevens-Johnson. Cuidado redobrado se associada a valproato.
+
+---
+
+### Questão 5
+**P: Se, ainda assim, um antidepressivo for usado na depressão bipolar, que precaução é regra?**
+
+**R:**
+A regra de ouro é **nunca usar antidepressivo em monoterapia** no bipolar: só junto de um agente antimaníaco (lítio/valproato ou antipsicótico de 2ª geração), que dá "cobertura" contra a virada. Além disso:
+
+- **Reservar** o antidepressivo para falha das primeiras linhas, e preferir os de **menor risco de switch** (ISRS, bupropiona) em vez de tricíclicos/venlafaxina.
+- **Evitar** em história de switch, sintomas mistos ou ciclagem rápida.
+- **Monitorar** sinais precoces de virada (redução de sono, aceleração, irritabilidade) e **suspender** se surgirem.
+- **Não manter** indefinidamente após a remissão.
+
+**Ponto de ensino:** "Antidepressivo no bipolar" não é proibido em absoluto, mas é exceção condicionada, acompanhada e por tempo limitado. A pergunta não é "qual antidepressivo?", e sim "preciso de antidepressivo, ou um agente de primeira linha resolve sem esse risco?".
+
+---
+
+### Questão 6
+**P: Lucas expressa culpa intensa pelo que fez na mania. Além da farmacologia, que abordagem de psicoeducação ajudaria a família e o paciente a entender a doença como cíclica e tratável, reduzindo a culpa?**
+
+**R:**
+A **psicoeducação** é o instrumento central. O objetivo é que Lucas e a família compreendam que os atos da mania foram **sintomas de uma doença**, não falhas de caráter — assim como uma crise convulsiva ou uma descompensação diabética. Reenquadrar a mania como condição **cíclica, médica e tratável** dissolve boa parte da culpa e da vergonha, que podem agravar e prolongar a depressão.
+
+Elementos úteis:
+- Explicar o **modelo da doença** (fases, base biológica); a culpa é, em parte, sintoma do próprio episódio depressivo.
+- **Envolver a família** como aliada e prepará-la para reconhecer sinais precoces de recaída.
+- Trabalhar **estratégias práticas** (limites bancários combinados, contato precoce com o serviço), devolvendo senso de controle.
+- Reforçar **adesão** e aliança terapêutica, antecipando o tema da manutenção.
+
+**Ponto de ensino:** Psicoeducação tem eficácia demonstrada na redução de recaídas. Aliviar a culpa não é só humano — é terapêutico, porque culpa e vergonha alimentam a depressão e minam a adesão.
+
+---
+
+## Caso 3 — Manutenção e adesão (Lucas, um ano depois)
+
+### Questão 1
+**P: Por que o transtorno bipolar costuma exigir tratamento de manutenção prolongado, mesmo com o paciente assintomático? O que a história natural mostra sobre recaídas?**
+
+**R:**
+O transtorno bipolar é **crônico e recorrente**: a história natural é de **episódios repetidos**, com risco muito alto de recaída após um primeiro episódio — sobretudo após mania. A eutimia **não significa cura**; significa que o tratamento está controlando a doença. Suspender na fase assintomática é o principal precipitante de recaída. Há ainda possível **piora progressiva** com episódios repetidos (maior frequência, episódios mais difíceis, acúmulo de prejuízo, risco de suicídio). Por isso a manutenção é **prolongada** (frequentemente indefinida após mania no tipo I).
+
+**Ponto de ensino:** A recaída mais perigosa é a que vem depois de "estou bem, vou parar". A estabilidade é resultado do tratamento, não sinal de que ele se tornou dispensável.
+
+---
+
+### Questão 2
+**P: Quais medicamentos têm papel consolidado na prevenção de recaídas? Destaque o lítio, inclusive seu efeito sobre o risco de suicídio.**
+
+**R:**
+
+| Agente | Perfil na manutenção |
+|--------|----------------------|
+| **Lítio** | Padrão-ouro; protege contra **mania e depressão**; **reduz o risco de suicídio** |
+| **Quetiapina** | Eficaz nos dois polos |
+| **Valproato** | Profilaxia, mais voltado ao polo maníaco |
+| **Lamotrigina** | Forte na prevenção do polo **depressivo**; fraca para mania |
+| **Aripiprazol, asenapina, risperidona LAI** | Especialmente na prevenção de **mania** |
+
+O **lítio** se destaca: maior evidência de prevenção em **ambos os polos** e o único psicofármaco com evidência consistente de **redução da mortalidade por suicídio** no bipolar — efeito **antissuicídio** aparentemente além da estabilização do humor. Como Lucas tem história familiar de boa resposta a lítio, é forte candidato a esse benefício.
+
+**Ponto de ensino:** O efeito antissuicídio do lítio é argumento de peso, dado que o suicídio é a principal causa de mortalidade precoce no bipolar — frequentemente decisivo para **manter** o lítio.
+
+---
+
+### Questão 3
+**P: O argumento de Lucas ("estou bem, então não preciso mais") tem uma falha lógica importante. Qual? Compare com hipertensão ou diabetes.**
+
+**R:**
+A falha é um erro de causalidade: Lucas está bem **porque** trata — não **apesar** de tratar. Interpretar a estabilidade como prova de que a medicação se tornou desnecessária é confundir o **efeito do tratamento** com **ausência de doença**.
+
+A analogia é direta:
+- Um **hipertenso** com pressão controlada está bem *porque* toma o anti-hipertensivo; se parar, a pressão sobe.
+- Um **diabético** com glicemia controlada está bem *porque* trata.
+
+Ninguém diria "minha pressão está normal, então vou parar". No bipolar é igual: a doença continua presente, apenas controlada.
+
+**Ponto de ensino:** Essa analogia (hipertensão/diabetes) é uma das ferramentas de psicoeducação mais eficazes para adesão — transforma o transtorno em "doença crônica como outra qualquer", reduz estigma e melhora a aceitação do tratamento contínuo.
+
+---
+
+### Questão 4
+**P: O ganho de peso e outros efeitos colaterais são causas frequentes de abandono. Como abordar isso com Lucas sem simplesmente dizer "continue tomando"? Que ajustes são possíveis?**
+
+**R:**
+Primeiro, **validar a queixa**: o ganho de peso é real e afeta autoestima, saúde metabólica e adesão. Em vez de "continue tomando", a postura é de **decisão compartilhada**: "vamos resolver isso juntos, sem abrir mão da sua proteção".
+
+Ajustes:
+- **Identificar o culpado:** olanzapina, quetiapina e valproato causam mais ganho de peso; pode-se **trocar por opção de melhor perfil** (lurasidona, aripiprazol, lamotrigina — quase neutra no peso).
+- **Otimizar dose:** menor dose eficaz.
+- **Estilo de vida:** dieta, atividade física, acompanhamento nutricional; monitorar peso, circunferência, glicemia e lipídios.
+- **Tratar o efeito metabólico** quando indicado (ex.: metformina em casos selecionados).
+- **Revisar outros efeitos** (cognição, tremor, sede/poliúria do lítio) e ajustar.
+
+Tudo isso **mantendo a proteção** — o melhor estabilizador é aquele que o paciente de fato toma.
+
+**Ponto de ensino:** Adesão se constrói levando o efeito colateral a sério. Ignorar a queixa de peso empurra o paciente para o abandono silencioso. Trocar por agente metabolicamente mais leve costuma salvar a adesão sem sacrificar a estabilidade.
+
+---
+
+### Questão 5
+**P: O que é psicoeducação no transtorno bipolar e por que é parte do tratamento, não complemento opcional? Como reconhecer sinais precoces de recaída dá autonomia ao paciente?**
+
+**R:**
+**Psicoeducação** é um processo estruturado em que paciente (e família) aprendem sobre a doença: natureza cíclica e crônica, papel da medicação, importância da adesão, gatilhos (privação de sono, substâncias, estresse, irregularidade de rotina), manejo de efeitos colaterais e reconhecimento de sinais precoces. É uma **intervenção com eficácia demonstrada na prevenção de recaídas e na adesão** (recomendada pela CANMAT/ISBD como componente, não adendo opcional).
+
+O **reconhecimento de sinais precoces** (pródromos) devolve **autonomia**: cada pessoa tem sua "assinatura" de recaída — para a mania, costuma começar com **redução do sono**, aceleração, gastos, irritabilidade; para a depressão, queda de energia, isolamento, alterações de sono/apetite. Ensinar Lucas a identificar **seus próprios** sinais e ter um **plano de ação** combinado (contatar o serviço, ajustar medicação, regularizar sono) permite intervir **antes** que o episódio se instale, transformando-o de objeto passivo em **agente ativo** do cuidado.
+
+**Ponto de ensino:** "Detecção precoce + plano de ação" é um dos pilares mais práticos da manutenção. Um paciente que sabe que "duas noites sem sono é sinal de alerta" pode evitar uma hospitalização. Conhecimento, aqui, é prevenção.
+
+---
+
+## Resumo pedagógico da Aula extra (Transtorno bipolar)
+
+**O transtorno bipolar é uma só doença vista em três momentos — e cada momento pede uma lógica terapêutica distinta.** Acompanhando Lucas:
+
+- **Caso 1 (mania psicótica aguda):** controlar a agitação *agora* (antipsicótico; benzodiazepínico como ponte coadjuvante) e tratar a *fase* com estabilizador + antipsicótico de 2ª geração (CANMAT/ISBD). O lítio brilha, ainda mais com história familiar de resposta; sua janela terapêutica estreita exige exames de base e monitorização sérica.
+- **Caso 2 (depressão bipolar):** o mesmo sintoma **não** se trata como depressão unipolar. Antidepressivo isolado é perigoso (switch, ciclagem); primeira linha são quetiapina, lurasidona, lítio e lamotrigina — esta com titulação lenta por Stevens-Johnson. Psicoeducação alivia a culpa, que é também sintoma.
+- **Caso 3 (manutenção e adesão):** estar bem é o **resultado** do tratamento (analogia com hipertensão/diabetes). Lítio previne recaídas e **reduz suicídio**; efeitos como ganho de peso devem ser ajustados, não ignorados; psicoeducação e reconhecimento de sinais precoces devolvem autonomia e sustentam a adesão.
+
+A lição transversal: a pergunta nunca é só "qual remédio?", mas **"qual fase, qual polo, qual risco e qual paciente?"** — e a manutenção é onde se decide o futuro de longo prazo.
+
+---
+
+# Aula extra — Antipsicóticos
+
+## Caso 1 — Primeiro episódio psicótico (Daniel, 21 anos)
+
+### Questão 1
+**P: Identifique no caso de Daniel quais sintomas são positivos e quais sugerem o início de sintomas negativos. Qual é o delírio? Que tipo de alucinação ele descreve?**
+
+**R:**
+
+| Domínio | O que é | Em Daniel |
+|---------|---------|-----------|
+| **Positivos** | Delírios, alucinações, desorganização | Delírios persecutórios (colegas falam dele, câmeras o monitoram, comida envenenada); alucinações auditivas (vozes que comentam e comandam) |
+| **Negativos** | Embotamento, alogia, avolição, anedonia, isolamento | Isolamento progressivo, abandono dos amigos, largar disciplinas, queda do funcionamento |
+| **Cognitivos** | Atenção, memória de trabalho, função executiva | Sugeridos pelo declínio acadêmico |
+
+**Os delírios** são predominantemente **persecutórios** e de **referência**; a ideia de câmeras "monitorando seus pensamentos" beira o delírio de **controle/influência**. **As alucinações** são **auditivas**, do tipo característico: vozes em **terceira pessoa que comentam** as ações e vozes de **comando** (os clássicos sintomas de primeira ordem de Schneider — não patognomônicos, mas de alto valor descritivo).
+
+**Ponto de ensino:** Sintomas negativos costumam preceder os positivos em meses (fase prodrômica) e são confundidos com depressão, preguiça ou "fase de adolescente". O isolamento e o abandono das disciplinas notados "há alguns meses" são provavelmente o pródromo — reconhecê-los encurta a duração da psicose não tratada.
+
+---
+
+### Questão 2
+**P: Quais os critérios do DSM-5 e da CID-11 para esquizofrenia? Quanto tempo de sintomas é necessário, e por que esse critério temporal existe? Como o quadro de Daniel se diferenciaria de um transtorno psicótico breve ou esquizofreniforme?**
+
+**R:**
+**DSM-5-TR — Critério A:** dois ou mais dos seguintes por porção significativa de ≥ 1 mês, sendo ao menos um dos três primeiros: (1) delírios, (2) alucinações, (3) discurso desorganizado, (4) comportamento desorganizado/catatônico, (5) sintomas negativos. Exige ainda prejuízo de funcionamento (B) e **sinais contínuos por ≥ 6 meses** (C), excluindo transtorno esquizoafetivo/do humor (D) e substância/condição médica (E).
+
+**CID-11:** sintomas característicos por **pelo menos 1 mês** (não exige os 6 meses do DSM) e abandonou os subtipos clássicos em favor de especificadores dimensionais.
+
+**Por que o critério temporal existe:** a psicose pode ser transitória (reativa, por substância, parte de episódio de humor). A duração separa quadros autolimitados de uma doença crônica, evitando rotular precocemente um jovem.
+
+**No caso de Daniel:**
+
+| Diagnóstico | Duração | No caso |
+|-------------|---------|---------|
+| **Transtorno psicótico breve** | > 1 dia e < 1 mês, com retorno completo | Improvável: sintomático há meses |
+| **Transtorno esquizofreniforme** | Critério A por ≥ 1 mês mas < 6 meses | **Diagnóstico mais correto agora** |
+| **Esquizofrenia** | Sinais por ≥ 6 meses | Será o diagnóstico se persistir |
+
+**Ponto de ensino:** No primeiro episódio, o rótulo honesto frequentemente é "transtorno esquizofreniforme" ou "primeiro episódio psicótico" enquanto se observa a evolução. Isso **não atrasa** o tratamento — trata-se a psicose desde já; posterga-se apenas o diagnóstico definitivo.
+
+---
+
+### Questão 3
+**P: Que causas não psiquiátricas de psicose precisam ser descartadas? Por que isso justifica exames e história detalhada?**
+
+**R:**
+
+| Categoria | Exemplos |
+|-----------|----------|
+| **Substâncias (intoxicação)** | Cannabis de alta potência, anfetaminas/cocaína, alucinógenos, fenciclidina, corticoides |
+| **Substâncias (abstinência)** | Álcool (delirium tremens), benzodiazepínicos |
+| **Neurológicas** | Epilepsia do lobo temporal, tumores, AVC, esclerose múltipla, demências, Huntington |
+| **Autoimunes** | **Encefalite anti-NMDA** (jovem com psicose aguda + sinais neurológicos/autonômicos), lúpus do SNC |
+| **Infecciosas** | HIV, neurossífilis, encefalites virais |
+| **Endócrino-metabólicas** | Disfunção tireoidiana, doença de Wilson, deficiência de B12, porfiria, distúrbios do cálcio |
+
+**Por que justifica exames/história:** algumas causas são **reversíveis e tratáveis de modo específico** (encefalite anti-NMDA responde a imunoterapia, não a antipsicótico). Tratar uma encefalite autoimune como esquizofrenia pode ser fatal. A avaliação inclui história (substâncias, evolução, sinais neurológicos), exame neurológico, laboratório (hemograma, tireoide, eletrólitos, B12, sorologias, triagem toxicológica) e, conforme suspeita, neuroimagem, EEG e punção lombar.
+
+**Ponto de ensino:** O caso registra triagem de drogas negativa e exames normais — o trabalho de exclusão necessário. Sinais de alerta para causa orgânica: início muito abrupto, consciência/cognição flutuantes, sinais focais, febre, idade atípica.
+
+---
+
+### Questão 4
+**P: A psicose de Daniel também poderia ser a fase psicótica de um transtorno do humor. Que característica diferencia a psicose da esquizofrenia da que ocorre dentro de mania ou depressão?**
+
+**R:**
+A diferença central é a **relação temporal entre a psicose e a alteração do humor**:
+
+- Na **psicose dos transtornos do humor**, os sintomas psicóticos ocorrem **exclusivamente durante** os episódios de humor e somem quando o humor normaliza; os delírios costumam ser **congruentes** (culpa/ruína na depressão; grandiosidade na mania).
+- Na **esquizofrenia**, há psicose por períodos significativos **na ausência** de episódio de humor proeminente.
+- O **transtorno esquizoafetivo** é o meio-termo (psicose ≥ 2 semanas sem sintomas de humor, mas com episódios afetivos na maior parte do curso).
+
+**Em Daniel:** não há humor expansivo/grandioso nem tristeza profunda com culpa; o quadro é dominado por psicose persecutória, alucinações e empobrecimento — favorecendo esquizofrenia/esquizofreniforme. Ainda assim, é fundamental rastrear sintomas de humor ao longo do acompanhamento.
+
+**Ponto de ensino:** "A psicose veio junto com o humor ou independente dele?" é a pergunta-chave, e muitas vezes só fica clara com o tempo.
+
+---
+
+### Questão 5
+**P: Escolha do antipsicótico no primeiro episódio: por que não se começa com a clozapina? Que efeitos adversos pesam mais na decisão para um jovem de 21 anos?**
+
+**R:**
+As diretrizes (APA 2020, NICE, INTEGRATE) recomendam iniciar com um antipsicótico de 1ª ou 2ª geração **que não a clozapina**, escolhido conjuntamente pelo **perfil de efeitos adversos**, já que a eficácia média no primeiro episódio é semelhante.
+
+**Por que não a clozapina de início:** sua superioridade só se demonstra na **resistência**; e ela carrega **riscos graves** (agranulocitose, miocardite, convulsões) e exige **monitorização hematológica contínua** — ônus desproporcional para quem pode responder a um agente mais simples.
+
+**Efeitos que mais pesam para um jovem de 21 anos:**
+- **Metabólicos** (ganho de peso, dislipidemia, diabetes) — uso por anos; olanzapina é das piores; afeta autoestima e adesão.
+- **Extrapiramidais** e risco de **discinesia tardia** — mais com 1ª geração em dose alta.
+- **Hiperprolactinemia** (risperidona, típicos) — galactorreia, ginecomastia, disfunção sexual, amenorreia.
+- **Sedação** — interfere em estudo e funcionamento.
+
+Na prática, escolhe-se um 2ª geração de perfil favorável (ex.: **aripiprazol**) na **menor dose eficaz**, pois pacientes em primeiro episódio respondem a doses menores e são mais sensíveis a efeitos adversos.
+
+**Ponto de ensino:** No primeiro episódio, a conversa não é "qual o mais forte", mas "qual efeito adverso este paciente tolerará melhor por anos" — porque o melhor antipsicótico é o que ele continuará tomando.
+
+---
+
+### Questão 6
+**P: O que é a "duração da psicose não tratada" e por que ela é um argumento a favor de não adiar o início do tratamento?**
+
+**R:**
+A **duração da psicose não tratada (DUP)** é o intervalo entre o surgimento dos sintomas psicóticos francos e o início do tratamento eficaz. Há evidência consistente de que **DUP mais longa se associa a pior prognóstico**: pior resposta, remissão mais incompleta, mais sintomas negativos residuais, pior funcionamento social/ocupacional. Embora a associação não prove causalidade, é forte o bastante para que reduzir a DUP seja objetivo central dos serviços de intervenção precoce.
+
+**Por que não adiar:** cada semana de psicose ativa é uma janela potencialmente perdida; tratar cedo melhora desfechos e reduz rupturas (acadêmicas, sociais, familiares). Isso justifica iniciar mesmo com diagnóstico provisório.
+
+**Ponto de ensino:** A DUP é, em parte, **modificável** — depende de quão rápido o paciente chega e é tratado. É o equivalente psiquiátrico do "tempo é cérebro" do AVC.
+
+---
+
+### Questão 7
+**P: Daniel não se considera doente (ausência de insight). Como isso afeta a adesão? Que recurso farmacológico existe para pacientes que terão dificuldade de tomar comprimidos todos os dias?**
+
+**R:**
+O **insight** é o reconhecimento de que se está doente e de que o tratamento é necessário. Daniel tem **insight prejudicado**: acredita que delírios e vozes são reais. Sem reconhecer a doença, não vê motivo para tolerar efeitos adversos e tende a abandonar o tratamento — e o prejuízo de insight é um dos mais fortes preditores de **não adesão**, principal causa de recaída.
+
+**Recurso farmacológico:** os **antipsicóticos de ação prolongada (injetáveis / LAI)**, aplicados a cada 2–4 semanas (ou mais). Vantagens: eliminam a necessidade de lembrar comprimidos; **tornam a não adesão visível** (se o paciente não comparece, a equipe sabe); reduzem recaídas e reinternações. Diretrizes recentes defendem **oferecer o injetável precocemente**, inclusive no primeiro episódio.
+
+**Ponto de ensino:** Insight prejudicado não se "convence" com lógica. Trabalha-se com **aliança terapêutica**, entrevista motivacional, família e, com frequência, antipsicótico de ação prolongada — até que a própria melhora ajude a recuperar parte do insight.
+
+---
+
+### Questão 8
+**P: O que é um programa de cuidado coordenado para primeiro episódio? Por que a diretriz o recomenda, e não apenas a medicação isolada?**
+
+**R:**
+É uma abordagem **multidisciplinar integrada** (modelo *Coordinated Specialty Care*, do estudo RAISE) que combina: **antipsicótico em dose baixa** com decisão compartilhada; **psicoterapia** (TCC para psicose); **intervenção familiar e psicoeducação**; **apoio a estudo e trabalho** (*supported education/employment*); e **gestão de caso** coordenando os profissionais.
+
+**Por que em vez de medicação isolada:** ensaios como o RAISE mostraram melhora de **funcionamento, qualidade de vida, adesão e permanência em estudo/trabalho**, com maior benefício quando a DUP é mais curta. A esquizofrenia não é só sintoma positivo: envolve perda de funcionamento e ruptura social. A medicação trata a psicose, mas **não restaura sozinha** o funcionamento; o envolvimento da família melhora o reconhecimento de recaídas e reduz a "emoção expressa".
+
+**Ponto de ensino:** No primeiro episódio, "tratar" é muito mais que prescrever — é uma janela crítica para **preservar a trajetória de vida** do jovem, o que exige uma equipe, não só uma receita.
+
+---
+
+### Questão 9
+**P: O que são Club Houses para transtornos mentais graves? (A mais famosa é a Fountain House, https://www.fountainhouse.org)**
+
+**R:**
+As **Club Houses** (casas-clube) são centros comunitários de **reabilitação psicossocial** para pessoas com transtornos mentais graves, baseados no modelo da **Fountain House** (Nova York, anos 1940). A premissa: a pessoa não é "paciente", mas **membro** de uma comunidade que precisa dela.
+
+Características:
+- **Pertencimento e voluntariedade** (sem alta nem limite de tempo).
+- **Dia de trabalho ordenado** (*work-ordered day*): membros e funcionários trabalham lado a lado nas tarefas reais da casa, valorizando capacidades.
+- **Emprego apoiado e de transição**; apoio a educação, moradia e saúde.
+
+**Por que importa:** combate o **isolamento e a perda de papéis sociais** — exatamente os déficits que a medicação não resolve. Reduz hospitalizações e melhora emprego e propósito. É a peça **psicossocial** complementar ao tratamento.
+
+**Ponto de ensino:** Recuperação ("recovery") não se mede só por ausência de sintomas, mas por uma vida com sentido, vínculos e papéis. As Clubhouses materializam essa ideia.
+
+---
+
+## Caso 2 — Efeitos adversos e adesão (Daniel, semanas depois)
+
+### Questão 1
+**P: A inquietação que impede Daniel de "ficar parado por dentro" tem um nome específico. Qual é, e a que grupo de efeitos adversos pertence? Por que é tão importante reconhecê-la?**
+
+**R:**
+É a **acatisia** — sensação interna de inquietude/incapacidade de ficar parado, com necessidade de se mover. Pertence aos **efeitos extrapiramidais (motores)**, do bloqueio dopaminérgico, e surge nas primeiras semanas ou após aumento de dose.
+
+**Por que é crucial reconhecê-la:**
+- É **frequentemente confundida** com agitação ansiosa ou piora da psicose — e o erro tem consequência: se interpretada como "piora", aumenta-se o antipsicótico, o que **intensifica** a acatisia (ciclo vicioso). O manejo correto é o oposto: **reduzir/trocar** o antipsicótico ou tratar (propranolol; às vezes benzodiazepínico ou mirtazapina).
+- É **muito angustiante** e associada a **abandono** e a aumento de risco suicida. É o que faz Daniel pensar em parar ("me deixa pior do que eu estava").
+
+**Ponto de ensino:** Pergunte especificamente ("você consegue ficar sentado parado?") e observe. Não confunda o motor (acatisia, efeito do remédio) com o psíquico (ansiedade/psicose) — o tratamento é diferente, e oposto.
+
+---
+
+### Questão 2
+**P: Diferencie os quatro efeitos extrapiramidais: parkinsonismo, distonia aguda, acatisia e discinesia tardia. Qual é a maior preocupação a longo prazo e por quê?**
+
+**R:**
+
+| Efeito | Início | Manifestação | Manejo |
+|--------|--------|--------------|--------|
+| **Distonia aguda** | Horas a dias | Contrações sustentadas: torcicolo, crise oculógira, trismo; pode ser laringoespasmo (emergência) | Anticolinérgico (biperideno) parenteral — resposta rápida |
+| **Acatisia** | Dias a semanas | Inquietude interna, não ficar parado | Reduzir/trocar dose; propranolol |
+| **Parkinsonismo** | Dias a semanas | Rigidez, bradicinesia (o "lento e apagado"), tremor, fácies inexpressiva | Reduzir dose, trocar, anticolinérgico |
+| **Discinesia tardia** | Meses a anos | Movimentos involuntários repetitivos, orofaciais e de extremidades | Trocar para menor risco; inibidores de VMAT2 (valbenazina) |
+
+**A maior preocupação a longo prazo é a discinesia tardia (DT):** surge tardiamente, pode ser **persistente/irreversível** mesmo após suspensão, é estigmatizante e mais associada à 1ª geração e ao tempo cumulativo de exposição.
+
+**Ponto de ensino:** Os três primeiros são **precoces e em geral reversíveis**; a DT é **tardia e potencialmente permanente**. Por isso usa-se a menor dose eficaz, prefere-se (em muitos casos) 2ª geração e faz-se **rastreio periódico** (escala AIMS). O "lento e apagado" de Daniel sugere parkinsonismo medicamentoso — reversível com ajuste.
+
+---
+
+### Questão 3
+**P: O ganho de peso de Daniel é risco de saúde e de adesão. Que medidas podem ser tomadas? (troca de antipsicótico, monitorização metabólica, e o papel da metformina.)**
+
+**R:**
+O ganho de peso integra a **síndrome metabólica** induzida por antipsicóticos (peso + dislipidemia + hiperglicemia), pior com **olanzapina e clozapina** e menor com aripiprazol, ziprasidona e lurasidona. É problema duplo: **risco cardiometabólico** (principal causa de mortalidade aumentada na esquizofrenia) e **adesão**.
+
+Medidas:
+1. **Monitorização metabólica desde o início** — peso/IMC, circunferência abdominal, PA, glicemia/HbA1c e lipídios; basal, em 12 semanas e periodicamente.
+2. **Estilo de vida** — nutrição e atividade física estruturada (primeira linha).
+3. **Troca de antipsicótico** por um de menor risco (ex.: olanzapina → aripiprazol).
+4. **Metformina** — diretrizes recentes recomendam **considerá-la** como adjuvante para atenuar o ganho de peso induzido por antipsicóticos, sobretudo quando o estilo de vida é insuficiente ou não se pode trocar o fármaco.
+
+**Ponto de ensino:** Saúde física **é** saúde mental aqui — o paciente com esquizofrenia morre, em média, anos mais cedo, sobretudo por doença cardiovascular. A monitorização metabólica não é "exame extra": é parte obrigatória do tratamento.
+
+---
+
+### Questão 4
+**P: Daniel quer parar. Como conduziria? Compare o risco de manter (efeitos adversos) com o de suspender (recaída). Que ajustes permitiriam manter o tratamento de forma tolerável?**
+
+**R:**
+**Postura:** validar o sofrimento ("esses efeitos são reais") e transformar o "parar tudo" em "ajustar para tolerar". Suspensão abrupta por conta própria é o pior cenário.
+
+| Risco de **manter** (sem ajuste) | Risco de **suspender** |
+|-----------------------------------|------------------------|
+| Acatisia, ganho de peso, sedação, parkinsonismo | **Recaída psicótica** (alto risco, sobretudo no 1º ano) |
+| Comprometem qualidade de vida e adesão | Cada recaída pode trazer pior resposta futura |
+| Em geral **manejáveis** | Reinternação, ruptura de vida, risco de comportamento perigoso |
+
+Os efeitos adversos são, na maioria, **manejáveis**; a recaída é **grave e cumulativa**. Logo, mantém-se o tratamento tornando-o tolerável:
+- **Menor dose eficaz**; **tratar a acatisia** (propranolol); **trocar** por agente de melhor perfil; **abordar o peso** (estilo de vida, eventual metformina); **ajustar horário** (dose noturna para sedação); **decisão compartilhada** e retornos frequentes.
+
+**Ponto de ensino:** "Querer parar" raramente é teimosia; quase sempre é **efeito adverso não tratado**. A resposta certa é "o que está incomodando?" e ajustar — não repetir "você precisa tomar".
+
+---
+
+### Questão 5
+**P: Por quanto tempo se mantém o antipsicótico após a melhora de um primeiro episódio? Por que não suspender assim que os sintomas somem?**
+
+**R:**
+Após remissão de um **primeiro episódio**, mantém-se por **pelo menos 1 a 2 anos** (algumas diretrizes: ao menos 1 ano após estabilização). Em múltiplos episódios/esquizofrenia estabelecida, o tratamento é **de longo prazo/indefinido**.
+
+**Por que não suspender ao melhorar:** a melhora reflete **controle**, não cura; a maioria recai em meses a poucos anos sem medicação. Cada **recaída** pode trazer **pior resposta subsequente** e acúmulo de prejuízo. A fase logo após a remissão é a de **maior vulnerabilidade** — o paciente se sente bem e, sem insight pleno, conclui que "não precisa mais".
+
+**Ponto de ensino:** "Estou bem, posso parar" é armadilha lógica. Se houver decisão de descontinuar (após período estável, com paciente informado), faz-se de forma **gradual e monitorada**, com plano para sinais precoces — nunca abruptamente.
+
+---
+
+## Caso 3 — Esquizofrenia resistente e clozapina (Daniel, dois anos depois)
+
+### Questão 1
+**P: Como se define esquizofrenia resistente ao tratamento? (número de antipsicóticos, dose adequada, tempo adequado e adesão comprovada.) Por que cada elemento importa antes de rotular como "resistente"?**
+
+**R:**
+Define-se como **ausência de resposta satisfatória após pelo menos dois antipsicóticos diferentes**, cada um em **dose adequada**, por **tempo adequado** (≥ 6 semanas cada) e com **adesão comprovada**. Daniel preenche: dois antipsicóticos, dose e tempo suficientes, adesão verificada, sem resposta.
+
+**Por que cada elemento importa** (evitar a pseudorresistência):
+
+| Elemento | Por que importa |
+|----------|-----------------|
+| **Dois antipsicóticos diferentes** | Um único ensaio falho pode ser idiossincrático; a falha de dois torna improvável que um terceiro convencional funcione |
+| **Dose adequada** | Dose subterapêutica não é teste justo |
+| **Tempo adequado** | A resposta leva semanas; suspender cedo rotula como falha o que seria sucesso |
+| **Adesão comprovada** | A causa **mais comum** de "não resposta" é o paciente **não estar tomando** |
+
+**Ponto de ensino:** Antes de dizer "resistente": a dose foi suficiente? Por tempo suficiente? E — sobretudo — ele **estava tomando**? Rotular não adesão como resistência leva a decisões erradas (pular para clozapina sem necessidade).
+
+---
+
+### Questão 2
+**P: Por que verificar a adesão é essencial antes de declarar resistência? Qual recurso ajuda a ter certeza de que o paciente recebeu o medicamento?**
+
+**R:**
+Porque a **não adesão é a causa mais comum de aparente falha**. Declarar resistência (e iniciar clozapina, com seus riscos) em quem não vinha tomando é erro sério.
+
+**Recurso que garante o recebimento:** o **antipsicótico de ação prolongada (injetável / LAI)** — aplicado pela equipe, **garante** que a dose foi recebida. Um ensaio adequado com injetável é a forma mais segura de **comprovar adesão** e, se ainda assim não houver resposta, confirmar resistência verdadeira. (Complementarmente, **níveis séricos** quando disponíveis.)
+
+**Ponto de ensino:** No caminho até a clozapina, o injetável tem papel duplo: trata e **prova** que a falha não é por falta de medicamento. "Adesão comprovada" muitas vezes significa, na prática, "testado com formulação injetável".
+
+---
+
+### Questão 3
+**P: A clozapina é o tratamento de escolha na resistência. O que a torna superior? Por que, apesar disso, não é primeira opção para todos?**
+
+**R:**
+**O que a torna superior:** é o **único antipsicótico com eficácia comprovadamente superior na resistência** — produz resposta onde os demais falham. Seu perfil peculiar (baixa afinidade D2, ampla ação em outros receptores) também explica o **baixíssimo risco de extrapiramidais e discinesia tardia**.
+
+**Por que não é primeira opção para todos:** perfil de segurança exigente — risco de **agranulocitose** (monitorização hematológica obrigatória), **miocardite**, **convulsões**, síndrome metabólica importante, sedação, sialorreia, **constipação grave**; além do ônus de monitorização e titulação lenta. Fora da resistência, os demais antipsicóticos têm eficácia média semelhante entre si — não há vantagem que justifique expor todos aos riscos da clozapina. Ela é reservada aos resistentes (cerca de 1/3 dos pacientes), como Daniel.
+
+**Ponto de ensino:** A clozapina é o exemplo máximo da equação **risco × benefício**: poderosa demais para ser ignorada na resistência, perigosa demais para ser banalizada fora dela.
+
+---
+
+### Questão 4
+**P: Explique a agranulocitose e por que justifica hemogramas regulares. O que o protocolo permite fazer que reduz o risco?**
+
+**R:**
+A **agranulocitose** é uma **queda grave de neutrófilos**, deixando o paciente **vulnerável a infecções potencialmente fatais** (sepse). A clozapina pode causá-la em pequena fração dos pacientes, com risco maior nos **primeiros meses**.
+
+**Por que hemogramas regulares:** a agranulocitose é **imprevisível**, mas **detectável** pela contagem de neutrófilos. Por isso a clozapina é vinculada a um **protocolo obrigatório**: hemograma **semanal** nos primeiros meses (ex.: 18 semanas), depois quinzenal e mensal conforme estabilidade.
+
+**O que a detecção precoce permite:** identificar a queda **antes** da infecção grave; **suspender a clozapina a tempo** (a contagem costuma se recuperar); definir conduta por faixas de contagem.
+
+**Ponto de ensino:** O hemograma **não previne** a agranulocitose; ele a **flagra cedo**, quando ainda é reversível pela suspensão. "Sem hemograma, sem clozapina" não é burocracia — é a condição que torna o tratamento aceitável.
+
+---
+
+### Questão 5
+**P: Além da agranulocitose, cite outros efeitos adversos relevantes da clozapina (metabólicos, sedação, sialorreia, risco cardíaco).**
+
+**R:**
+
+| Categoria | Efeitos |
+|-----------|---------|
+| **Hematológico** | Neutropenia/**agranulocitose** |
+| **Metabólicos** | Grande **ganho de peso**, dislipidemia, **diabetes** — entre os piores antipsicóticos |
+| **Cardíacos** | **Miocardite** (primeiras semanas — emergência), miocardiopatia, prolongamento de QT |
+| **Neurológicos** | **Sedação** intensa, redução do limiar convulsivo (**convulsões** dose-dependentes) |
+| **Gastrointestinais** | **Sialorreia** (hipersalivação, sobretudo noturna) e **constipação grave** (risco de íleo/obstrução, potencialmente fatal) |
+| **Outros** | Hipotensão ortostática, taquicardia, febre, enurese |
+
+**Ponto de ensino:** Dois efeitos costumam ser **subestimados**: a **miocardite** precoce (febre, taquicardia, dispneia ou dor torácica nas primeiras semanas) e a **constipação grave** (causou mortes por íleo — perguntar ativamente sobre evacuação e prescrever laxante). A monitorização vai muito além do hemograma.
+
+---
+
+### Questão 6
+**P: As diretrizes recomendam não adiar a clozapina quando há resistência. Que prejuízo o adiamento causa? Por que, na prática, ela costuma ser subutilizada?**
+
+**R:**
+**Prejuízo do adiamento:** manter a psicose ativa por mais tempo — mais sofrimento, mais internações, mais ruptura de vida. Há evidência de que **iniciar a clozapina mais cedo** se associa a **melhor resposta**; cada antipsicótico convencional tentado em vão só atrasa o que de fato funciona. Por isso as diretrizes (INTEGRATE, APA) recomendam **não trocar repetidamente** entre outros agentes nem usar polifarmácia/megadoses como manobra protelatória — após a falha de dois, o passo lógico é a clozapina.
+
+**Por que é subutilizada:** medo do prescritor (agranulocitose e demais riscos); ônus logístico dos hemogramas e da titulação; necessidade de estrutura/monitorização; desinformação de equipes; resistência do paciente aos exames. O resultado: muitos resistentes ficam **anos** sem o único tratamento eficaz.
+
+**Ponto de ensino:** A clozapina é, ao mesmo tempo, o antipsicótico **mais eficaz na resistência** e um dos **mais subutilizados** — reconhecer a resistência cedo e não "empurrar" a clozapina é marca de boa prática.
+
+---
+
+### Questão 7
+**P: A clozapina tem uma indicação especial relacionada ao risco de suicídio. Qual é? O que isso acrescenta ao seu lugar no arsenal?**
+
+**R:**
+A clozapina é o **único antipsicótico com evidência específica para reduzir o comportamento suicida** em esquizofrenia/transtorno esquizoafetivo de **alto risco** (estudo InterSePT, superior à olanzapina). Essa propriedade **antissuicídio** é reconhecida como benefício distinto, em parte **independente** do efeito antipsicótico.
+
+**O que acrescenta:** o suicídio é uma das principais causas de morte na esquizofrenia; a clozapina, portanto, **salva vidas** em população de risco. Isso amplia suas indicações: um paciente com **comportamento suicida recorrente/persistente** pode ser candidato **mesmo sem preencher estritamente** todos os critérios de resistência sintomática.
+
+**Ponto de ensino:** A clozapina ocupa lugar duplamente especial — a mais eficaz na resistência e a única com efeito antissuicídio comprovado. Adiá-la indevidamente em quem precisa não é "cautela", é privar o paciente do melhor recurso.
+
+---
+
+## Resumo pedagógico da Aula extra (Antipsicóticos)
+
+A trajetória de **Daniel em três momentos** ensina a esquizofrenia como um problema que evolui — e cuja terapêutica é sempre um cálculo de **eficácia contra tolerabilidade e segurança**:
+
+- **Caso 1 (primeiro episódio):** **diagnosticar com cuidado** (descartar orgânico e psicose do humor), **tratar cedo** (a duração da psicose não tratada importa) e **escolher pelo perfil de efeitos adversos**, não pela "potência". A clozapina **não** entra aqui. O insight prejudicado justifica o injetável de ação prolongada e o cuidado coordenado (família, estudo/trabalho, Clubhouses).
+- **Caso 2 (efeitos adversos e adesão):** os efeitos aparecem **antes** da melhora e são a principal causa de abandono. Reconhecer a **acatisia** (não confundir com piora), diferenciar os extrapiramidais, vigiar o **metabólico desde o início** e responder ao "quero parar" com **ajuste** mantém o paciente em tratamento. A manutenção segue por **1–2 anos ou mais** porque a melhora é controle, não cura.
+- **Caso 3 (resistência e clozapina):** após **dois antipsicóticos** em dose/tempo adequados e **com adesão comprovada**, define-se **resistência** — e a **clozapina** é a escolha. Sua eficácia superior (e o efeito **antissuicídio**) justifica **não adiá-la**; seus riscos justificam a **monitorização hematológica obrigatória** e a vigilância clínica.
+
+A lição transversal: o melhor antipsicótico é aquele que controla os sintomas **e** que o paciente continuará tomando. Diagnóstico cuidadoso, tratamento precoce, manejo ativo dos efeitos adversos, aliança terapêutica e uso oportuno da clozapina nos resistentes mudam a trajetória de um jovem como Daniel.
 
 ---

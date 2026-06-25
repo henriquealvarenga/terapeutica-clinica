@@ -1,6 +1,6 @@
 ---
-title: "Caso 2.2 — A preocupação que não desliga"
-subtitle: "Dona Cleusa, 49 anos · Transtorno de ansiedade generalizada"
+title: "Caso 2.2 — Ansiedade generalizada"
+subtitle: "A preocupação que não desliga · Dona Cleusa, 49 anos"
 ---
 
 ::: {.caso-clinico}

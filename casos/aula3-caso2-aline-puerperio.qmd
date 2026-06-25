@@ -1,0 +1,32 @@
+---
+title: "Caso 2 — Psicose puerperal"
+subtitle: "Treze dias depois do parto · Aline, 26 anos"
+---
+
+::: {.caso-clinico}
+<span class="farmaco-tag">PUERPÉRIO · PSICOSE PUERPERAL</span>
+
+Aline, 26 anos, casada, mãe de dois filhos, moradora da cidade. **Treze dias após o nascimento do segundo filho**, familiares procuram atendimento por alterações comportamentais importantes, de início agudo nos dias seguintes ao parto.
+
+Aline passou a apresentar intenso discurso de conteúdo místico-religioso: afirma que o recém-nascido é Jesus Cristo, que ela é Maria e que seu companheiro é José, e que a família foi escolhida por Deus para uma missão de salvação da humanidade. Além dos delírios, apresenta desconfiança em relação às pessoas ao redor, recusando ajuda de familiares e de profissionais no cuidado de si e do bebê. Os familiares relatam dificuldade crescente para garantir o aleitamento, a higiene da criança e os cuidados básicos.
+
+Nas semanas anteriores observou-se **redução importante da necessidade de sono**: ela permanece acordada grande parte da noite, com elevada energia, aceleração do pensamento e da fala, inquietação psicomotora e comportamento expansivo. Também há relato de gastos excessivos, irritabilidade e momentos de agressividade verbal.
+
+Pela gravidade, foi **internada em hospital geral** por cerca de dez dias e, após estabilização inicial, encaminhada ao **CAPS**. Segundo os familiares, não havia histórico prévio de acompanhamento psiquiátrico, uso regular de psicotrópicos ou episódios semelhantes.
+:::
+
+## Reflexão
+
+Aqui a chave se inverte em relação ao Caso 1: este **não** é um caso de excesso de tratamento, e sim de uma **emergência psiquiátrica real** — a psicose puerperal é grave e envolve risco para a mãe e para o bebê. O aprendizado da aula é justamente saber distinguir: a crítica à medicalização não é um convite a negligenciar quem precisa de cuidado intensivo. O desafio é tratar com a intensidade que o quadro exige *e*, passada a fase aguda, construir um projeto de cuidado que não naturalize o uso contínuo e indefinido de medicamentos — articulando rede, família e Atenção Primária, e decidindo de forma compartilhada questões como amamentação e exposição medicamentosa.
+
+## Roteiro de estudo
+
+::: {.questao-list}
+1. Quais são as principais **hipóteses diagnósticas** para este caso? (Considere psicose puerperal, episódio maníaco/misto com sintomas psicóticos no puerpério e diferenciais orgânicos do pós-parto.)
+2. Quais são os principais **riscos** para a paciente e para o recém-nascido?
+3. Em quais situações a **internação psiquiátrica** é indicada no puerpério?
+4. Como construir um **Projeto Terapêutico Singular** para Aline após a alta hospitalar?
+5. Quais estratégias de cuidado podem ser desenvolvidas a partir de uma perspectiva **desmedicalizante**, sem negligenciar a gravidade do quadro?
+6. Qual o papel da **rede de atenção psicossocial, da família e da atenção básica** no acompanhamento deste caso?
+7. Quais **evidências** sustentam (ou limitam) o uso de psicotrópicos durante a gestação e o puerpério? Reveja a tabela de classificação de risco no material teórico [Gestação e puerpério](../aula3-teoria4-gestacao.qmd) e discuta a amamentação.
+:::

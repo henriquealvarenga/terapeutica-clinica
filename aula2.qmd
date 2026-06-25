@@ -1,6 +1,6 @@
 ---
-title: "Aula 2 — O tratamento de fundo"
-subtitle: "ISRS na depressão, na ansiedade crônica e no TOC"
+title: "Aula 2 — ISRS"
+subtitle: "O tratamento de fundo · depressão, ansiedade crônica e TOC"
 ---
 
 ## Introdução
@@ -12,17 +12,18 @@ Os **inibidores seletivos da recaptação de serotonina (ISRS)** são, atualment
 ::: {.callout-box}
 **Farmacologia Básica**
 
-Os ISRS bloqueiam a **recaptação de serotonina** na fenda sináptica, aumentando a quantidade desse neurotransmissor disponível. Os principais são **fluoxetina, sertralina, escitalopram, citalopram, paroxetina e fluvoxamina**.
+Em sua ação inicial, os ISRS bloqueiam a **recaptação de serotonina** na fenda sináptica, aumentando a quantidade desse neurotransmissor disponível. Esse é apenas o primeiro processo numa cascata de eventos complexa, que culmina numa mudança comportamental e emocional. O detalhe importante é temporal: o aumento da serotonina na fenda acontece em horas, mas a melhora clínica leva 2 a 6 semanas. Isso sugere que o efeito terapêutico não vem do simples aumento de serotonina, mas de adaptações mais lentas do cérebro (mudanças em receptores, neuroplasticidade) que esse aumento desencadeia. Esse descompasso explica boa parte do que importa sobre o uso clínico dos ISRS.
 
-O detalhe importante é temporal: o aumento da serotonina na fenda acontece em horas, mas a melhora clínica leva 2 a 6 semanas. Isso sugere que o efeito terapêutico não vem do simples aumento de serotonina, mas de adaptações mais lentas do cérebro (mudanças em receptores, neuroplasticidade) que esse aumento desencadeia. Esse descompasso explica boa parte do que importa sobre o uso clínico dos ISRS.
+Os principais são **fluoxetina, sertralina, escitalopram, citalopram, paroxetina e fluvoxamina**.
+
 :::
 
 ## Os três casos desta aula
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="casos/aula2-caso1-roberto.qmd">O cansaço que não passa — Roberto, 42 anos · <em>Depressão maior</em></a></li>
-  <li><span class="num">02</span><a href="casos/aula2-caso2-cleusa.qmd">A preocupação que não desliga — Dona Cleusa, 49 anos · <em>Transtorno de ansiedade generalizada</em></a></li>
-  <li><span class="num">03</span><a href="casos/aula2-caso3-pedro.qmd">Quando trancar a porta não basta — Pedro, 24 anos · <em>Transtorno obsessivo-compulsivo</em></a></li>
+  <li><span class="num">01</span><a href="casos/aula2-caso1-roberto.qmd">Depressão maior — Roberto, 42 anos · <em>O cansaço que não passa</em></a></li>
+  <li><span class="num">02</span><a href="casos/aula2-caso2-cleusa.qmd">Ansiedade generalizada — Dona Cleusa, 49 anos · <em>A preocupação que não desliga</em></a></li>
+  <li><span class="num">03</span><a href="casos/aula2-caso3-pedro.qmd">Transtorno obsessivo-compulsivo — Pedro, 24 anos · <em>Quando trancar a porta não basta</em></a></li>
 </ol>
 
 ## Reflexões

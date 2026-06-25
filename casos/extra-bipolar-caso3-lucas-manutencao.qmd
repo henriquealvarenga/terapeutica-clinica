@@ -1,6 +1,6 @@
 ---
-title: "Caso 3.3 — Ficar bem e continuar bem"
-subtitle: "Lucas, um ano depois · Manutenção e adesão"
+title: "Caso 3 — Manutenção e adesão"
+subtitle: "Ficar bem e continuar bem · Lucas, um ano depois"
 ---
 
 ::: {.caso-clinico}
