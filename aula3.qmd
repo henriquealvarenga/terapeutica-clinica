@@ -1,6 +1,8 @@
 ---
 title: "Aula 3 — Medicalização excessiva"
 subtitle: "Quando o cuidado vira excesso · patologização e medicalização da vida"
+bibliography: references/references.bib
+csl: references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -37,13 +39,21 @@ Os três casos percorrem três momentos da vida em que a medicalização aparece
 
 ## Leituras de apoio
 
-- **Moncrieff J. et al. — "The serotonin theory of depression: a systematic umbrella review" (Molecular Psychiatry, 2022).** Revisão que questiona a base serotoninérgica simples da depressão. [Acessar](https://www.nature.com/articles/s41380-022-01661-0).
-- **Horowitz MA, Taylor D. — "Tapering of SSRI treatment to mitigate withdrawal symptoms" (The Lancet Psychiatry, 2019).** Base farmacológica da **redução hiperbólica** e da ocupação do SERT. [Acessar](https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366%2819%2930032-X/fulltext).
-- **Whitaker R. — *Anatomia de uma Epidemia* (2010).** A hipótese da cronificação associada ao uso prolongado de psicotrópicos.
-- **Frances A. — *Voltando ao Normal / Saving Normal* (2013).** Sobre inflação diagnóstica e a expansão das fronteiras do normal.
-- **Moynihan R, Heath I, Henry D. — "Selling sickness: the pharmaceutical industry and disease mongering" (BMJ, 2002).** Texto clássico sobre *disease mongering*. [Acessar](https://www.bmj.com/content/324/7342/886).
-- **Conrad P. — *The Medicalization of Society* (2007).** Referência sociológica sobre o conceito de medicalização.
-- Procure também sobre **desprescrição em saúde mental**, **crises não epilépticas psicogênicas (CNEP)** e **Projeto Terapêutico Singular (PTS)** no SUS.
+Cada item aponta uma das referências que embasam a aula; a lista completa e formatada está em **[Referências](#referências)**, ao final.
+
+- A crítica à hipótese serotoninérgica simples da depressão [@moncrieff2022serotonin].
+- A base farmacológica da **redução hiperbólica** e da ocupação do SERT [@horowitz2019tapering].
+- A hipótese da **cronificação** associada ao uso prolongado de psicotrópicos [@whitaker2010anatomy].
+- A **inflação diagnóstica** e a expansão das fronteiras do normal [@frances2013saving].
+- O conceito de ***disease mongering*** (mercantilização de doenças) [@moynihan2002selling].
+- O conceito sociológico de **medicalização** [@conrad2007medicalization].
+
+Procure também sobre **desprescrição em saúde mental**, **crises não epilépticas psicogênicas (CNEP)** e **Projeto Terapêutico Singular (PTS)** no SUS.
+
+## Referências
+
+::: {#refs}
+:::
 
 ::: {.entrega-box}
 ### Tarefas
