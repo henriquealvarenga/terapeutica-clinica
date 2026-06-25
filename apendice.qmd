@@ -1,10 +1,10 @@
 ---
 title: "Apêndice — A nova nomenclatura (NbN)"
 subtitle: "Nomear os psicofármacos pela farmacologia, não pela indicação"
-bibliography: references/nbn.bib
+bibliography: references/references.bib
 csl: references/csl_styles/vancouver.csl
 nocite: |
-  @*
+  @zohar2015nomenclature, @zohar2014proposal, @zohar2016call, @caraci2017new, @zemach2023teaching, @galduroz2025portuguese, @ecnp_nbn, @nbn2r_site
 ---
 
 ## Da indicação clínica ao mecanismo de ação: a nova nomenclatura dos psicofármacos
