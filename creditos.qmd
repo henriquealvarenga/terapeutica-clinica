@@ -157,6 +157,12 @@ Silva, H. A. da. (2026). *Terapêutica Clínica - Módulo Saúde Mental: Aprendi
 :::
 
 ::: {.about-section}
+## Código-fonte e edição
+
+O site é mantido em um repositório público no GitHub: [github.com/henriquealvarenga/terapeutica-clinica](https://github.com/henriquealvarenga/terapeutica-clinica). Professores colaboradores podem editar os textos diretamente (com acesso de colaborador) ou propor mudanças por *fork* e *pull request*. Veja também a [Área dos professores](professores.qmd).
+:::
+
+::: {.about-section}
 ## Contato
 
 Dúvidas, sugestões ou correções:
