@@ -1,6 +1,10 @@
 ---
 title: "Gabarito — Terapêutica Clínica - Módulo Saúde Mental"
 subtitle: "Respostas comentadas para o professor"
+bibliography: references/references.bib
+csl: references/csl_styles/vancouver.csl
+nocite: |
+  @dsm5tr, @icd11, @asam2020alcohol, @mdcalc_ciwa, @fda2004antidepressants, @horowitz2019tapering, @yatham2018canmat, @keepers2020apa, @mccutcheon2025integrate, @kane2016raise, @howes2017trrip, @meltzer2003intersept, @fountainhouse
 ---
 
 ::: {.aviso}
@@ -1614,3 +1618,10 @@ A trajetória de **Daniel em três momentos** ensina a esquizofrenia como um pro
 A lição transversal: o melhor antipsicótico é aquele que controla os sintomas **e** que o paciente continuará tomando. Diagnóstico cuidadoso, tratamento precoce, manejo ativo dos efeitos adversos, aliança terapêutica e uso oportuno da clozapina nos resistentes mudam a trajetória de um jovem como Daniel.
 
 ---
+
+## Referências
+
+As diretrizes e os estudos citados ao longo deste gabarito:
+
+::: {#refs}
+:::
