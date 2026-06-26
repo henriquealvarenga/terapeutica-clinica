@@ -1,6 +1,8 @@
 ---
 title: "Aula 2 — ISRS"
 subtitle: "O tratamento de fundo · depressão, ansiedade crônica e TOC"
+bibliography: references/references.bib
+csl: references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -34,11 +36,17 @@ Um benzodiazepínico alivia a ansiedade rapidamente, mas pode levar o paciente a
 
 ## Leituras de apoio
 
-- **StatPearls — Selective Serotonin Reuptake Inhibitors (NCBI Bookshelf).** Mecanismo, indicações, efeitos adversos. [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK554406/).
-- **Trajetória de resposta dos ISRS no TOC (meta-análise).** Mostra que parte do ganho aparece mais cedo do que se pensava e que doses maiores ajudam. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27249090/).
-- **Revisão sobre doses altas de ISRS no TOC resistente (2025).** [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12155805/).
-- **DSM-5-TR** — critérios de episódio depressivo maior, TAG e TOC.
-- Procure também diretrizes brasileiras de depressão e de transtornos de ansiedade (ABP) e os capítulos correspondentes em um livro-texto de psiquiatria ou de psicofarmacologia (ex.: Stahl, *Psicofarmacologia*).
+- Mecanismo, indicações e efeitos adversos dos ISRS [@statpearls_ssri].
+- Trajetória de resposta dos ISRS no TOC: parte do ganho aparece cedo e doses maiores ajudam [@issari2016ocd].
+- Doses supraterapêuticas de ISRS no TOC resistente [@gualtieri2025ssri].
+- Critérios de episódio depressivo maior, TAG e TOC [@dsm5tr].
+
+Procure também as diretrizes brasileiras de depressão e ansiedade (ABP) e um livro-texto de psicofarmacologia [@stahl].
+
+## Referências
+
+::: {#refs}
+:::
 
 ::: {.entrega-box}
 ### Tarefas

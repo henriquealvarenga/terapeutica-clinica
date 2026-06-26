@@ -1,6 +1,8 @@
 ---
 title: "Aula 1 — Benzodiazepínicos"
 subtitle: "O resgate rápido · uso nas situações agudas"
+bibliography: references/references.bib
+csl: references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -45,12 +47,17 @@ Pense nisso: por que um remédio que alivia a ansiedade em 20 minutos é, parado
 
 ## Leituras de apoio
 
-- **ASAM — Diretriz de manejo da abstinência alcoólica (2020).** Referência sobre uso de BZD guiado por CIWA-Ar. [Resumo no Journal of Addiction Medicine](https://journals.lww.com/journaladdictionmedicine/fulltext/2020/06001/the_asam_clinical_practice_guideline_on_alcohol.1.aspx).
-- **MDCalc — CIWA-Ar.** Calculadora e descrição dos 10 itens da escala. [Acessar](https://www.mdcalc.com/calc/1736/ciwa-ar-alcohol-withdrawal).
-- **StatPearls — Benzodiazepines (NCBI Bookshelf).** Revisão de mecanismo, farmacocinética e usos. [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK470159/).
-- **StatPearls — Alcohol Withdrawal.** [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK441882/).
-- **DSM-5-TR** — critérios de ataque de pânico, transtorno de pânico, reação/transtorno de estresse agudo (consulte a edição disponível na sua biblioteca).
-- Para o diferencial do pânico e manejo no PS, procure também diretrizes brasileiras (ABP — Associação Brasileira de Psiquiatria) e o capítulo correspondente em um livro-texto de psiquiatria que você tenha acesso.
+- Manejo da abstinência alcoólica e uso de BZD guiado pela escala CIWA-Ar [@asam2020alcohol; @mdcalc_ciwa].
+- Mecanismo, farmacocinética e usos dos benzodiazepínicos [@statpearls_bzd].
+- Quadro clínico e manejo da abstinência alcoólica [@statpearls_alcoholwd].
+- Critérios de ataque/transtorno de pânico e de reação/transtorno de estresse agudo [@dsm5tr].
+
+Para o diferencial do pânico e o manejo no PS, procure também as diretrizes brasileiras (ABP — Associação Brasileira de Psiquiatria) e um livro-texto de psicofarmacologia [@stahl].
+
+## Referências
+
+::: {#refs}
+:::
 
 ::: {.entrega-box}
 ### Tarefas

@@ -1,6 +1,8 @@
 ---
 title: "Aula extra — Transtorno bipolar"
 subtitle: "A doença que muda de fase · um paciente, vários tratamentos"
+bibliography: references/references.bib
+csl: references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -44,12 +46,18 @@ Os três casos acompanham o mesmo paciente em momentos diferentes, para mostrar 
 
 ## Leituras de apoio
 
-- **CANMAT e ISBD — Diretrizes para o tratamento do transtorno bipolar (resumo e atualização de 2023).** Referência central sobre primeira linha em mania, depressão bipolar e manutenção. [PsychiatryOnline](https://psychiatryonline.org/doi/full/10.1176/appi.focus.20230009).
-- **Neurotorium — slides sobre tratamento agudo do bipolar (mania e depressão).** Resumo visual das hierarquias de tratamento. [Mania](https://neurotorium.org/slidedeck/bipolar-disorder-acute-treatment/slide/9-canmat-isbd-guidelines-pharmacological-treatment-of-acute-bipolar-mania/) · [Depressão bipolar](https://neurotorium.org/slidedeck/bipolar-disorder-acute-treatment/slide/11-canmat-isbd-guidelines-pharmacological-treatment-of-acute-bipolar-depression/).
-- **StatPearls — Bipolar Disorder (NCBI Bookshelf).** [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK558998/).
-- **StatPearls — Lithium.** Janela terapêutica, monitorização, toxicidade. [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK519062/).
-- **DSM-5-TR** — critérios de episódio maníaco, hipomaníaco e dos transtornos bipolares I e II.
-- Procure também diretrizes brasileiras (ABP) e o capítulo de transtorno bipolar em um livro-texto de psicofarmacologia (ex.: Stahl).
+- Diretriz central sobre primeira linha em mania, depressão bipolar e manutenção [@yatham2018canmat].
+- Resumo visual das hierarquias de tratamento agudo do bipolar [@neurotorium_bipolar].
+- Visão geral do transtorno bipolar [@statpearls_bipolar].
+- Lítio: janela terapêutica, monitorização e toxicidade [@statpearls_lithium].
+- Critérios de episódio maníaco, hipomaníaco e dos transtornos bipolares I e II [@dsm5tr].
+
+Procure também as diretrizes brasileiras (ABP) e um livro-texto de psicofarmacologia [@stahl].
+
+## Referências
+
+::: {#refs}
+:::
 
 ::: {.entrega-box}
 ### Tarefas

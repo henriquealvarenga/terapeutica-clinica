@@ -1,6 +1,8 @@
 ---
 title: "Aula extra — Antipsicóticos"
 subtitle: "Esquizofrenia"
+bibliography: references/references.bib
+csl: references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -43,13 +45,19 @@ O medicamento adequado depende de quem, do quê e de quando. Os benzodiazepínic
 
 ## Leituras de apoio
 
-- **INTEGRATE — Diretrizes internacionais para o tratamento algorítmico da esquizofrenia (Lancet Psychiatry, 2025).** A diretriz mais recente; foco em saúde metabólica desde o início e uso oportuno da clozapina. [Resumo no Psychopharmacology Institute](https://psychopharmacologyinstitute.com/section/integrate-new-schizophrenia-treatment-guidelines/).
-- **APA — Practice Guideline for the Treatment of Patients With Schizophrenia (2020).** Recomendações sobre antipsicóticos, clozapina na resistência e no risco de suicídio, cuidado coordenado e psicoeducação. [PsychiatryOnline](https://psychiatryonline.org/doi/10.1176/appi.ajp.2020.177901).
-- **VA/DoD — Manejo do primeiro episódio psicótico e esquizofrenia (resumo no AAFP, 2024).** Bom panorama sobre primeiro episódio e intervenção precoce. [AAFP](https://www.aafp.org/pubs/afp/issues/2024/0500/practice-guidelines-first-episode-psychosis-and-schizophrenia.html).
-- **StatPearls — Schizophrenia (NCBI Bookshelf).** [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK539864/).
-- **StatPearls — Clozapine.** Mecanismo, agranulocitose, monitorização. [Acessar](https://www.ncbi.nlm.nih.gov/books/NBK535399/).
-- **DSM-5-TR** — critérios de esquizofrenia e do espectro dos transtornos psicóticos.
-- Procure também diretrizes brasileiras (ABP) e o capítulo de esquizofrenia/antipsicóticos em um livro-texto de psicofarmacologia (ex.: Stahl).
+- Diretriz internacional mais recente para o tratamento algorítmico da esquizofrenia (saúde metabólica desde o início, uso oportuno da clozapina) [@mccutcheon2025integrate].
+- Recomendações sobre antipsicóticos, clozapina na resistência e no risco de suicídio, cuidado coordenado e psicoeducação [@keepers2020apa].
+- Panorama do primeiro episódio psicótico e da intervenção precoce [@aafp2024fep].
+- Visão geral da esquizofrenia [@statpearls_schizophrenia].
+- Clozapina: mecanismo, agranulocitose e monitorização [@statpearls_clozapine].
+- Critérios de esquizofrenia e do espectro dos transtornos psicóticos [@dsm5tr].
+
+Procure também as diretrizes brasileiras (ABP) e um livro-texto de psicofarmacologia [@stahl].
+
+## Referências
+
+::: {#refs}
+:::
 
 ::: {.entrega-box}
 ### Tarefas
