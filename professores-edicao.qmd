@@ -1,0 +1,40 @@
+---
+title: "Como editar o material"
+subtitle: "Sugerir alterações pelo GitHub — passo a passo, do zero"
+---
+
+Todo o conteúdo deste site fica guardado num repositório público no **GitHub**. Você pode sugerir correções e melhorias **mesmo que nunca tenha usado GitHub** — não precisa instalar nada, é tudo pelo navegador, e nada do que você fizer altera o site no ar sem a minha revisão.
+
+::: {.callout-box}
+**O caminho de uma edição (a ideia geral)**
+
+1. Você edita uma **cópia** do material (o GitHub cria essa cópia para você).
+2. Você envia sua mudança como uma **sugestão** (chamada *pull request*).
+3. Eu **recebo, reviso** e, se estiver tudo certo, **publico**.
+4. O site se atualiza sozinho em poucos minutos.
+
+Ou seja: você nunca "quebra" nada, e nada vai ao ar direto. Toda mudança passa por mim.
+:::
+
+## Os 4 passos
+
+Siga na ordem (use os botões **Anterior/Próximo** no rodapé de cada página):
+
+<ol class="sumario">
+  <li><span class="num">01</span><a href="edicao-1-conta.qmd">Criar uma conta no GitHub</a></li>
+  <li><span class="num">02</span><a href="edicao-2-editar.qmd">Editar um texto pelo navegador</a></li>
+  <li><span class="num">03</span><a href="edicao-3-pull-request.qmd">Enviar a sugestão (pull request)</a></li>
+  <li><span class="num">04</span><a href="edicao-4-depois.qmd">O que acontece depois</a></li>
+</ol>
+
+## Para entender (opcional)
+
+Se quiser compreender os conceitos por trás dos passos:
+
+- [O que é um *fork*](edicao-conceito-fork.qmd)
+- [O que é um *pull request*](edicao-conceito-pull-request.qmd)
+- [Glossário e dúvidas comuns](edicao-glossario.qmd)
+
+::: {.callout-box}
+**Você não precisa saber programar** nem instalar nada. Se travar em algum passo, me avise — posso fazer a alteração por você a partir da sua descrição.
+:::

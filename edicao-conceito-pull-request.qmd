@@ -1,0 +1,24 @@
+---
+title: "Para entender — O que é um pull request"
+subtitle: "O pedido para incorporar suas mudanças"
+---
+
+Um ***pull request*** (às vezes abreviado **PR**) é um **pedido** para que as mudanças que você fez na sua cópia (o [fork](edicao-conceito-fork.qmd)) sejam **incorporadas ao material original**.
+
+O nome vem da ideia de "pedir que o projeto *puxe* (pull) as suas alterações para dentro dele".
+
+## Uma analogia
+
+É como entregar a um editor uma lista de correções sugeridas para um livro. O editor:
+
+- vê **exatamente o que você propôs** (o pull request mostra, lado a lado, o que entrou e o que saiu);
+- pode **comentar**, pedir ajustes ou tirar dúvidas;
+- e, ao concordar, **aceita** as mudanças (o *merge*).
+
+## Por que isso é bom
+
+- Nada vai para o site **sem passar por essa revisão**.
+- Fica registrado **quem** sugeriu o quê e **por quê**.
+- A conversa sobre a mudança acontece num só lugar, organizada.
+
+Na prática, criar um pull request é só preencher um título e clicar num botão — veja o [Passo 3](edicao-3-pull-request.qmd).

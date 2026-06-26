@@ -1,0 +1,36 @@
+---
+title: "Passo 4 — O que acontece depois"
+subtitle: "Da sua sugestão até o site atualizado"
+---
+
+Depois que você cria o *pull request*, o processo passa a depender de mim (responsável pelo material). Veja o que acontece:
+
+## Do meu lado
+
+1. **Recebo um aviso** do seu pull request e vejo exatamente o que você propôs.
+2. **Reviso** a mudança. A partir daí, posso:
+   - **aprovar e incorporar** a sugestão (isso se chama *merge*), se estiver tudo certo; ou
+   - **comentar** e pedir um pequeno ajuste, ou tirar uma dúvida com você.
+
+## Se eu pedir um ajuste
+
+Você recebe a notificação (por e-mail e no GitHub). Para responder, basta **editar de novo o mesmo arquivo** — exatamente como no Passo 2. A alteração entra **automaticamente no mesmo pull request**; não é preciso criar outro. Você também pode responder aos comentários ali mesmo, na página do pull request.
+
+## Quando eu aprovo (merge)
+
+Assim que eu incorporo a sua mudança:
+
+1. ela passa a fazer parte do material **oficial**;
+2. o site **se reconstrói sozinho** (um processo automático) e a alteração fica no ar em **1 a 2 minutos**.
+
+> 🖼️ *Captura de tela sugerida: um pull request aprovado ("Merged"). (a inserir)*
+
+::: {.callout-box}
+**Resumo tranquilizador**
+
+- Nada que você faz vai ao ar **sem a minha aprovação**.
+- Você não consegue "estragar" o site — sua sugestão fica isolada até ser revisada.
+- Se algo der errado, é sempre reversível.
+:::
+
+Dúvidas sobre algum termo? Veja o [Glossário e dúvidas comuns](edicao-glossario.qmd).

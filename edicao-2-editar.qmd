@@ -1,0 +1,49 @@
+---
+title: "Passo 2 — Editar um texto pelo navegador"
+subtitle: "Encontrar o arquivo, abrir o lápis e escrever"
+---
+
+Com a conta criada e você **logado** no GitHub, vamos editar um texto. Tudo acontece no navegador — nada para instalar.
+
+## 1. Abra o repositório
+
+Acesse o repositório do site:
+[github.com/henriquealvarenga/terapeutica-clinica](https://github.com/henriquealvarenga/terapeutica-clinica)
+
+Você verá uma lista de **arquivos e pastas**. Cada página do site corresponde a um arquivo terminado em **`.qmd`**:
+
+- as aulas: `aula1.qmd`, `aula2.qmd`, `aula3.qmd`…;
+- os casos clínicos ficam na pasta **`casos/`** (ex.: `casos/aula1-caso1-marina.qmd`);
+- os textos teóricos da Aula 3: `aula3-teoria1-medicalizacao.qmd`, e assim por diante.
+
+> 💡 Na dúvida sobre qual arquivo corresponde a uma página, o nome do arquivo costuma ser parecido com o endereço da página no site.
+
+## 2. Abra o arquivo e clique no lápis
+
+Clique no arquivo que quer editar — o conteúdo aparece. No canto superior direito do texto, clique no ícone de **lápis** (✏️ *Edit this file*).
+
+> 🖼️ *Captura de tela sugerida: o ícone de lápis (Edit) no topo de um arquivo. (a inserir)*
+
+::: {.callout-box}
+**Vai aparecer uma mensagem sobre "fork" — está tudo certo.**
+
+Como você não é o dono do projeto, o GitHub mostra um aviso (algo como *"You need to fork this repository to propose changes"*) e cria automaticamente uma **cópia sua** do material. Basta confirmar (**Fork this repository**). Você não precisa fazer mais nada — [entenda o que é um *fork*](edicao-conceito-fork.qmd).
+:::
+
+## 3. Faça a alteração
+
+Abre-se um editor de texto simples. **Altere apenas as palavras** que quer corrigir ou melhorar.
+
+O texto está num formato chamado **Markdown/Quarto**. Você não precisa entendê-lo; só tome cuidado para **não apagar os símbolos** ao redor do texto — como `#`, `**`, `:::` ou as linhas com `---`. Eles controlam a formatação; mexa apenas no conteúdo escrito.
+
+> 🖼️ *Captura de tela sugerida: o editor do GitHub com uma alteração em destaque. (a inserir)*
+
+## 4. Salve a alteração ("Commit changes")
+
+No alto, à direita, clique em **Commit changes…**. Numa caixinha que aparece:
+
+- escreva uma **descrição curta** do que mudou (ex.: "Corrige a dose de lorazepam no caso da Marina");
+- mantenha selecionada a opção de criar uma nova proposta/*branch* (já vem marcada);
+- confirme em **Propose changes**.
+
+Pronto — sua alteração está salva na **sua cópia**. Falta só enviá-la para mim: é o [Passo 3](edicao-3-pull-request.qmd).

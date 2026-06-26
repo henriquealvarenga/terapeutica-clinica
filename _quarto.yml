@@ -20,6 +20,14 @@ project:
     - apendice.qmd
     - creditos.qmd
     - professores.qmd
+    - professores-edicao.qmd
+    - edicao-1-conta.qmd
+    - edicao-2-editar.qmd
+    - edicao-3-pull-request.qmd
+    - edicao-4-depois.qmd
+    - edicao-conceito-fork.qmd
+    - edicao-conceito-pull-request.qmd
+    - edicao-glossario.qmd
     - gabarito.qmd
     - "casos/*.qmd"
 
@@ -54,8 +62,12 @@ website:
       - href: creditos.qmd
         text: "Créditos"
     right:
-      - href: professores.qmd
-        text: "Professores"
+      - text: "Professores"
+        menu:
+          - href: professores.qmd
+            text: "Área dos professores"
+          - href: professores-edicao.qmd
+            text: "Como editar o material"
   # 4 sidebars (uma por aula). Servem apenas como ÍNDICE de ordenação
   # para o Quarto gerar os botões Próximo/Anterior no rodapé. O sidebar
   # não é renderizado visualmente porque `page-layout: full` (abaixo)
@@ -101,6 +113,17 @@ website:
         - casos/extra-antipsicoticos-caso1-daniel-primeiro.qmd
         - casos/extra-antipsicoticos-caso2-daniel-efeitos.qmd
         - casos/extra-antipsicoticos-caso3-daniel-clozapina.qmd
+    - id: edicao
+      style: floating
+      contents:
+        - professores-edicao.qmd
+        - edicao-1-conta.qmd
+        - edicao-2-editar.qmd
+        - edicao-3-pull-request.qmd
+        - edicao-4-depois.qmd
+        - edicao-conceito-fork.qmd
+        - edicao-conceito-pull-request.qmd
+        - edicao-glossario.qmd
   page-footer:
     left: "Terapêutica Clínica - Módulo Saúde Mental · UFSJ · Curso de Medicina"
     center: "[Créditos](/creditos.qmd) · [Como citar](/creditos.qmd#citacao-sugerida) · [GitHub](https://github.com/henriquealvarenga/terapeutica-clinica)"

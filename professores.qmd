@@ -24,8 +24,8 @@ Cada aula apresenta uma classe de medicamento a partir de casos clínicos fictí
 
 ## Editar o material
 
-O conteúdo do site é mantido em um repositório público no GitHub. Para editar os textos ou propor alterações, acesse:
+O conteúdo do site é mantido em um repositório público no GitHub, e **qualquer pessoa** pode sugerir correções e melhorias — mesmo sem nunca ter usado GitHub. As sugestões são enviadas por *fork* e *pull request* (não há edição direta) e passam pela revisão do responsável antes de irem ao ar.
 
-🔗 **Repositório:** [github.com/henriquealvarenga/terapeutica-clinica](https://github.com/henriquealvarenga/terapeutica-clinica)
+👉 **[Guia: como editar o material, passo a passo](professores-edicao.qmd)** — do zero, incluindo criar a conta.
 
-Cada página corresponde a um arquivo `.qmd` (por exemplo, `aula1.qmd`, e os casos em `casos/`). Para editar diretamente é preciso ter **acesso de colaborador** — solicite ao responsável pelo módulo para ser incluído no repositório. Sem acesso de escrita, também é possível propor mudanças por *fork* e *pull request*.
+🔗 Repositório: [github.com/henriquealvarenga/terapeutica-clinica](https://github.com/henriquealvarenga/terapeutica-clinica)

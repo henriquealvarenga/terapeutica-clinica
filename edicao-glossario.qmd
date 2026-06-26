@@ -1,0 +1,38 @@
+---
+title: "Glossário e dúvidas comuns"
+subtitle: "Os termos do GitHub em linguagem simples"
+---
+
+## Glossário
+
+| Termo | O que significa |
+|-------|-----------------|
+| **GitHub** | O site onde o material do projeto fica guardado e onde se sugerem edições. |
+| **Repositório** (*repo*) | A "pasta" do projeto no GitHub, com todos os arquivos do site. |
+| **Arquivo `.qmd`** | Cada página do site é um arquivo desses (texto no formato Quarto/Markdown). |
+| **[Fork](edicao-conceito-fork.qmd)** | A sua cópia pessoal do projeto, criada automaticamente para você editar. |
+| **Commit** | "Salvar" uma alteração, com uma descrição curta do que mudou. |
+| **Branch** | Uma linha de mudanças separada; o GitHub cria uma para a sua sugestão. Você não precisa se preocupar com isso. |
+| **[Pull request](edicao-conceito-pull-request.qmd)** (PR) | O pedido para incorporar suas mudanças ao material original. |
+| **Merge** | Quando eu aprovo e incorporo a sua sugestão ao material oficial. |
+| **Deploy / publicação** | O processo automático que atualiza o site no ar depois do *merge*. |
+
+## Dúvidas comuns
+
+**Preciso saber programar?**
+Não. Você só edita texto pelo navegador.
+
+**Preciso instalar algum programa?**
+Não. Tudo acontece no site do GitHub.
+
+**Minha edição já apareceu no site?**
+Só depois que eu aprovar (fizer o *merge*). Até lá, ela fica registrada apenas como sugestão.
+
+**Posso estragar alguma coisa?**
+Não. Suas mudanças ficam isoladas na sua cópia até a revisão, e tudo é reversível.
+
+**Mudei de ideia ou errei. E agora?**
+Sem problema. Você pode editar de novo (isso atualiza o mesmo pull request) ou simplesmente me avisar.
+
+**Não consegui fazer algum passo.**
+Me mande a sugestão por e-mail descrevendo a mudança — eu faço por você.

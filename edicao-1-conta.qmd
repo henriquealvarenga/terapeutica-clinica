@@ -1,0 +1,28 @@
+---
+title: "Passo 1 — Criar uma conta no GitHub"
+subtitle: "Você só faz isso uma vez"
+---
+
+O **GitHub** é o site onde o material fica guardado. Para sugerir edições, você precisa de uma conta — gratuita. Se já tiver uma, pule para o [Passo 2](edicao-2-editar.qmd).
+
+## Passo a passo
+
+1. Acesse **[github.com](https://github.com)** e clique em **Sign up** (criar conta), no canto superior direito.
+2. Informe um **e-mail**, crie uma **senha** e escolha um **nome de usuário** (*username*) — pode ser seu nome (ex.: `claricerizzi`). Esse nome aparecerá nas suas sugestões.
+3. Resolva o pequeno desafio de verificação (um quebra-cabeça simples para provar que você não é um robô).
+4. O GitHub envia um **código por e-mail**. Abra seu e-mail, copie o código e cole na tela para confirmar a conta.
+5. Se perguntarem sobre planos, escolha o **gratuito (Free)** — é suficiente. As demais perguntas (interesses, etc.) podem ser puladas.
+
+Pronto: sua conta está criada e você já está **logado**.
+
+> 🖼️ *Captura de tela sugerida: a tela de cadastro do GitHub (Sign up). (a inserir)*
+
+::: {.callout-box}
+**Dicas**
+
+- Use um e-mail que você acessa com facilidade (institucional ou pessoal).
+- Anote seu *username* e senha — você os usará para entrar (*Sign in*) nas próximas vezes.
+- Este passo é **único**: feito uma vez, nas próximas você vai direto editar.
+:::
+
+Com a conta criada e logada, siga para o [Passo 2 — Editar um texto](edicao-2-editar.qmd).

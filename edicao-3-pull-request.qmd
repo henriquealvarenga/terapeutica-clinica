@@ -1,0 +1,24 @@
+---
+title: "Passo 3 — Enviar a sugestão (pull request)"
+subtitle: "O último clique: mandar sua mudança para revisão"
+---
+
+Depois de salvar a alteração (Passo 2), o GitHub leva você a uma tela de comparação, que mostra **o que você mudou** — em verde o que entrou, em vermelho o que saiu. Agora é só enviar.
+
+## Passo a passo
+
+1. Clique em **Create pull request** (criar pull request).
+2. Escreva um **título** curto e, se quiser, uma **descrição** explicando o que mudou e por quê (ex.: "A dose estava trocada; corrigi conforme a diretriz X").
+3. Clique novamente em **Create pull request** para confirmar.
+
+Pronto! Você **enviou sua sugestão**. Não precisa fazer mais nada — a partir daqui a responsabilidade é minha.
+
+> 🖼️ *Captura de tela sugerida: a tela "Open a pull request", com título e descrição preenchidos. (a inserir)*
+
+::: {.callout-box}
+**O que foi que você acabou de fazer?**
+
+Um *pull request* é um pedido formal para que suas mudanças sejam incorporadas ao site — e é o espaço onde podemos conversar sobre elas. [Entenda melhor](edicao-conceito-pull-request.qmd).
+:::
+
+Quer saber o que acontece a partir daqui? Veja o [Passo 4 — O que acontece depois](edicao-4-depois.qmd).

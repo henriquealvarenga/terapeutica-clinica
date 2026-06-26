@@ -1,0 +1,22 @@
+---
+title: "Para entender — O que é um fork"
+subtitle: "A sua cópia pessoal do projeto"
+---
+
+Um ***fork*** é uma **cópia completa** do projeto, feita para a **sua conta** do GitHub. É nela que suas alterações ficam guardadas, separadas do material original, até serem revisadas e aprovadas.
+
+## Uma analogia
+
+Imagine que o material do site é um documento numa biblioteca. Você não pode rabiscar o original. Então a biblioteca lhe entrega uma **fotocópia sua**, na qual você anota à vontade. Suas anotações ficam na sua cópia; o documento original só muda se o bibliotecário aceitar suas sugestões. O *fork* é essa fotocópia pessoal.
+
+## Você não precisa criá-lo manualmente
+
+Quando você clica para editar um arquivo ([Passo 2](edicao-2-editar.qmd)) e não é dono do projeto, o GitHub **cria o fork automaticamente** e avisa na tela. Você só confirma. Depois disso, ele passa a aparecer na sua conta com um nome como:
+
+`seu-usuario/terapeutica-clinica`
+
+## Pontos importantes
+
+- Ter um fork **não atrapalha nada** e não mexe no site original.
+- Todas as suas edições ficam **seguras** no seu fork até virarem um [pull request](edicao-conceito-pull-request.qmd) e serem aprovadas.
+- Você pode manter o fork por tempo indefinido e usá-lo para várias sugestões.
