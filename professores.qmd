@@ -21,3 +21,11 @@ As respostas seguem a numeração das questões de cada caso, com justificativa 
 ## Como o módulo está organizado
 
 Cada aula apresenta uma classe de medicamento a partir de casos clínicos fictícios. O aluno estuda por conta própria, guiado pelo roteiro de perguntas, e ao final registra uma breve reflexão. A página [Como estudar](como-estudar.qmd) orienta o uso de IA, busca e bases científicas de forma crítica.
+
+## Editar o material
+
+O conteúdo do site é mantido em um repositório público no GitHub. Para editar os textos ou propor alterações, acesse:
+
+🔗 **Repositório:** [github.com/henriquealvarenga/terapeutica-clinica](https://github.com/henriquealvarenga/terapeutica-clinica)
+
+Cada página corresponde a um arquivo `.qmd` (por exemplo, `aula1.qmd`, e os casos em `casos/`). Para editar diretamente é preciso ter **acesso de colaborador** — solicite ao responsável pelo módulo para ser incluído no repositório. Sem acesso de escrita, também é possível propor mudanças por *fork* e *pull request*.
