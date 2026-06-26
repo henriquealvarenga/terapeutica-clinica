@@ -10,9 +10,10 @@ project:
     - aula2.qmd
     - aula3.qmd
     - aula3-teoria1-medicalizacao.qmd
-    - aula3-teoria2-evidencias.qmd
-    - aula3-teoria3-desprescrever.qmd
-    - aula3-teoria4-gestacao.qmd
+    - aula3-teoria2-contexto.qmd
+    - aula3-teoria3-evidencias.qmd
+    - aula3-teoria4-desprescrever.qmd
+    - aula3-teoria5-gestacao.qmd
     - extra-bipolar.qmd
     - extra-antipsicoticos.qmd
     - como-estudar.qmd
@@ -79,9 +80,10 @@ website:
       contents:
         - aula3.qmd
         - aula3-teoria1-medicalizacao.qmd
-        - aula3-teoria2-evidencias.qmd
-        - aula3-teoria3-desprescrever.qmd
-        - aula3-teoria4-gestacao.qmd
+        - aula3-teoria2-contexto.qmd
+        - aula3-teoria3-evidencias.qmd
+        - aula3-teoria4-desprescrever.qmd
+        - aula3-teoria5-gestacao.qmd
         - casos/aula3-caso1-conceicao-polifarmacia.qmd
         - casos/aula3-caso2-aline-puerperio.qmd
         - casos/aula3-caso3-davi-infancia.qmd

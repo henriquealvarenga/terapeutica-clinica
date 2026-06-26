@@ -28,5 +28,5 @@ Aqui a chave se inverte em relação ao Caso 1: este **não** é um caso de exce
 4. Como construir um **Projeto Terapêutico Singular** para Aline após a alta hospitalar?
 5. Quais estratégias de cuidado podem ser desenvolvidas a partir de uma perspectiva **desmedicalizante**, sem negligenciar a gravidade do quadro?
 6. Qual o papel da **rede de atenção psicossocial, da família e da atenção básica** no acompanhamento deste caso?
-7. Quais **evidências** sustentam (ou limitam) o uso de psicotrópicos durante a gestação e o puerpério? Reveja a tabela de classificação de risco no material teórico [Gestação e puerpério](../aula3-teoria4-gestacao.qmd) e discuta a amamentação.
+7. Quais **evidências** sustentam (ou limitam) o uso de psicotrópicos durante a gestação e o puerpério? Reveja a tabela de classificação de risco no material teórico [Gestação e puerpério](../aula3-teoria5-gestacao.qmd) e discuta a amamentação.
 :::

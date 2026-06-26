@@ -14,10 +14,11 @@ Diferente das Aulas 1 e 2, que ensinaram *quando e como prescrever*, esta aula p
 ## Material da aula
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="aula3-teoria1-medicalizacao.qmd">A medicalização da vida — <em>mecanismos e contexto</em></a></li>
-  <li><span class="num">02</span><a href="aula3-teoria2-evidencias.qmd">Mais tratamento, melhores resultados? — <em>a crítica à medicina baseada em evidências</em></a></li>
-  <li><span class="num">03</span><a href="aula3-teoria3-desprescrever.qmd">Desprescrever: a farmacologia da retirada — <em>abstinência e redução hiperbólica</em></a></li>
-  <li><span class="num">04</span><a href="aula3-teoria4-gestacao.qmd">Gestação e puerpério — <em>decidir sob incerteza</em></a></li>
+  <li><span class="num">01</span><a href="aula3-teoria1-medicalizacao.qmd">A medicalização da vida — <em>os mecanismos da patologização</em></a></li>
+  <li><span class="num">02</span><a href="aula3-teoria2-contexto.qmd">Contexto: saúde, sofrimento e desinstitucionalização — <em>determinantes sociais</em></a></li>
+  <li><span class="num">03</span><a href="aula3-teoria3-evidencias.qmd">Mais tratamento, melhores resultados? — <em>a crítica à medicina baseada em evidências</em></a></li>
+  <li><span class="num">04</span><a href="aula3-teoria4-desprescrever.qmd">Desprescrever: a farmacologia da retirada — <em>abstinência e redução hiperbólica</em></a></li>
+  <li><span class="num">05</span><a href="aula3-teoria5-gestacao.qmd">Gestação e puerpério — <em>decidir sob incerteza</em></a></li>
 </ol>
 
 ## Os três casos desta aula
