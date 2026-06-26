@@ -14,7 +14,7 @@ subtitle: "Os termos do GitHub em linguagem simples"
 | **Commit** | "Salvar" uma alteração, com uma descrição curta do que mudou. |
 | **Branch** | Uma linha de mudanças separada; o GitHub cria uma para a sua sugestão. Você não precisa se preocupar com isso. |
 | **[Pull request](edicao-conceito-pull-request.qmd)** (PR) | O pedido para incorporar suas mudanças ao material original. |
-| **Merge** | Quando eu aprovo e incorporo a sua sugestão ao material oficial. |
+| **Merge** | Quando o mantenedor aprova e incorpora a sua sugestão ao material oficial. |
 | **Deploy / publicação** | O processo automático que atualiza o site no ar depois do *merge*. |
 
 ## Dúvidas comuns
@@ -26,7 +26,7 @@ Não. Você só edita texto pelo navegador.
 Não. Tudo acontece no site do GitHub.
 
 **Minha edição já apareceu no site?**
-Só depois que eu aprovar (fizer o *merge*). Até lá, ela fica registrada apenas como sugestão.
+Só depois que o mantenedor aprovar (fizer o *merge*). Até lá, ela fica registrada apenas como sugestão.
 
 **Posso estragar alguma coisa?**
 Não. Suas mudanças ficam isoladas na sua cópia até a revisão, e tudo é reversível.
@@ -35,4 +35,4 @@ Não. Suas mudanças ficam isoladas na sua cópia até a revisão, e tudo é rev
 Sem problema. Você pode editar de novo (isso atualiza o mesmo pull request) ou simplesmente me avisar.
 
 **Não consegui fazer algum passo.**
-Me mande a sugestão por e-mail descrevendo a mudança — eu faço por você.
+Mande a sugestão ao mantenedor por e-mail descrevendo a mudança — ele faz por você.

@@ -22,8 +22,6 @@ Você verá uma lista de **arquivos e pastas**. Cada página do site corresponde
 
 Clique no arquivo que quer editar — o conteúdo aparece. No canto superior direito do texto, clique no ícone de **lápis** (✏️ *Edit this file*).
 
-> 🖼️ *Captura de tela sugerida: o ícone de lápis (Edit) no topo de um arquivo. (a inserir)*
-
 ::: {.callout-box}
 **Vai aparecer uma mensagem sobre "fork" — está tudo certo.**
 
@@ -36,8 +34,6 @@ Abre-se um editor de texto simples. **Altere apenas as palavras** que quer corri
 
 O texto está num formato chamado **Markdown/Quarto**. Você não precisa entendê-lo; só tome cuidado para **não apagar os símbolos** ao redor do texto — como `#`, `**`, `:::` ou as linhas com `---`. Eles controlam a formatação; mexa apenas no conteúdo escrito.
 
-> 🖼️ *Captura de tela sugerida: o editor do GitHub com uma alteração em destaque. (a inserir)*
-
 ## 4. Salve a alteração ("Commit changes")
 
 No alto, à direita, clique em **Commit changes…**. Numa caixinha que aparece:
@@ -46,4 +42,4 @@ No alto, à direita, clique em **Commit changes…**. Numa caixinha que aparece:
 - mantenha selecionada a opção de criar uma nova proposta/*branch* (já vem marcada);
 - confirme em **Propose changes**.
 
-Pronto — sua alteração está salva na **sua cópia**. Falta só enviá-la para mim: é o [Passo 3](edicao-3-pull-request.qmd).
+Pronto — sua alteração está salva na **sua cópia**. Falta só enviá-la para o mantenedor do repositório: é o [Passo 3](edicao-3-pull-request.qmd).

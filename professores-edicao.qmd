@@ -3,17 +3,17 @@ title: "Como editar o material"
 subtitle: "Sugerir alterações pelo GitHub — passo a passo, do zero"
 ---
 
-Todo o conteúdo deste site fica guardado num repositório público no **GitHub**. Você pode sugerir correções e melhorias **mesmo que nunca tenha usado GitHub** — não precisa instalar nada, é tudo pelo navegador, e nada do que você fizer altera o site no ar sem a minha revisão.
+Todo o conteúdo deste site fica guardado num repositório público no **GitHub**. Você pode sugerir correções e melhorias **mesmo que nunca tenha usado GitHub** — não precisa instalar nada, é tudo pelo navegador, e nada do que você fizer altera o site no ar sem a revisão do mantenedor.
 
 ::: {.callout-box}
 **O caminho de uma edição (a ideia geral)**
 
 1. Você edita uma **cópia** do material (o GitHub cria essa cópia para você).
 2. Você envia sua mudança como uma **sugestão** (chamada *pull request*).
-3. Eu **recebo, reviso** e, se estiver tudo certo, **publico**.
+3. O **mantenedor recebe, revisa** e, se estiver tudo certo, **publica**.
 4. O site se atualiza sozinho em poucos minutos.
 
-Ou seja: você nunca "quebra" nada, e nada vai ao ar direto. Toda mudança passa por mim.
+Ou seja: você nunca "quebra" nada, e nada vai ao ar direto. Toda mudança passa pelo mantenedor.
 :::
 
 ## Os 4 passos
@@ -36,5 +36,5 @@ Se quiser compreender os conceitos por trás dos passos:
 - [Glossário e dúvidas comuns](edicao-glossario.qmd)
 
 ::: {.callout-box}
-**Você não precisa saber programar** nem instalar nada. Se travar em algum passo, me avise — posso fazer a alteração por você a partir da sua descrição.
+**Você não precisa saber programar** nem instalar nada. Se travar em algum passo, avise o mantenedor — ele pode fazer a alteração por você a partir da sua descrição.
 :::

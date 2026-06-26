@@ -24,7 +24,7 @@ Cada aula apresenta uma classe de medicamento a partir de casos clínicos fictí
 
 ## Editar o material
 
-O conteúdo do site é mantido em um repositório público no GitHub, e **qualquer pessoa** pode sugerir correções e melhorias — mesmo sem nunca ter usado GitHub. As sugestões são enviadas por *fork* e *pull request* (não há edição direta) e passam pela revisão do responsável antes de irem ao ar.
+O conteúdo do site é mantido em um repositório público no GitHub, e **qualquer pessoa** pode sugerir correções e melhorias — mesmo sem nunca ter usado GitHub. As sugestões são enviadas por *fork* e *pull request* (não há edição direta) e passam pela revisão do mantenedor antes de irem ao ar.
 
 👉 **[Guia: como editar o material, passo a passo](professores-edicao.qmd)** — do zero, incluindo criar a conta.
 

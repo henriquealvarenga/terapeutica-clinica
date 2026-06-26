@@ -8,14 +8,12 @@ O **GitHub** é o site onde o material fica guardado. Para sugerir edições, vo
 ## Passo a passo
 
 1. Acesse **[github.com](https://github.com)** e clique em **Sign up** (criar conta), no canto superior direito.
-2. Informe um **e-mail**, crie uma **senha** e escolha um **nome de usuário** (*username*) — pode ser seu nome (ex.: `claricerizzi`). Esse nome aparecerá nas suas sugestões.
+2. Informe um **e-mail**, crie uma **senha** e escolha um **nome de usuário** (*username*) — pode ser seu nome. Esse nome aparecerá nas suas sugestões.
 3. Resolva o pequeno desafio de verificação (um quebra-cabeça simples para provar que você não é um robô).
 4. O GitHub envia um **código por e-mail**. Abra seu e-mail, copie o código e cole na tela para confirmar a conta.
 5. Se perguntarem sobre planos, escolha o **gratuito (Free)** — é suficiente. As demais perguntas (interesses, etc.) podem ser puladas.
 
 Pronto: sua conta está criada e você já está **logado**.
-
-> 🖼️ *Captura de tela sugerida: a tela de cadastro do GitHub (Sign up). (a inserir)*
 
 ::: {.callout-box}
 **Dicas**

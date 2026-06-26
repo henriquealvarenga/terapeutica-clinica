@@ -11,14 +11,12 @@ Depois de salvar a alteração (Passo 2), o GitHub leva você a uma tela de comp
 2. Escreva um **título** curto e, se quiser, uma **descrição** explicando o que mudou e por quê (ex.: "A dose estava trocada; corrigi conforme a diretriz X").
 3. Clique novamente em **Create pull request** para confirmar.
 
-Pronto! Você **enviou sua sugestão**. Não precisa fazer mais nada — a partir daqui a responsabilidade é minha.
-
-> 🖼️ *Captura de tela sugerida: a tela "Open a pull request", com título e descrição preenchidos. (a inserir)*
+Pronto! Você **enviou sua sugestão**. Não precisa fazer mais nada — a partir daqui a responsabilidade é do mantenedor do repositório.
 
 ::: {.callout-box}
 **O que foi que você acabou de fazer?**
 
-Um *pull request* é um pedido formal para que suas mudanças sejam incorporadas ao site — e é o espaço onde podemos conversar sobre elas. [Entenda melhor](edicao-conceito-pull-request.qmd).
+Um *pull request* é um pedido formal para que suas mudanças sejam incorporadas ao site — e é o espaço onde o mantenedor e os colaboradores podem conversar sobre as mudanças propostas. [Entenda melhor](edicao-conceito-pull-request.qmd).
 :::
 
 Quer saber o que acontece a partir daqui? Veja o [Passo 4 — O que acontece depois](edicao-4-depois.qmd).
