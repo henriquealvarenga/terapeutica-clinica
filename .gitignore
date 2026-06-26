@@ -3,9 +3,6 @@
 /_site/
 /_freeze/
 
-# Documento interno do professor — não publicar
-RESUMO_COWORK.md
-
 # Material-fonte (originais Word/PDF do professor) — não publicar
 _source/
 
@@ -24,6 +21,5 @@ yarn.lock
 # Segredos locais (ex.: senha do gabarito) — NUNCA versionar
 .env
 .env.*
-!.env.example
 
 **/*.quarto_ipynb

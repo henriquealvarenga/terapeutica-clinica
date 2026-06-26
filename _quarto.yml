@@ -127,7 +127,7 @@ website:
   page-footer:
     left: "Terapêutica Clínica - Módulo Saúde Mental · UFSJ · Curso de Medicina"
     center: "[Créditos](/creditos.qmd) · [Como citar](/creditos.qmd#citacao-sugerida) · [GitHub](https://github.com/henriquealvarenga/terapeutica-clinica)"
-    right: "Conteúdo educacional — não constitui orientação de prescrição."
+    right: "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR) · Conteúdo educacional, não constitui orientação de prescrição."
 
 format:
   html:

@@ -20,3 +20,18 @@ Quando você clica para editar um arquivo ([Passo 2](edicao-2-editar.qmd)) e nã
 - Ter um fork **não atrapalha nada** e não mexe no site original.
 - Todas as suas edições ficam **seguras** no seu fork até virarem um [pull request](edicao-conceito-pull-request.qmd) e serem aprovadas.
 - Você pode manter o fork por tempo indefinido e usá-lo para várias sugestões.
+
+## Quer manter uma cópia própria?
+
+Como este é um material **aberto** (licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)), você pode, se quiser, transformar o seu fork numa **cópia independente** — e até publicá-la como um site seu, separado deste. Algumas formas:
+
+- **Publicar o próprio fork:** ative o GitHub Pages na sua cópia (em *Settings → Pages*); ela passa a ser um site independente, em outro endereço.
+- **Criar uma cópia desvinculada:** baixe (*clone*) o conteúdo e suba num repositório novo seu, sem relação de fork; ou peça ao Suporte do GitHub para "desvincular" (*detach*) o seu fork.
+
+A licença pede apenas que você, em qualquer dessas situações:
+
+- **dê o crédito** ao material original (Atribuição);
+- **não use para fins comerciais** (NãoComercial);
+- e, ao publicar uma versão adaptada, **mantenha a mesma licença** (CompartilhaIgual).
+
+Nada disso afeta o site original — a sua cópia é separada e independente.
