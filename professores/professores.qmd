@@ -20,7 +20,7 @@ As respostas seguem a numeração das questões de cada caso, com justificativa 
 
 ## Como o módulo está organizado
 
-Cada aula apresenta uma classe de medicamento a partir de casos clínicos fictícios. O aluno estuda por conta própria, guiado pelo roteiro de perguntas, e ao final registra uma breve reflexão. A página [Como estudar](como-estudar.qmd) orienta o uso de IA, busca e bases científicas de forma crítica.
+Cada aula apresenta uma classe de medicamento a partir de casos clínicos fictícios. O aluno estuda por conta própria, guiado pelo roteiro de perguntas, e ao final registra uma breve reflexão. A página [Como estudar](../como-estudar.qmd) orienta o uso de IA, busca e bases científicas de forma crítica.
 
 ## Editar o material
 

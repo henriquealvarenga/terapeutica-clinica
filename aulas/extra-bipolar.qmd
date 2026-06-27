@@ -1,8 +1,8 @@
 ---
 title: "Aula extra — Transtorno bipolar"
 subtitle: "A doença que muda de fase · um paciente, vários tratamentos"
-bibliography: references/references.bib
-csl: references/csl_styles/vancouver.csl
+bibliography: ../references/references.bib
+csl: ../references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -32,9 +32,9 @@ As classes de medicamentos envolvidas:
 Os três casos acompanham o mesmo paciente em momentos diferentes, para mostrar que tratar é uma sequência de decisões no tempo, e não uma escolha única.
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="casos/extra-bipolar-caso1-lucas-mania.qmd">Mania aguda com sintomas psicóticos — Lucas, 26 anos · <em>Três dias sem dormir</em></a></li>
-  <li><span class="num">02</span><a href="casos/extra-bipolar-caso2-lucas-depressao.qmd">Depressão bipolar — Lucas, três meses depois · <em>A queda depois do voo</em></a></li>
-  <li><span class="num">03</span><a href="casos/extra-bipolar-caso3-lucas-manutencao.qmd">Manutenção e adesão — Lucas, um ano depois · <em>Ficar bem e continuar bem</em></a></li>
+  <li><span class="num">01</span><a href="../casos/extra-bipolar-caso1-lucas-mania.qmd">Mania aguda com sintomas psicóticos — Lucas, 26 anos · <em>Três dias sem dormir</em></a></li>
+  <li><span class="num">02</span><a href="../casos/extra-bipolar-caso2-lucas-depressao.qmd">Depressão bipolar — Lucas, três meses depois · <em>A queda depois do voo</em></a></li>
+  <li><span class="num">03</span><a href="../casos/extra-bipolar-caso3-lucas-manutencao.qmd">Manutenção e adesão — Lucas, um ano depois · <em>Ficar bem e continuar bem</em></a></li>
 </ol>
 
 ## Reflexões
@@ -70,5 +70,5 @@ Procure também as diretrizes brasileiras (ABP) e um livro-texto de psicofarmaco
 >
 > *(ii)* As três aulas começaram com a ideia de que cada problema tem seu medicamento e terminaram mostrando que o mesmo paciente precisa de medicamentos diferentes em momentos diferentes. Escreva uma reflexão sobre o que isso muda no modo de pensar a terapêutica.
 
-Cite ao menos uma das diretrizes e indique como usou ferramentas de IA/busca. Veja a página [Como estudar com IA](como-estudar.qmd).
+Cite ao menos uma das diretrizes e indique como usou ferramentas de IA/busca. Veja a página [Como estudar com IA](../como-estudar.qmd).
 :::

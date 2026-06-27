@@ -30,16 +30,16 @@ A psicofarmacologia fica muito mais clara quando se percebe que cada classe de m
 ## As três aulas
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="aula1.qmd">Benzodiazepínicos — o resgate rápido nas situações agudas</a></li>
-  <li><span class="num">02</span><a href="aula2.qmd">ISRS — o tratamento de fundo na depressão, ansiedade e TOC</a></li>
-  <li><span class="num">03</span><a href="aula3.qmd">Medicalização excessiva — quando o cuidado vira excesso</a></li>
+  <li><span class="num">01</span><a href="aulas/aula1.qmd">Benzodiazepínicos — o resgate rápido nas situações agudas</a></li>
+  <li><span class="num">02</span><a href="aulas/aula2.qmd">ISRS — o tratamento de fundo na depressão, ansiedade e TOC</a></li>
+  <li><span class="num">03</span><a href="aulas/aula3.qmd">Medicalização excessiva — quando o cuidado vira excesso</a></li>
 </ol>
 
 ### Aulas extras
 
 <ol class="sumario">
-  <li><span class="num">+</span><a href="extra-bipolar.qmd">Transtorno bipolar — a doença que muda de fase</a></li>
-  <li><span class="num">+</span><a href="extra-antipsicoticos.qmd">Antipsicóticos — esquizofrenia e psicoses</a></li>
+  <li><span class="num">+</span><a href="aulas/extra-bipolar.qmd">Transtorno bipolar — a doença que muda de fase</a></li>
+  <li><span class="num">+</span><a href="aulas/extra-antipsicoticos.qmd">Antipsicóticos — esquizofrenia e psicoses</a></li>
 </ol>
 
 ## Como funciona a avaliação
@@ -49,7 +49,7 @@ Em cada aula o aluno tem duas tarefas. A primeiro é o **conjunto de respostas a
 A página [Como estudar com IA](como-estudar.qmd) traz orientações sobre como usar ChatGPT, Claude, Google e bases científicas de forma produtiva e honesta neste trabalho.
 
 ::: {.cta-block}
-[Começar pela Aula 1](aula1.qmd){.btn-read}
+[Começar pela Aula 1](aulas/aula1.qmd){.btn-read}
 :::
 
 ::: {.aviso}

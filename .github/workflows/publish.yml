@@ -68,8 +68,8 @@ jobs:
           d = json.load(open(p, encoding="utf-8"))
           n = len(d)
           d = [e for e in d if not (
-                  str(e.get("href", "")).startswith("gabarito") or
-                  str(e.get("objectID", "")).startswith("gabarito"))]
+                  str(e.get("href", "")).startswith("professores/gabarito") or
+                  str(e.get("objectID", "")).startswith("professores/gabarito"))]
           json.dump(d, open(p, "w", encoding="utf-8"), ensure_ascii=False)
           print(f"search.json: {n} -> {len(d)} entradas (removidas {n-len(d)} do gabarito)")
           PY
@@ -83,9 +83,9 @@ jobs:
             echo "::error::Secret GABARITO_PASSWORD não definido. Crie em Settings → Secrets and variables → Actions."
             exit 1
           fi
-          npx --yes staticrypt@3 gabarito.html --directory . --short
+          npx --yes staticrypt@3 professores/gabarito.html --directory . --short
           rm -f .staticrypt.json
-          echo "gabarito.html cifrado."
+          echo "professores/gabarito.html cifrado."
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

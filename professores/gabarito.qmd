@@ -1,8 +1,8 @@
 ---
 title: "Gabarito — Terapêutica Clínica - Módulo Saúde Mental"
 subtitle: "Respostas comentadas para o professor"
-bibliography: references/references.bib
-csl: references/csl_styles/vancouver.csl
+bibliography: ../references/references.bib
+csl: ../references/csl_styles/vancouver.csl
 nocite: |
   @dsm5tr, @icd11, @asam2020alcohol, @mdcalc_ciwa, @fda2004antidepressants, @horowitz2019tapering, @yatham2018canmat, @keepers2020apa, @mccutcheon2025integrate, @kane2016raise, @howes2017trrip, @meltzer2003intersept, @fountainhouse
 ---

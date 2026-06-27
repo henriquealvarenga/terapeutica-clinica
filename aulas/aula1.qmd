@@ -1,8 +1,8 @@
 ---
 title: "Aula 1 — Benzodiazepínicos"
 subtitle: "O resgate rápido · uso nas situações agudas"
-bibliography: references/references.bib
-csl: references/csl_styles/vancouver.csl
+bibliography: ../references/references.bib
+csl: ../references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -26,9 +26,9 @@ Três propriedades determinam qual BZD escolher e quando:
 ## Os três casos desta aula
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="casos/aula1-caso1-marina.qmd">Transtorno de pânico — Marina, 28 anos · <em>A crise no pronto-socorro</em></a></li>
-  <li><span class="num">02</span><a href="casos/aula1-caso2-antonio.qmd">Abstinência alcoólica — Seu Antônio, 54 anos · <em>Doze horas sem beber</em></a></li>
-  <li><span class="num">03</span><a href="casos/aula1-caso3-julia.qmd">Estresse agudo e insônia — Júlia, 35 anos · <em>A noite depois do acidente</em></a></li>
+  <li><span class="num">01</span><a href="../casos/aula1-caso1-marina.qmd">Transtorno de pânico — Marina, 28 anos · <em>A crise no pronto-socorro</em></a></li>
+  <li><span class="num">02</span><a href="../casos/aula1-caso2-antonio.qmd">Abstinência alcoólica — Seu Antônio, 54 anos · <em>Doze horas sem beber</em></a></li>
+  <li><span class="num">03</span><a href="../casos/aula1-caso3-julia.qmd">Estresse agudo e insônia — Júlia, 35 anos · <em>A noite depois do acidente</em></a></li>
 </ol>
 
 ## Reflexões
@@ -70,5 +70,5 @@ Para o diferencial do pânico e o manejo no PS, procure também as diretrizes br
 >
 > *(ii)* Marina perguntou: *"e se acontecer de novo no meio da rua?"*. Imagine que você é o médico. O que você diria a ela sobre o papel de carregar um comprimido "para a emergência" no bolso? 
 
-Cite ao menos uma das leituras de apoio. Indique quais ferramentas (IA, buscadores, bases científicas) você usou e *como* — veja a página [Como estudar com IA](como-estudar.qmd).
+Cite ao menos uma das leituras de apoio. Indique quais ferramentas (IA, buscadores, bases científicas) você usou e *como* — veja a página [Como estudar com IA](../como-estudar.qmd).
 :::

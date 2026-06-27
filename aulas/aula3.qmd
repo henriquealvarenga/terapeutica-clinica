@@ -1,8 +1,8 @@
 ---
 title: "Aula 3 — Medicalização excessiva"
 subtitle: "Quando o cuidado vira excesso · patologização e medicalização da vida"
-bibliography: references/references.bib
-csl: references/csl_styles/vancouver.csl
+bibliography: ../references/references.bib
+csl: ../references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -26,9 +26,9 @@ Diferente das Aulas 1 e 2, que ensinaram *quando e como prescrever*, esta aula p
 Os três casos percorrem três momentos da vida em que a medicalização aparece com força — o puerpério, a infância e a vida adulta - e pedem o mesmo exercício: enxergar a pessoa e o contexto por trás do diagnóstico, da receita e das escolhas que os acompanham.
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="casos/aula3-caso1-conceicao-polifarmacia.qmd">Polifarmácia e desprescrição — Conceição, 54 anos · <em>Oito caixas de remédio</em></a></li>
-  <li><span class="num">02</span><a href="casos/aula3-caso2-aline-puerperio.qmd">Psicose puerperal — Aline, 26 anos · <em>Treze dias depois do parto</em></a></li>
-  <li><span class="num">03</span><a href="casos/aula3-caso3-davi-infancia.qmd">Medicalização na infância — Davi, 11 anos · <em>Expulso da escola</em></a></li>
+  <li><span class="num">01</span><a href="../casos/aula3-caso1-conceicao-polifarmacia.qmd">Polifarmácia e desprescrição — Conceição, 54 anos · <em>Oito caixas de remédio</em></a></li>
+  <li><span class="num">02</span><a href="../casos/aula3-caso2-aline-puerperio.qmd">Psicose puerperal — Aline, 26 anos · <em>Treze dias depois do parto</em></a></li>
+  <li><span class="num">03</span><a href="../casos/aula3-caso3-davi-infancia.qmd">Medicalização na infância — Davi, 11 anos · <em>Expulso da escola</em></a></li>
 </ol>
 
 ## Reflexões
@@ -67,5 +67,5 @@ Procure também sobre **desprescrição em saúde mental**, **crises não epilé
 >
 > *(ii)* As Aulas 1 e 2 ensinaram quando e como prescrever. Esta aula pede o movimento inverso. Escreva uma reflexão sobre como reconhecer os limites da medicalização sem cair no extremo oposto de negligenciar quem realmente precisa de tratamento (lembre-se de Aline e Davi).
 
-Cite ao menos uma das leituras e indique como usou ferramentas de IA/busca. Veja a página [Como estudar com IA](como-estudar.qmd).
+Cite ao menos uma das leituras e indique como usou ferramentas de IA/busca. Veja a página [Como estudar com IA](../como-estudar.qmd).
 :::

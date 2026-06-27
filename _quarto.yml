@@ -1,34 +1,15 @@
 project:
   type: website
   output-dir: _site
-  # Lista explícita do que renderizar. Sem isso, Quarto pega todo .md
-  # do diretório, incluindo GUIA_PRATICO.md e RESUMO_COWORK.md (docs
-  # internos do professor, não páginas do site).
+  # Lista explícita do que renderizar (por pasta). Sem isso, o Quarto
+  # pegaria também README.md e outros arquivos que não são páginas.
   render:
     - index.qmd
-    - aula1.qmd
-    - aula2.qmd
-    - aula3.qmd
-    - aula3-teoria1-medicalizacao.qmd
-    - aula3-teoria2-contexto.qmd
-    - aula3-teoria3-evidencias.qmd
-    - aula3-teoria4-desprescrever.qmd
-    - aula3-teoria5-gestacao.qmd
-    - extra-bipolar.qmd
-    - extra-antipsicoticos.qmd
     - como-estudar.qmd
     - apendice.qmd
     - creditos.qmd
-    - professores.qmd
-    - professores-edicao.qmd
-    - edicao-1-conta.qmd
-    - edicao-2-editar.qmd
-    - edicao-3-pull-request.qmd
-    - edicao-4-depois.qmd
-    - edicao-conceito-fork.qmd
-    - edicao-conceito-pull-request.qmd
-    - edicao-glossario.qmd
-    - gabarito.qmd
+    - "aulas/*.qmd"
+    - "professores/*.qmd"
     - "casos/*.qmd"
 
 website:
@@ -43,17 +24,17 @@ website:
         text: Início
       - text: "Aulas"
         menu:
-          - href: aula1.qmd
+          - href: aulas/aula1.qmd
             text: "Aula 1 — Benzodiazepínicos"
-          - href: aula2.qmd
+          - href: aulas/aula2.qmd
             text: "Aula 2 — ISRS"
-          - href: aula3.qmd
+          - href: aulas/aula3.qmd
             text: "Aula 3 — Medicalização excessiva"
           - text: "---"
           - text: "Aulas extras"
-          - href: extra-bipolar.qmd
+          - href: aulas/extra-bipolar.qmd
             text: "Extra — Transtorno bipolar"
-          - href: extra-antipsicoticos.qmd
+          - href: aulas/extra-antipsicoticos.qmd
             text: "Extra — Antipsicóticos"
       - href: como-estudar.qmd
         text: "Como estudar"
@@ -64,9 +45,9 @@ website:
     right:
       - text: "Professores"
         menu:
-          - href: professores.qmd
+          - href: professores/professores.qmd
             text: "Área dos professores"
-          - href: professores-edicao.qmd
+          - href: professores/professores-edicao.qmd
             text: "Como editar o material"
   # 4 sidebars (uma por aula). Servem apenas como ÍNDICE de ordenação
   # para o Quarto gerar os botões Próximo/Anterior no rodapé. O sidebar
@@ -76,54 +57,54 @@ website:
     - id: aula1
       style: floating
       contents:
-        - aula1.qmd
+        - aulas/aula1.qmd
         - casos/aula1-caso1-marina.qmd
         - casos/aula1-caso2-antonio.qmd
         - casos/aula1-caso3-julia.qmd
     - id: aula2
       style: floating
       contents:
-        - aula2.qmd
+        - aulas/aula2.qmd
         - casos/aula2-caso1-roberto.qmd
         - casos/aula2-caso2-cleusa.qmd
         - casos/aula2-caso3-pedro.qmd
     - id: aula3
       style: floating
       contents:
-        - aula3.qmd
-        - aula3-teoria1-medicalizacao.qmd
-        - aula3-teoria2-contexto.qmd
-        - aula3-teoria3-evidencias.qmd
-        - aula3-teoria4-desprescrever.qmd
-        - aula3-teoria5-gestacao.qmd
+        - aulas/aula3.qmd
+        - aulas/aula3-teoria1-medicalizacao.qmd
+        - aulas/aula3-teoria2-contexto.qmd
+        - aulas/aula3-teoria3-evidencias.qmd
+        - aulas/aula3-teoria4-desprescrever.qmd
+        - aulas/aula3-teoria5-gestacao.qmd
         - casos/aula3-caso1-conceicao-polifarmacia.qmd
         - casos/aula3-caso2-aline-puerperio.qmd
         - casos/aula3-caso3-davi-infancia.qmd
     - id: extra-bipolar
       style: floating
       contents:
-        - extra-bipolar.qmd
+        - aulas/extra-bipolar.qmd
         - casos/extra-bipolar-caso1-lucas-mania.qmd
         - casos/extra-bipolar-caso2-lucas-depressao.qmd
         - casos/extra-bipolar-caso3-lucas-manutencao.qmd
     - id: extra-antipsicoticos
       style: floating
       contents:
-        - extra-antipsicoticos.qmd
+        - aulas/extra-antipsicoticos.qmd
         - casos/extra-antipsicoticos-caso1-daniel-primeiro.qmd
         - casos/extra-antipsicoticos-caso2-daniel-efeitos.qmd
         - casos/extra-antipsicoticos-caso3-daniel-clozapina.qmd
     - id: edicao
       style: floating
       contents:
-        - professores-edicao.qmd
-        - edicao-1-conta.qmd
-        - edicao-2-editar.qmd
-        - edicao-3-pull-request.qmd
-        - edicao-4-depois.qmd
-        - edicao-conceito-fork.qmd
-        - edicao-conceito-pull-request.qmd
-        - edicao-glossario.qmd
+        - professores/professores-edicao.qmd
+        - professores/edicao-1-conta.qmd
+        - professores/edicao-2-editar.qmd
+        - professores/edicao-3-pull-request.qmd
+        - professores/edicao-4-depois.qmd
+        - professores/edicao-conceito-fork.qmd
+        - professores/edicao-conceito-pull-request.qmd
+        - professores/edicao-glossario.qmd
   page-footer:
     left: "Terapêutica Clínica - Módulo Saúde Mental · UFSJ · Curso de Medicina"
     center: "[Créditos](/creditos.qmd) · [Como citar](/creditos.qmd#citacao-sugerida) · [GitHub](https://github.com/henriquealvarenga/terapeutica-clinica)"

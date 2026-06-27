@@ -1,8 +1,8 @@
 ---
 title: "Aula extra — Antipsicóticos"
 subtitle: "Esquizofrenia"
-bibliography: references/references.bib
-csl: references/csl_styles/vancouver.csl
+bibliography: ../references/references.bib
+csl: ../references/csl_styles/vancouver.csl
 ---
 
 ## Introdução
@@ -33,9 +33,9 @@ A hipótese dopaminérgica liga esses elementos: o excesso de dopamina em certas
 Como na aula extra sobre transtorno bipolar, os três casos acompanham o mesmo paciente em momentos diferentes de sua trajetória.
 
 <ol class="sumario">
-  <li><span class="num">01</span><a href="casos/extra-antipsicoticos-caso1-daniel-primeiro.qmd">Primeiro episódio psicótico — Daniel, 21 anos · <em>As vozes no quarto</em></a></li>
-  <li><span class="num">02</span><a href="casos/extra-antipsicoticos-caso2-daniel-efeitos.qmd">Efeitos adversos e adesão — Daniel, semanas depois · <em>Os efeitos que aparecem antes da melhora</em></a></li>
-  <li><span class="num">03</span><a href="casos/extra-antipsicoticos-caso3-daniel-clozapina.qmd">Esquizofrenia resistente e clozapina — Daniel, dois anos depois · <em>Quando nada funciona</em></a></li>
+  <li><span class="num">01</span><a href="../casos/extra-antipsicoticos-caso1-daniel-primeiro.qmd">Primeiro episódio psicótico — Daniel, 21 anos · <em>As vozes no quarto</em></a></li>
+  <li><span class="num">02</span><a href="../casos/extra-antipsicoticos-caso2-daniel-efeitos.qmd">Efeitos adversos e adesão — Daniel, semanas depois · <em>Os efeitos que aparecem antes da melhora</em></a></li>
+  <li><span class="num">03</span><a href="../casos/extra-antipsicoticos-caso3-daniel-clozapina.qmd">Esquizofrenia resistente e clozapina — Daniel, dois anos depois · <em>Quando nada funciona</em></a></li>
 </ol>
 
 
@@ -70,5 +70,5 @@ Procure também as diretrizes brasileiras (ABP) e um livro-texto de psicofarmaco
 >
 > *(ii)* A clozapina é, ao mesmo tempo, o antipsicótico mais eficaz e um dos mais exigentes do ponto de vista do monitoramento, e por isso costuma ser subutilizada. Discuta: por que medicamentos que exigem mais cuidado tendem a ser evitados, mesmo quando são os mais eficazes?
 
-Cite ao menos uma das diretrizes e indique como usou ferramentas de IA/busca — veja a página [Como estudar com IA](como-estudar.qmd).
+Cite ao menos uma das diretrizes e indique como usou ferramentas de IA/busca — veja a página [Como estudar com IA](../como-estudar.qmd).
 :::
