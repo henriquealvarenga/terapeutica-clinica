@@ -106,7 +106,9 @@ website:
         - professores/edicao-conceito-pull-request.qmd
         - professores/edicao-glossario.qmd
   page-footer:
-    left: "Terapêutica Clínica - Módulo Saúde Mental · UFSJ · Curso de Medicina"
+    left: |
+      Dr. Henrique Alvarenga da Silva · Médico Psiquiatra · CRM-MG 31.778 · RQE 8381<br>
+      [henriquealvarenga.com](https://henriquealvarenga.com)
     center: "[Créditos](/creditos.qmd) · [Como citar](/creditos.qmd#citacao-sugerida) · [GitHub](https://github.com/henriquealvarenga/terapeutica-clinica)"
     right: "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR) · Conteúdo educacional, não constitui orientação de prescrição."
 
@@ -116,6 +118,10 @@ format:
       - cosmo
       - theme-editorial.scss
     css: styles.css
+    canonical-url: true
+    include-in-header:
+      - file: _includes/autor.html
+      - file: _includes/rodape.html
     toc: true
     toc-title: "Nesta página"
     toc-depth: 3
