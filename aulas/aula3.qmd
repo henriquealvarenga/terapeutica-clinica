@@ -51,6 +51,8 @@ Cada item aponta uma das referências que embasam a aula; a lista completa e for
 
 Procure também sobre **desprescrição em saúde mental**, **crises não epilépticas psicogênicas (CNEP)** e **Projeto Terapêutico Singular (PTS)** no SUS.
 
+Para ir mais fundo, veja **[Leituras comentadas — Desprescrição de antidepressivos](aula3-leituras-desprescricao.qmd)**: os principais artigos do debate sobre retirada de antidepressivos, cada um com comentário breve e acesso por um clique, além do resumo em português de duas reportagens do *New York Times* (2026) que levaram a discussão ao grande público.
+
 ## Referências
 
 ::: {#refs}

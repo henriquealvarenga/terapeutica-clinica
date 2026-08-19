@@ -1,0 +1,127 @@
+---
+title: "Leituras comentadas — Desprescrição de antidepressivos"
+subtitle: "Da reportagem à evidência: o debate sobre retirada de antidepressivos"
+bibliography: ../references/references.bib
+csl: ../references/csl_styles/vancouver.csl
+---
+
+Em 2026, duas reportagens do *The New York Times* colocaram no centro do debate público uma pergunta que a psiquiatria demorou décadas para enfrentar: **como — e quando — parar um antidepressivo?** Esta página reúne as duas reportagens (com resumo em português, para quem não tem acesso ao jornal) e os principais artigos científicos por trás delas, organizados por tema e com um comentário breve sobre cada um.
+
+Cada item traz um link direto pelo DOI — um clique leva à página do artigo. Os números entre parênteses remetem à lista formatada em **[Referências](#referências)**, ao final. Os textos estão em inglês; se precisar, use um tradutor ou peça a uma IA um resumo guiado (veja [Como estudar com IA](../como-estudar.qmd)).
+
+::: {.callout-note title="Como ler esta lista"}
+Esta não é uma lista de leitura obrigatória: é um **mapa do debate**. Note que os autores se dividem em dois campos que chegam a conclusões diferentes a partir dos mesmos dados — um exercício raro e valioso de leitura crítica de evidências. Para a prova e os casos, o essencial está nas páginas de teoria da aula; venha até aqui quando quiser ir mais fundo ou escrever a reflexão da Parte B.
+:::
+
+## As duas reportagens do New York Times
+
+### "A Generation on Antidepressants Searches for the Exit"
+
+**Camille Bromley — The New York Times (Opinion), 7 de agosto de 2026** [@bromley2026nyt] · [Ler no NYT](https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html)
+
+**Resumo em português.** O ensaio acompanha Cameron LaBar, medicado com paroxetina aos 9 anos de idade (síndrome de Tourette, TOC e ansiedade) e que, mais de 25 anos depois, tenta sair dos psicotrópicos. A trajetória dele condensa os temas da nossa aula: a explicação do "desequilíbrio químico" que justificava manter o remédio indefinidamente; o embotamento afetivo que ele só reconheceu na vida adulta ("não sei o que é amar"); uma tentativa de parada interpretada como recaída — e que hoje ele entende como abstinência; a descoberta da **redução hiperbólica** por um vídeo do psiquiatra Mark Horowitz no YouTube, e não pelo seu médico.
+
+A autora situa o caso no quadro maior: o Prozac chegou em 1988, e hoje **um em cada seis adultos americanos** toma antidepressivo, com mediana de uso em torno de cinco anos e um quarto dos usuários acima de dez — sem que a medicina tenha estudado seriamente o uso de longo prazo e a retirada. Médicos recebem muito mais treinamento para iniciar do que para suspender; pacientes que sofrem na retirada migram para comunidades virtuais de pares (como o fórum *Surviving Antidepressants*), onde encontram acolhimento e método, mas também discursos que resvalam na antipsiquiatria. O texto descreve ainda a apropriação política do tema pelo movimento MAHA de Robert F. Kennedy Jr., secretário de saúde dos EUA. A conclusão da autora é o argumento mais interessante para o nosso curso: **retirar medicamentos com cuidado, em escala, exige mais sistema de saúde, não menos** — tempo, vínculo e acompanhamento, justamente o que falta na consulta típica.
+
+### "Top Psychiatrists Call for a Greater Focus on Ceasing Medication"
+
+**Ellen Barry — The New York Times, 1º de maio de 2026** [@barry2026nyt] · [Ler no NYT](https://www.nytimes.com/2026/05/01/science/psychiatry-kennedy-ssris-maha-antidepressants.html)
+
+**Resumo em português.** A reportagem cobre a publicação, pela força-tarefa da *American Society of Clinical Psychopharmacology* (ASCP), das **primeiras recomendações de consenso sobre desprescrição de psicotrópicos** — reunindo 45 psiquiatras liderados por Joseph Goldberg [@goldberg2026jama; @goldberg2026bjp]. O documento reconhece problemas estruturais que estudamos nesta aula: faltam ensaios clínicos sobre quando parar; prescrições não são revisadas regularmente; residentes aprendem a prescrever, não a desprescrever; pacientes ficam "estacionados" (*parked*) em medicamentos que já não são necessários nem eficazes. As recomendações são moderadas: reavaliar cada prescrição ao menos uma vez por ano, suspender o que não funciona, retirar antidepressivos na mania e antipsicóticos em transtornos de humor não psicóticos quando causam ganho de peso importante — mas admitem que alguns pacientes (transtorno bipolar tipo 1, três ou mais episódios depressivos) podem precisar de tratamento indefinido.
+
+A matéria registra as críticas dos dois lados: defensores dos pacientes, como Mark Horowitz e Adele Framer, consideraram as diretrizes tímidas e tardias — e contestaram a afirmação de que fármacos de meia-vida longa "se retiram sozinhos" (*auto-taper*) —, enquanto a psiquiatria institucional tenta **retomar a palavra "desprescrição"** dos críticos da área e do movimento MAHA ("nós desprescrevemos o tempo todo, só não falávamos disso", diz Anita Clayton, presidente da ASCP). A frase que resume o desafio clínico vem de uma psiquiatra que montou um ambulatório-piloto de desprescrição: *"é muito mais fácil adicionar um medicamento do que retirar um — é aí que entra a arte."*
+
+## Sintomas de retirada: quantos, quais, por quanto tempo
+
+O núcleo da controvérsia científica. Compare as conclusões de @davies2019, @henssler2024 e @kalfas2025 — e a crítica de @moncrieff2025reanalise — para ver como escolhas metodológicas (que estudos incluir, por quanto tempo os pacientes usaram o fármaco) mudam a resposta.
+
+- **Davies & Read (2019) — *Addictive Behaviors*.** A revisão que reacendeu o debate: estimou que cerca de metade dos pacientes apresenta sintomas de retirada, quase metade destes com sintomas graves, e questionou diretrizes que descreviam o fenômeno como "leve e autolimitado". Foi um dos gatilhos para a revisão das recomendações britânicas. [@davies2019] · [Acessar pelo DOI](https://doi.org/10.1016/j.addbeh.2018.08.027)
+
+- **Henssler e cols. (2024) — *Lancet Psychiatry*.** Meta-análise que descontou o efeito nocebo comparando com grupos placebo: cerca de 1 em cada 3 pacientes relata sintomas ao parar, mas só cerca de 1 em 6-7 seria atribuível ao fármaco em si, com quadros graves em torno de 3%. É a leitura "tranquilizadora" do problema. [@henssler2024] · [Acessar pelo DOI](https://doi.org/10.1016/S2215-0366(24)00133-0)
+
+- **Kalfas e cols. (2025) — *JAMA Psychiatry*.** Meta-análise restrita a ensaios randomizados: em média, cerca de um sintoma a mais que o placebo na primeira/segunda semana (tontura é o mais discriminativo), abaixo do limiar de significância clínica — concluindo que boa parte do que se relata seria nocebo. [@kalfas2025] · [Acessar pelo DOI](https://doi.org/10.1001/jamapsychiatry.2025.1362)
+
+- **Moncrieff e cols. (2025) — *Psychological Medicine*.** A resposta do outro campo: reanalisa a revisão anterior e argumenta que os ensaios incluídos envolvem uso de curta duração (semanas), e por isso subestimam sistematicamente a retirada em quem usa por anos — que é o paciente real da prática. [@moncrieff2025reanalise] · [Acessar pelo DOI](https://doi.org/10.1017/S0033291725100652)
+
+- **Zhang e cols. (2024) — *Molecular Psychiatry*.** Meta-análise de incidência com foco em **fatores de risco**: tipo de fármaco (meia-vida curta, como paroxetina e venlafaxina, pesa mais), maior tempo de uso e interrupção abrupta. Útil para identificar quem precisa de retirada mais cuidadosa. [@zhang2024] · [Acessar pelo DOI](https://doi.org/10.1038/s41380-024-02782-4)
+
+- **Fava e cols. (2015; 2018) — *Psychotherapy and Psychosomatics*.** As revisões clássicas sobre retirada de ISRS e de duais (IRSN), do grupo que propôs abandonar o eufemismo "síndrome de descontinuação" em favor de "síndrome de abstinência" — e que descreveu quadros pós-retirada persistentes. [@fava2015; @fava2018] · [ISRS](https://doi.org/10.1159/000370338) · [IRSN](https://doi.org/10.1159/000491524)
+
+- **Rennwald & Hengartner (2025) — *Epidemiology and Psychiatric Sciences*.** Revisão sistemática sobre a **síndrome de abstinência pós-aguda (PAWS)**: sintomas que persistem meses ou anos após a retirada. Evidência ainda escassa, mas o fenômeno relatado pelos pacientes ganha aqui tratamento formal. [@rennwald2025] · [Acessar pelo DOI](https://doi.org/10.1017/S204579602500023X)
+
+- **Horowitz e cols. (2023) — *CNS Drugs*.** Tentativa de estimar o risco individual de abstinência a partir dos dados publicados: o risco cresce com a duração do uso — semanas de uso pedem pouco cuidado; anos de uso pedem retirada lenta. Base racional para individualizar o desmame. [@horowitz2022risco] · [Acessar pelo DOI](https://doi.org/10.1007/s40263-022-00960-y)
+
+- **Sørensen e cols. (2022) — *Journal of Affective Disorders*.** Revisão de diretrizes clínicas de depressão: a maioria descrevia os sintomas de retirada de forma incompleta ou minimizada, em desacordo com a evidência disponível. Explica por que gerações de médicos aprenderam que "parar é simples". [@sorensen2022diretrizes] · [Acessar pelo DOI](https://doi.org/10.1016/j.jad.2022.08.011)
+
+## Redução hiperbólica e ocupação do transportador
+
+A base farmacológica do que estudamos na [Teoria 4](aula3-teoria4-desprescrever.qmd): a relação entre dose e ocupação do transportador de serotonina (SERT) não é linear, e por isso a retirada não deve ser linear.
+
+- **Horowitz & Taylor (2019) — *Lancet Psychiatry*.** O artigo seminal, já citado na teoria da aula: como a curva dose-ocupação do SERT é hiperbólica, reduções lineares de dose produzem quedas cada vez maiores de efeito no final — daí a proposta de reduzir em proporções (ex.: 10% da dose anterior), chegando a doses muito baixas antes de parar. [@horowitz2019tapering] · [Acessar pelo DOI](https://doi.org/10.1016/S2215-0366(19)30032-X)
+
+- **Sørensen e cols. (2022) — *Molecular Psychiatry*.** Revisão sistemática dos estudos de neuroimagem que confirma a relação hiperbólica entre dose e ocupação do SERT para os antidepressivos — o dado empírico por trás da proposta de desmame hiperbólico. [@sorensen2021sert] · [Acessar pelo DOI](https://doi.org/10.1038/s41380-021-01285-w)
+
+- **Shapiro (2018) — *Psychopharmacology*.** Nota curta e didática: mesmo doses "subterapêuticas" de ISRS ocupam fração considerável do SERT. É por isso que o salto de uma dose baixa para zero é, em termos de efeito no receptor, o maior degrau de todos. [@shapiro2018] · [Acessar pelo DOI](https://doi.org/10.1007/s00213-018-4995-4)
+
+- **van Os & Groot (2023) — *Therapeutic Advances in Psychopharmacology*.** Desfechos observacionais do desmame hiperbólico com *tapering strips* (fitas de doses decrescentes) na Holanda: a maioria dos pacientes — incluindo muitos com tentativas prévias fracassadas — conseguiu completar a retirada. Evidência ainda observacional, mas promissora. [@vanos2023] · [Acessar pelo DOI](https://doi.org/10.1177/20451253231171518)
+
+- **O'Neill e cols. (2026) — *Journal of Affective Disorders*.** Análise farmacocinética *in silico* de uma prática comum: tomar o comprimido em dias alternados para "desmamar". Para fármacos de meia-vida curta, isso produz oscilações plasmáticas equivalentes a mini-retiradas abruptas repetidas — ou seja, é uma má estratégia de desmame. [@oneill2026] · [Acessar pelo DOI](https://doi.org/10.1016/j.jad.2025.120084)
+
+## Parar ou manter? Ensaios de descontinuação e o problema da "recaída"
+
+- **Lewis e cols. (2021) — *New England Journal of Medicine* (ensaio ANTLER).** O grande ensaio randomizado na atenção primária britânica: em 52 semanas, recaída em 56% de quem descontinuou contra 39% de quem manteve. Duas leituras honestas: manter protege; e, ainda assim, quase metade de quem parou ficou bem sem o fármaco. Detalhe crítico: a retirada foi rápida (cerca de 2 meses) — parte das "recaídas" pode ter sido abstinência. [@lewis2021antler] · [Acessar pelo DOI](https://doi.org/10.1056/NEJMoa2106356)
+
+- **Van Leeuwen e cols. (2021) — *Cochrane*.** A revisão Cochrane sobre descontinuar vs. manter antidepressivos de uso prolongado: evidência de baixa certeza, quase todos os ensaios com retirada abrupta ou rápida e sem distinguir recaída de abstinência — ou seja, a pergunta mais importante da prática ainda não foi bem estudada. [@vanleeuwen2021] · [Acessar pelo DOI](https://doi.org/10.1002/14651858.CD013495.pub2)
+
+- **Zaccoletti e cols. (2026) — *Lancet Psychiatry*.** Revisão sistemática com meta-análise em rede comparando **estratégias** de desprescrição em depressão remitida — o tipo de estudo que faltava: não *se* parar, mas *como* parar. [@zaccoletti2026] · [Acessar pelo DOI](https://doi.org/10.1016/S2215-0366(25)00330-X)
+
+- **Kendrick e cols. (2024) — *JAMA Network Open* (ensaio REDUCE).** Ensaio randomizado por conglomerados: suporte estruturado por internet e telefone permitiu que mais pacientes de uso prolongado descontinuassem o antidepressivo **sem piora da depressão**. Mostra que o desmame é viável em escala quando há acompanhamento — o ponto central do ensaio de Bromley. [@kendrick2024reduce] · [Acessar pelo DOI](https://doi.org/10.1001/jamanetworkopen.2024.18383)
+
+## Desprescrição: conceito, consenso e prática
+
+- **Gupta & Cahill (2016) — *Psychiatric Services*.** O artigo que trouxe formalmente o conceito de **desprescrição** (nascido na geriatria) para a psiquiatria: retirar medicamentos também é ato terapêutico, com indicação, técnica e acompanhamento. Leitura curta e fundadora. [@gupta2016] · [Acessar pelo DOI](https://doi.org/10.1176/appi.ps.201500359)
+
+- **Goldberg e cols. (2026) — *JAMA Network Open* e *British Journal of Psychiatry*.** Os dois documentos da força-tarefa da ASCP noticiados por Ellen Barry: o consenso geral de recomendações e o detalhamento metodológico (Delphi) para transtornos do humor. São a primeira tentativa da psiquiatria institucional americana de normatizar a desprescrição. [@goldberg2026jama; @goldberg2026bjp] · [Consenso](https://doi.org/10.1001/jamanetworkopen.2026.0043) · [Delphi](https://doi.org/10.1192/bjp.2026.10580)
+
+- **Brisnik e cols. (2024a; 2024b) — *BMC Medicine*.** Um par instrutivo: o primeiro artigo desenvolve **indicadores** de prescrição de alto risco e sobreprescrição de antidepressivos (método RAND/UCLA); o segundo aplica esses indicadores a bases de dados escocesas e mostra que uma fração substancial dos usuários de longo prazo tem indicação potencial de desprescrição. [@brisnik2024indicadores; @brisnik2024escocia] · [Indicadores](https://doi.org/10.1186/s12916-024-03397-w) · [Aplicação](https://doi.org/10.1186/s12916-024-03584-9)
+
+- **Dewar-Haggart e cols. (2025) — *PLOS ONE*.** Por que é tão difícil parar? Estudo longitudinal na atenção primária sobre as **intenções** dos pacientes: a maioria pretende continuar indefinidamente, e as crenças sobre a depressão e o medicamento predizem essa intenção. Desprescrever começa por conversar sobre crenças. [@dewarhaggart2025] · [Acessar pelo DOI](https://doi.org/10.1371/journal.pone.0299676)
+
+## A teoria serotoninérgica e o "desequilíbrio químico"
+
+O pano de fundo do ensaio de Bromley: a narrativa que sustentou décadas de uso contínuo. Compare @moncrieff2022serotonin com a resposta de @jauhar2023 — de novo, dois campos lendo a mesma evidência.
+
+- **Moncrieff e cols. (2022/2023) — *Molecular Psychiatry*.** A revisão guarda-chuva, já citada na teoria da aula: não há evidência consistente de que a depressão seja causada por baixa de serotonina. Não conclui que antidepressivos não funcionem — conclui que o *modelo explicativo* popular não se sustenta. [@moncrieff2022serotonin] · [Acessar pelo DOI](https://doi.org/10.1038/s41380-022-01661-0)
+
+- **Jauhar e cols. (2023) — *Molecular Psychiatry*.** A resposta crítica de peso ("um guarda-chuva furado tem pouco valor"): aponta limitações metodológicas da revisão e defende que o sistema serotoninérgico está, sim, implicado na depressão — ainda que ninguém defenda mais o modelo simplista do "desequilíbrio". [@jauhar2023] · [Acessar pelo DOI](https://doi.org/10.1038/s41380-023-02095-y)
+
+- **Ang, Horowitz & Moncrieff (2022) — *SSM - Mental Health*.** O "desequilíbrio químico" foi mesmo só marketing, uma "lenda urbana" que a academia nunca endossou? Este estudo examina a literatura científica e mostra que a hipótese circulou também em textos acadêmicos — a profissão tem sua parcela de responsabilidade. [@ang2022] · [Acessar pelo DOI](https://doi.org/10.1016/j.ssmmh.2022.100098)
+
+- **Lacasse & Leo (2005) — *PLoS Medicine*.** O clássico sobre o descompasso entre a propaganda dos ISRS ("corrige o desequilíbrio químico") e o que a literatura científica de fato sustentava. Documento histórico da construção comercial da narrativa. [@lacasse2005] · [Acessar pelo DOI](https://doi.org/10.1371/journal.pmed.0020392)
+
+- **Schroder e cols. (2020) — *Journal of Affective Disorders*.** Por que a narrativa importa: entre pacientes psiquiátricos internados, acreditar que a própria depressão é um "desequilíbrio químico" associou-se a mais pessimismo sobre o prognóstico e a preferência por medicação em vez de psicoterapia. A explicação que damos ao paciente molda o tratamento que ele aceita. [@schroder2020] · [Acessar pelo DOI](https://doi.org/10.1016/j.jad.2020.07.061)
+
+## Embotamento afetivo e disfunção sexual
+
+- **Goodwin e cols. (2017) — *Journal of Affective Disorders*.** Inquérito com pacientes deprimidos em tratamento: cerca de metade relata **embotamento afetivo** — sentir menos as emoções, boas e ruins. É a queixa central do personagem da reportagem de Bromley. [@goodwin2017] · [Acessar pelo DOI](https://doi.org/10.1016/j.jad.2017.05.048)
+
+- **Peters e cols. (2022) — *Journal of Affective Disorders*.** Análise de três ensaios randomizados comparando embotamento com bupropiona vs. ISRS: ajuda a separar o que é efeito do fármaco do que é sintoma residual da própria depressão — distinção clínica difícil e importante. [@peters2022] · [Acessar pelo DOI](https://doi.org/10.1016/j.jad.2022.08.066)
+
+- **Healy & Mangin (2024) — *Epidemiology and Psychiatric Sciences*.** Sobre a **disfunção sexual pós-ISRS (PSSD)** — persistente após a retirada: por que é tão difícil medir sua incidência (ausência de codificação, constrangimento, atribuição à depressão) e o que isso diz sobre farmacovigilância de danos raros e tardios. [@healy2024] · [Acessar pelo DOI](https://doi.org/10.1017/S2045796024000441)
+
+## A voz dos pacientes e as comunidades de pares
+
+Quando a medicina não tem resposta, os pacientes se organizam — tema comum às duas reportagens.
+
+- **Framer (2021) — *Therapeutic Advances in Psychopharmacology*.** A fundadora do fórum *Surviving Antidepressants* (citada por Ellen Barry) sistematiza o que aprendeu ajudando milhares de pessoas a retirar psicotrópicos. Um documento raro: conhecimento leigo acumulado, publicado em periódico científico. [@framer2021] · [Acessar pelo DOI](https://doi.org/10.1177/2045125321991274)
+
+- **Hengartner e cols. (2020) — *Therapeutic Advances in Psychopharmacology*.** Análise quantitativa de centenas de relatos de **abstinência prolongada** postados nesse mesmo fórum: perfil dos sintomas, duração e fármacos envolvidos. Evidência de baixa hierarquia, mas descreve exatamente o que os ensaios curtos não capturam. [@hengartner2020forum] · [Acessar pelo DOI](https://doi.org/10.1177/2045125320980573)
+
+- **Guy e cols. (2020) — *Therapeutic Advances in Psychopharmacology*.** A "voz do paciente": relatos de pessoas cujos sintomas de retirada foram desconsiderados, ou rotulados como recaída, ou como doença nova — com nova prescrição em cima. O erro diagnóstico central desta aula, contado por quem o sofreu. [@guy2020vozpaciente] · [Acessar pelo DOI](https://doi.org/10.1177/2045125320967183)
+
+- **Mahmood e cols. (2024) — *Health Expectations*.** Estudo qualitativo com entrevistas em profundidade sobre a experiência vivida da retirada de ISRS: o que os pacientes sentem, como interpretam, o que esperavam dos médicos e não encontraram. Bom contraponto metodológico às meta-análises do início da lista. [@mahmood2024] · [Acessar pelo DOI](https://doi.org/10.1111/hex.13966)
+
+## Referências
+
+::: {#refs}
+:::
